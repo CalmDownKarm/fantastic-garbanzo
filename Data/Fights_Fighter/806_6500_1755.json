@@ -1,0 +1,882 @@
+{
+    "Fighter": {
+        "FighterID": "1755", 
+        "Name": "Alex Caceres"
+    }, 
+    "Fighter_stats": {
+        "Round1": {
+            "Grappling": {
+                "Reversals": {
+                    "Landed": "1"
+                }, 
+                "Standups": {
+                    "Landed": "3"
+                }, 
+                "Submissions": {
+                    "Attempts": "0"
+                }, 
+                "Takedowns": {
+                    "Attempts": "3", 
+                    "Landed": "3"
+                }
+            }, 
+            "Strikes": {
+                "Body Significant Strikes": {
+                    "Attempts": "40", 
+                    "Landed": "21"
+                }, 
+                "Body Total Strikes": {
+                    "Attempts": "44", 
+                    "Landed": "25"
+                }, 
+                "Clinch Body Strikes": {
+                    "Attempts": "7", 
+                    "Landed": "5"
+                }, 
+                "Clinch Head Strikes": {
+                    "Attempts": "9", 
+                    "Landed": "6"
+                }, 
+                "Clinch Leg Strikes": {
+                    "Attempts": "1", 
+                    "Landed": "1"
+                }, 
+                "Clinch Significant Kicks": {
+                    "Attempts": "3", 
+                    "Landed": "1"
+                }, 
+                "Clinch Significant Punches": {
+                    "Attempts": "2", 
+                    "Landed": "0"
+                }, 
+                "Clinch Significant Strikes": {
+                    "Attempts": "17", 
+                    "Landed": "12"
+                }, 
+                "Clinch Total Strikes": {
+                    "Attempts": "20", 
+                    "Landed": "15"
+                }, 
+                "Distance Body Kicks": {
+                    "Attempts": "8", 
+                    "Landed": "7"
+                }, 
+                "Distance Body Punches": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Distance Body Strikes": {
+                    "Attempts": "32", 
+                    "Landed": "15"
+                }, 
+                "Distance Head Kicks": {
+                    "Attempts": "5", 
+                    "Landed": "0"
+                }, 
+                "Distance Head Punches": {
+                    "Attempts": "42", 
+                    "Landed": "12"
+                }, 
+                "Distance Head Strikes": {
+                    "Attempts": "124", 
+                    "Landed": "34"
+                }, 
+                "Distance Leg Kicks": {
+                    "Attempts": "5", 
+                    "Landed": "2"
+                }, 
+                "Distance Leg Strikes": {
+                    "Attempts": "24", 
+                    "Landed": "16"
+                }, 
+                "Distance Strikes": {
+                    "Attempts": "180", 
+                    "Landed": "65"
+                }, 
+                "Ground Body Strikes": {
+                    "Attempts": "1", 
+                    "Landed": "1"
+                }, 
+                "Ground Head Strikes": {
+                    "Attempts": "10", 
+                    "Landed": "6"
+                }, 
+                "Ground Leg Strikes": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Ground Significant Kicks": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Ground Significant Punches": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Ground Significant Strikes": {
+                    "Attempts": "11", 
+                    "Landed": "7"
+                }, 
+                "Ground Total Strikes": {
+                    "Attempts": "26", 
+                    "Landed": "21"
+                }, 
+                "Head Significant Strikes": {
+                    "Attempts": "143", 
+                    "Landed": "46"
+                }, 
+                "Head Total Strikes": {
+                    "Attempts": "157", 
+                    "Landed": "59"
+                }, 
+                "Kicks": {
+                    "Attempts": "28", 
+                    "Landed": "14"
+                }, 
+                "Knock Down": {
+                    "Landed": "1"
+                }, 
+                "Leg Total Strikes": {
+                    "Attempts": "7", 
+                    "Landed": "4"
+                }, 
+                "Legs Significant Strikes": {
+                    "Attempts": "25", 
+                    "Landed": "17"
+                }, 
+                "Legs Total Strikes": {
+                    "Attempts": "18", 
+                    "Landed": "13"
+                }, 
+                "Punches": {
+                    "Attempts": "50", 
+                    "Landed": "17"
+                }, 
+                "Significant Strikes": {
+                    "Attempts": "208", 
+                    "Landed": "84"
+                }, 
+                "Total Strikes": {
+                    "Attempts": "226", 
+                    "Landed": "101"
+                }
+            }, 
+            "TIP": {
+                "Back Control Time": "0.0", 
+                "Clinch Time": "242.0", 
+                "Control Time": "111.0", 
+                "Distance Time": "1165.0", 
+                "Ground Control Time": "47.0", 
+                "Ground Time": "418.0", 
+                "Guard Control Time": "0.0", 
+                "Half Guard Control Time": "25.0", 
+                "Misc. Ground Control Time": "4.0", 
+                "Mount Control Time": "11.0", 
+                "Neutral Time": "1214.0", 
+                "Side Control Time": "7.0", 
+                "Standing Time": "1407.0"
+            }
+        }, 
+        "Round2": {
+            "Grappling": {
+                "Reversals": {
+                    "Landed": "0"
+                }, 
+                "Standups": {
+                    "Landed": "3"
+                }, 
+                "Submissions": {
+                    "Attempts": "0"
+                }, 
+                "Takedowns": {
+                    "Attempts": "3", 
+                    "Landed": "2"
+                }
+            }, 
+            "Strikes": {
+                "Body Significant Strikes": {
+                    "Attempts": "40", 
+                    "Landed": "30"
+                }, 
+                "Body Total Strikes": {
+                    "Attempts": "41", 
+                    "Landed": "31"
+                }, 
+                "Clinch Body Strikes": {
+                    "Attempts": "7", 
+                    "Landed": "6"
+                }, 
+                "Clinch Head Strikes": {
+                    "Attempts": "13", 
+                    "Landed": "6"
+                }, 
+                "Clinch Leg Strikes": {
+                    "Attempts": "4", 
+                    "Landed": "4"
+                }, 
+                "Clinch Significant Kicks": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Clinch Significant Punches": {
+                    "Attempts": "2", 
+                    "Landed": "1"
+                }, 
+                "Clinch Significant Strikes": {
+                    "Attempts": "24", 
+                    "Landed": "16"
+                }, 
+                "Clinch Total Strikes": {
+                    "Attempts": "36", 
+                    "Landed": "25"
+                }, 
+                "Distance Body Kicks": {
+                    "Attempts": "8", 
+                    "Landed": "7"
+                }, 
+                "Distance Body Punches": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Distance Body Strikes": {
+                    "Attempts": "33", 
+                    "Landed": "24"
+                }, 
+                "Distance Head Kicks": {
+                    "Attempts": "5", 
+                    "Landed": "1"
+                }, 
+                "Distance Head Punches": {
+                    "Attempts": "48", 
+                    "Landed": "15"
+                }, 
+                "Distance Head Strikes": {
+                    "Attempts": "145", 
+                    "Landed": "47"
+                }, 
+                "Distance Leg Kicks": {
+                    "Attempts": "3", 
+                    "Landed": "2"
+                }, 
+                "Distance Leg Strikes": {
+                    "Attempts": "20", 
+                    "Landed": "16"
+                }, 
+                "Distance Strikes": {
+                    "Attempts": "198", 
+                    "Landed": "87"
+                }, 
+                "Ground Body Strikes": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Ground Head Strikes": {
+                    "Attempts": "2", 
+                    "Landed": "1"
+                }, 
+                "Ground Leg Strikes": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Ground Significant Kicks": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Ground Significant Punches": {
+                    "Attempts": "3", 
+                    "Landed": "2"
+                }, 
+                "Ground Significant Strikes": {
+                    "Attempts": "2", 
+                    "Landed": "1"
+                }, 
+                "Ground Total Strikes": {
+                    "Attempts": "8", 
+                    "Landed": "7"
+                }, 
+                "Head Significant Strikes": {
+                    "Attempts": "160", 
+                    "Landed": "54"
+                }, 
+                "Head Total Strikes": {
+                    "Attempts": "177", 
+                    "Landed": "68"
+                }, 
+                "Kicks": {
+                    "Attempts": "21", 
+                    "Landed": "14"
+                }, 
+                "Knock Down": {
+                    "Landed": "1"
+                }, 
+                "Leg Total Strikes": {
+                    "Attempts": "2", 
+                    "Landed": "0"
+                }, 
+                "Legs Significant Strikes": {
+                    "Attempts": "24", 
+                    "Landed": "20"
+                }, 
+                "Legs Total Strikes": {
+                    "Attempts": "22", 
+                    "Landed": "20"
+                }, 
+                "Punches": {
+                    "Attempts": "56", 
+                    "Landed": "21"
+                }, 
+                "Significant Strikes": {
+                    "Attempts": "224", 
+                    "Landed": "104"
+                }, 
+                "Total Strikes": {
+                    "Attempts": "242", 
+                    "Landed": "119"
+                }
+            }, 
+            "TIP": {
+                "Back Control Time": "0.0", 
+                "Clinch Time": "345.0", 
+                "Control Time": "125.0", 
+                "Distance Time": "1190.0", 
+                "Ground Control Time": "33.0", 
+                "Ground Time": "267.0", 
+                "Guard Control Time": "0.0", 
+                "Half Guard Control Time": "0.0", 
+                "Misc. Ground Control Time": "32.0", 
+                "Mount Control Time": "1.0", 
+                "Neutral Time": "1233.0", 
+                "Side Control Time": "0.0", 
+                "Standing Time": "1535.0"
+            }
+        }, 
+        "Round3": {
+            "Grappling": {
+                "Reversals": {
+                    "Landed": "0"
+                }, 
+                "Standups": {
+                    "Landed": "2"
+                }, 
+                "Submissions": {
+                    "Attempts": "1"
+                }, 
+                "Takedowns": {
+                    "Attempts": "3", 
+                    "Landed": "2"
+                }
+            }, 
+            "Strikes": {
+                "Body Significant Strikes": {
+                    "Attempts": "35", 
+                    "Landed": "19"
+                }, 
+                "Body Total Strikes": {
+                    "Attempts": "36", 
+                    "Landed": "20"
+                }, 
+                "Clinch Body Strikes": {
+                    "Attempts": "7", 
+                    "Landed": "5"
+                }, 
+                "Clinch Head Strikes": {
+                    "Attempts": "7", 
+                    "Landed": "5"
+                }, 
+                "Clinch Leg Strikes": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Clinch Significant Kicks": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Clinch Significant Punches": {
+                    "Attempts": "2", 
+                    "Landed": "0"
+                }, 
+                "Clinch Significant Strikes": {
+                    "Attempts": "14", 
+                    "Landed": "10"
+                }, 
+                "Clinch Total Strikes": {
+                    "Attempts": "22", 
+                    "Landed": "17"
+                }, 
+                "Distance Body Kicks": {
+                    "Attempts": "8", 
+                    "Landed": "6"
+                }, 
+                "Distance Body Punches": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Distance Body Strikes": {
+                    "Attempts": "28", 
+                    "Landed": "14"
+                }, 
+                "Distance Head Kicks": {
+                    "Attempts": "2", 
+                    "Landed": "0"
+                }, 
+                "Distance Head Punches": {
+                    "Attempts": "46", 
+                    "Landed": "21"
+                }, 
+                "Distance Head Strikes": {
+                    "Attempts": "183", 
+                    "Landed": "64"
+                }, 
+                "Distance Leg Kicks": {
+                    "Attempts": "5", 
+                    "Landed": "3"
+                }, 
+                "Distance Leg Strikes": {
+                    "Attempts": "13", 
+                    "Landed": "10"
+                }, 
+                "Distance Strikes": {
+                    "Attempts": "224", 
+                    "Landed": "88"
+                }, 
+                "Ground Body Strikes": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Ground Head Strikes": {
+                    "Attempts": "11", 
+                    "Landed": "8"
+                }, 
+                "Ground Leg Strikes": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Ground Significant Kicks": {
+                    "Attempts": "1", 
+                    "Landed": "1"
+                }, 
+                "Ground Significant Punches": {
+                    "Attempts": "4", 
+                    "Landed": "3"
+                }, 
+                "Ground Significant Strikes": {
+                    "Attempts": "11", 
+                    "Landed": "8"
+                }, 
+                "Ground Total Strikes": {
+                    "Attempts": "22", 
+                    "Landed": "15"
+                }, 
+                "Head Significant Strikes": {
+                    "Attempts": "201", 
+                    "Landed": "77"
+                }, 
+                "Head Total Strikes": {
+                    "Attempts": "219", 
+                    "Landed": "90"
+                }, 
+                "Kicks": {
+                    "Attempts": "16", 
+                    "Landed": "10"
+                }, 
+                "Knock Down": {
+                    "Landed": "0"
+                }, 
+                "Leg Total Strikes": {
+                    "Attempts": "2", 
+                    "Landed": "2"
+                }, 
+                "Legs Significant Strikes": {
+                    "Attempts": "13", 
+                    "Landed": "10"
+                }, 
+                "Legs Total Strikes": {
+                    "Attempts": "11", 
+                    "Landed": "8"
+                }, 
+                "Punches": {
+                    "Attempts": "56", 
+                    "Landed": "28"
+                }, 
+                "Significant Strikes": {
+                    "Attempts": "249", 
+                    "Landed": "106"
+                }, 
+                "Total Strikes": {
+                    "Attempts": "268", 
+                    "Landed": "120"
+                }
+            }, 
+            "TIP": {
+                "Back Control Time": "2.0", 
+                "Clinch Time": "129.0", 
+                "Control Time": "203.0", 
+                "Distance Time": "1155.0", 
+                "Ground Control Time": "129.0", 
+                "Ground Time": "264.0", 
+                "Guard Control Time": "18.0", 
+                "Half Guard Control Time": "8.0", 
+                "Misc. Ground Control Time": "44.0", 
+                "Mount Control Time": "57.0", 
+                "Neutral Time": "1204.0", 
+                "Side Control Time": "0.0", 
+                "Standing Time": "1284.0"
+            }
+        }, 
+        "Round4": {
+            "Grappling": {
+                "Reversals": {
+                    "Landed": "0"
+                }, 
+                "Standups": {
+                    "Landed": "0"
+                }, 
+                "Submissions": {
+                    "Attempts": "0"
+                }, 
+                "Takedowns": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }
+            }, 
+            "Strikes": {
+                "Body Significant Strikes": {
+                    "Attempts": "3", 
+                    "Landed": "2"
+                }, 
+                "Body Total Strikes": {
+                    "Attempts": "3", 
+                    "Landed": "2"
+                }, 
+                "Clinch Body Strikes": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Clinch Head Strikes": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Clinch Leg Strikes": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Clinch Significant Kicks": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Clinch Significant Punches": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Clinch Significant Strikes": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Clinch Total Strikes": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Distance Body Kicks": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Distance Body Punches": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Distance Body Strikes": {
+                    "Attempts": "3", 
+                    "Landed": "2"
+                }, 
+                "Distance Head Kicks": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Distance Head Punches": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Distance Head Strikes": {
+                    "Attempts": "49", 
+                    "Landed": "12"
+                }, 
+                "Distance Leg Kicks": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Distance Leg Strikes": {
+                    "Attempts": "1", 
+                    "Landed": "0"
+                }, 
+                "Distance Strikes": {
+                    "Attempts": "53", 
+                    "Landed": "14"
+                }, 
+                "Ground Body Strikes": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Ground Head Strikes": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Ground Leg Strikes": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Ground Significant Kicks": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Ground Significant Punches": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Ground Significant Strikes": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Ground Total Strikes": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Head Significant Strikes": {
+                    "Attempts": "49", 
+                    "Landed": "12"
+                }, 
+                "Head Total Strikes": {
+                    "Attempts": "49", 
+                    "Landed": "12"
+                }, 
+                "Kicks": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Knock Down": {
+                    "Landed": "0"
+                }, 
+                "Leg Total Strikes": {
+                    "Attempts": "", 
+                    "Landed": ""
+                }, 
+                "Legs Significant Strikes": {
+                    "Attempts": "1", 
+                    "Landed": "0"
+                }, 
+                "Legs Total Strikes": {
+                    "Attempts": "1", 
+                    "Landed": "0"
+                }, 
+                "Punches": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Significant Strikes": {
+                    "Attempts": "53", 
+                    "Landed": "14"
+                }, 
+                "Total Strikes": {
+                    "Attempts": "53", 
+                    "Landed": "14"
+                }
+            }, 
+            "TIP": {
+                "Back Control Time": "0.0", 
+                "Clinch Time": "3.0", 
+                "Control Time": "0.0", 
+                "Distance Time": "298.0", 
+                "Ground Control Time": "0.0", 
+                "Ground Time": "0.0", 
+                "Guard Control Time": "0.0", 
+                "Half Guard Control Time": "0.0", 
+                "Misc. Ground Control Time": "0.0", 
+                "Mount Control Time": "0.0", 
+                "Neutral Time": "301.0", 
+                "Side Control Time": "0.0", 
+                "Standing Time": "301.0"
+            }
+        }, 
+        "Round5": {
+            "Grappling": {
+                "Reversals": {
+                    "Landed": "0"
+                }, 
+                "Standups": {
+                    "Landed": "1"
+                }, 
+                "Submissions": {
+                    "Attempts": "0"
+                }, 
+                "Takedowns": {
+                    "Attempts": "1", 
+                    "Landed": "1"
+                }
+            }, 
+            "Strikes": {
+                "Body Significant Strikes": {
+                    "Attempts": "6", 
+                    "Landed": "5"
+                }, 
+                "Body Total Strikes": {
+                    "Attempts": "7", 
+                    "Landed": "6"
+                }, 
+                "Clinch Body Strikes": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Clinch Head Strikes": {
+                    "Attempts": "3", 
+                    "Landed": "2"
+                }, 
+                "Clinch Leg Strikes": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Clinch Significant Kicks": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Clinch Significant Punches": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Clinch Significant Strikes": {
+                    "Attempts": "3", 
+                    "Landed": "2"
+                }, 
+                "Clinch Total Strikes": {
+                    "Attempts": "4", 
+                    "Landed": "3"
+                }, 
+                "Distance Body Kicks": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Distance Body Punches": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Distance Body Strikes": {
+                    "Attempts": "6", 
+                    "Landed": "5"
+                }, 
+                "Distance Head Kicks": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Distance Head Punches": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Distance Head Strikes": {
+                    "Attempts": "43", 
+                    "Landed": "14"
+                }, 
+                "Distance Leg Kicks": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Distance Leg Strikes": {
+                    "Attempts": "1", 
+                    "Landed": "1"
+                }, 
+                "Distance Strikes": {
+                    "Attempts": "50", 
+                    "Landed": "20"
+                }, 
+                "Ground Body Strikes": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Ground Head Strikes": {
+                    "Attempts": "1", 
+                    "Landed": "0"
+                }, 
+                "Ground Leg Strikes": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Ground Significant Kicks": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Ground Significant Punches": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Ground Significant Strikes": {
+                    "Attempts": "1", 
+                    "Landed": "0"
+                }, 
+                "Ground Total Strikes": {
+                    "Attempts": "1", 
+                    "Landed": "0"
+                }, 
+                "Head Significant Strikes": {
+                    "Attempts": "47", 
+                    "Landed": "16"
+                }, 
+                "Head Total Strikes": {
+                    "Attempts": "47", 
+                    "Landed": "16"
+                }, 
+                "Kicks": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Knock Down": {
+                    "Landed": "0"
+                }, 
+                "Leg Total Strikes": {
+                    "Attempts": "", 
+                    "Landed": ""
+                }, 
+                "Legs Significant Strikes": {
+                    "Attempts": "1", 
+                    "Landed": "1"
+                }, 
+                "Legs Total Strikes": {
+                    "Attempts": "1", 
+                    "Landed": "1"
+                }, 
+                "Punches": {
+                    "Attempts": "0", 
+                    "Landed": "0"
+                }, 
+                "Significant Strikes": {
+                    "Attempts": "54", 
+                    "Landed": "22"
+                }, 
+                "Total Strikes": {
+                    "Attempts": "55", 
+                    "Landed": "23"
+                }
+            }, 
+            "TIP": {
+                "Back Control Time": "0.0", 
+                "Clinch Time": "31.0", 
+                "Control Time": "34.0", 
+                "Distance Time": "250.0", 
+                "Ground Control Time": "15.0", 
+                "Ground Time": "23.0", 
+                "Guard Control Time": "0.0", 
+                "Half Guard Control Time": "9.0", 
+                "Misc. Ground Control Time": "0.0", 
+                "Mount Control Time": "6.0", 
+                "Neutral Time": "262.0", 
+                "Side Control Time": "0.0", 
+                "Standing Time": "281.0"
+            }
+        }
+    }, 
+    "Record": [
+        1, 
+        0, 
+        0, 
+        0, 
+        1, 
+        1, 
+        0
+    ]
+}
