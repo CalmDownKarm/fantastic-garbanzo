@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Alex Nicholson", 
+    "weight": "185", 
+    "hometown": "Apopka, Florida USA", 
+    "age": "26", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 116, 
+        "attempted": 264, 
+        "clinch": 5, 
+        "ground": 3, 
+        "standing": 108
+    }, 
+    "height": "6' 4\"", 
+    "record": "7-3-0", 
+    "college": "", 
+    "location": "Orlando, Florida USA", 
+    "height_cm": "193", 
+    "fullname": "Alex Nicholson", 
+    "summary": [
+        "Fighting"
+    ], 
+    "nickname": "The Spartan", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

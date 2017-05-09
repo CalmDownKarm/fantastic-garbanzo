@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Will Chope", 
+    "weight": "145", 
+    "hometown": "Sacramento, CA USA", 
+    "age": "26", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 33, 
+        "attempted": 121, 
+        "clinch": 5, 
+        "ground": null, 
+        "standing": 28
+    }, 
+    "height": "6' 4\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Maha Sarakham Thailand", 
+    "height_cm": "193", 
+    "fullname": "Will Chope", 
+    "summary": [
+        "Striking", 
+        "long reach"
+    ], 
+    "nickname": "The Kill", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 5, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

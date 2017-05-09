@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Jussier Formiga", 
+    "weight": "125", 
+    "hometown": "Rio Grande do Norte Brazil", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "56", 
+    "strikes": {
+        "successful": 129, 
+        "attempted": 369, 
+        "clinch": 26, 
+        "ground": 15, 
+        "standing": 88
+    }, 
+    "height": "5' 5\"", 
+    "record": "19-5-0", 
+    "college": "", 
+    "location": "Natal Brazil", 
+    "height_cm": "165", 
+    "fullname": "Jussier Formiga", 
+    "summary": [
+        "Jiu-jitsu"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 12, 
+        "attempted": 35, 
+        "submissions": 3, 
+        "sweeps": 0, 
+        "passes": 23
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Jeremy Stephens", 
+    "weight": "145", 
+    "hometown": "Des Moines, Iowa United States", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 841, 
+        "attempted": 1989, 
+        "clinch": 100, 
+        "ground": 169, 
+        "standing": 572
+    }, 
+    "height": "5' 9\"", 
+    "record": "25-13-0", 
+    "college": "", 
+    "location": "San Diego, California United States", 
+    "height_cm": "175", 
+    "fullname": "Jeremy Stephens", 
+    "summary": [
+        "Heavy hands", 
+        "heart", 
+        "never gives up"
+    ], 
+    "nickname": "Lil' Heathen", 
+    "takedowns": {
+        "successful": 27, 
+        "attempted": 73, 
+        "submissions": 10, 
+        "sweeps": 7, 
+        "passes": 8
+    }
+}

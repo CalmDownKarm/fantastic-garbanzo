@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Assuerio Silva", 
+    "weight": "240", 
+    "hometown": "Mossoro, RN Brazil", 
+    "age": "42", 
+    "fights": [], 
+    "weight_kg": "109", 
+    "strikes": {
+        "successful": 58, 
+        "attempted": 120, 
+        "clinch": 6, 
+        "ground": 3, 
+        "standing": 49
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "185", 
+    "fullname": "Assuerio Silva", 
+    "summary": [
+        "good striker", 
+        "skilled on the ground"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 7, 
+        "attempted": 18, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 5
+    }
+}

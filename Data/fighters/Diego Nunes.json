@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Diego Nunes", 
+    "weight": "145", 
+    "hometown": "Caxias do Sul, Rio Grande so Sul Brazil", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 448, 
+        "attempted": 1027, 
+        "clinch": 116, 
+        "ground": 58, 
+        "standing": 274
+    }, 
+    "height": "5' 6\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Los Angeles, California USA", 
+    "height_cm": "167", 
+    "fullname": "Diego \"The Gun\" Nunes", 
+    "summary": [
+        "Great standup"
+    ], 
+    "nickname": "The Gun", 
+    "takedowns": {
+        "successful": 13, 
+        "attempted": 29, 
+        "submissions": 6, 
+        "sweeps": 0, 
+        "passes": 6
+    }
+}

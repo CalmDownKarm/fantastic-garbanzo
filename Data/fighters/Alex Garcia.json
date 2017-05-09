@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Alex Garcia", 
+    "weight": "170", 
+    "hometown": "Santiago Dominican Republic", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 136, 
+        "attempted": 387, 
+        "clinch": 16, 
+        "ground": 16, 
+        "standing": 104
+    }, 
+    "height": "5' 9\"", 
+    "record": "14-3-0", 
+    "college": "", 
+    "location": "Montreal, Quebec Canada", 
+    "height_cm": "175", 
+    "fullname": "Alex Garcia", 
+    "summary": [
+        "Well-rounded"
+    ], 
+    "nickname": "The Dominican Nightmare", 
+    "takedowns": {
+        "successful": 20, 
+        "attempted": 32, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 12
+    }
+}

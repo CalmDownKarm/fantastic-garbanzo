@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Jarjis Danho", 
+    "weight": "265", 
+    "hometown": "Malkiya Syria", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "120", 
+    "strikes": {
+        "successful": 90, 
+        "attempted": 186, 
+        "clinch": 32, 
+        "ground": 6, 
+        "standing": 52
+    }, 
+    "height": "6' 2\"", 
+    "record": "6-1-1, 1NC", 
+    "college": "", 
+    "location": "Nuremberg Germany", 
+    "height_cm": "187", 
+    "fullname": "Jarjis Danho", 
+    "summary": [
+        "Power", 
+        "agility", 
+        "endurance"
+    ], 
+    "nickname": "Man Mountain", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 5, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

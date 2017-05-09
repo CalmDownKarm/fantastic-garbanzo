@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Garreth McLellan", 
+    "weight": "185", 
+    "hometown": "Vereeniging, Gauteng South Africa", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 185, 
+        "attempted": 340, 
+        "clinch": 33, 
+        "ground": 94, 
+        "standing": 58
+    }, 
+    "height": "6' 1\"", 
+    "record": "13-6-0", 
+    "college": "", 
+    "location": "Sunninghill, Johannesburg Gauteng South Africa", 
+    "height_cm": "185", 
+    "fullname": "Garreth McLellan", 
+    "summary": [
+        "Well-rounded", 
+        "calm head"
+    ], 
+    "nickname": "Soldierboy", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 18, 
+        "submissions": 3, 
+        "sweeps": 0, 
+        "passes": 5
+    }
+}

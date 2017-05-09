@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Fabiano Scherner", 
+    "weight": "245", 
+    "hometown": "Florianopolis Brazil", 
+    "age": "42", 
+    "fights": [], 
+    "weight_kg": "111", 
+    "strikes": {
+        "successful": 18, 
+        "attempted": 57, 
+        "clinch": 4, 
+        "ground": 4, 
+        "standing": 10
+    }, 
+    "height": "6' 3\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "190", 
+    "fullname": "Fabiano Scherner", 
+    "summary": [
+        "My Jiu-Jitsu techniques"
+    ], 
+    "nickname": "Pegaleve", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 3, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 2
+    }
+}

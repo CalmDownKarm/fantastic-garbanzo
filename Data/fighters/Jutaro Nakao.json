@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Jutaro Nakao", 
+    "weight": "169", 
+    "hometown": "USA", 
+    "age": "46", 
+    "fights": [], 
+    "weight_kg": "76", 
+    "strikes": {
+        "successful": 12, 
+        "attempted": 28, 
+        "clinch": 2, 
+        "ground": 2, 
+        "standing": 8
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "175", 
+    "fullname": "Jutaro Nakao", 
+    "summary": [
+        "Submissions"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

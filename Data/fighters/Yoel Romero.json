@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Yoel Romero", 
+    "weight": "185", 
+    "hometown": "Pinar del Rio Cuba", 
+    "age": "39", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 298, 
+        "attempted": 540, 
+        "clinch": 27, 
+        "ground": 75, 
+        "standing": 196
+    }, 
+    "height": "6' 0\"", 
+    "record": "12-1-0", 
+    "college": "", 
+    "location": "Coconut Creek, FL USA", 
+    "height_cm": "182", 
+    "fullname": "Yoel Romero", 
+    "summary": [
+        "Wrestling", 
+        "BJJ"
+    ], 
+    "nickname": "Soldier of God", 
+    "takedowns": {
+        "successful": 13, 
+        "attempted": 28, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 6
+    }
+}

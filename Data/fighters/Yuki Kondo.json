@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Yuki Kondo", 
+    "weight": "200", 
+    "hometown": "Niigata, Japan USA", 
+    "age": "41", 
+    "fights": [], 
+    "weight_kg": "90", 
+    "strikes": {
+        "successful": 3, 
+        "attempted": 7, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 3
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "180", 
+    "fullname": "Yuki Kondo", 
+    "summary": [
+        "Excellent at submissions", 
+        "quick with kicks and punches"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 2, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

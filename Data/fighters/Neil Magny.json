@@ -1,0 +1,33 @@
+{
+    "degree": "Criminal Justice", 
+    "name": "Neil Magny", 
+    "weight": "170", 
+    "hometown": "Brooklyn, New York USA", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 784, 
+        "attempted": 1567, 
+        "clinch": 157, 
+        "ground": 235, 
+        "standing": 392
+    }, 
+    "height": "6' 3\"", 
+    "record": "19-6-0", 
+    "college": "Southern Illinois University", 
+    "location": "Denver, Colorado USA", 
+    "height_cm": "190", 
+    "fullname": "Neil Magny", 
+    "summary": [
+        "Great work ethic and extremely coachable "
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 35, 
+        "attempted": 75, 
+        "submissions": 5, 
+        "sweeps": 2, 
+        "passes": 38
+    }
+}

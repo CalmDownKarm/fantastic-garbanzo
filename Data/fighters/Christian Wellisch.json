@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Christian Wellisch", 
+    "weight": "205", 
+    "hometown": "Budapest Hungary", 
+    "age": "41", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 115, 
+        "attempted": 412, 
+        "clinch": 24, 
+        "ground": 8, 
+        "standing": 83
+    }, 
+    "height": "6' 3\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "190", 
+    "fullname": "Christian Wellisch", 
+    "summary": [
+        "My Chin and my grapefruits"
+    ], 
+    "nickname": "The Hungarian Nightmare", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 7, 
+        "submissions": 3, 
+        "sweeps": 1, 
+        "passes": 3
+    }
+}

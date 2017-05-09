@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "John Halverson", 
+    "weight": "155", 
+    "hometown": "Des Moines, Iowa USA", 
+    "age": "44", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 45, 
+        "attempted": 104, 
+        "clinch": 13, 
+        "ground": 3, 
+        "standing": 29
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "175", 
+    "fullname": "John Halverson", 
+    "summary": [
+        "Heavy hands", 
+        "Good chin", 
+        "Well rounded fighter"
+    ], 
+    "nickname": "The Hurricane", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

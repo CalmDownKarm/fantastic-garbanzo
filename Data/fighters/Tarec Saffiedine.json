@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Tarec Saffiedine", 
+    "weight": "170", 
+    "hometown": "Brussels Belgium", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 300, 
+        "attempted": 645, 
+        "clinch": 37, 
+        "ground": 6, 
+        "standing": 257
+    }, 
+    "height": "5' 10\"", 
+    "record": "16-6-0", 
+    "college": "", 
+    "location": "Brussels, Belgium USA", 
+    "height_cm": "177", 
+    "fullname": "Tarec Saffiedine", 
+    "summary": [
+        "Standup"
+    ], 
+    "nickname": "Sponge", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 11, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 7
+    }
+}

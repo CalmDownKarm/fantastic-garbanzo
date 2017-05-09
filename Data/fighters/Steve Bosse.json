@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Steve Bosse", 
+    "weight": "205", 
+    "hometown": "St-Jean Sur Richelieu, Quebec, Canada, Quebec Canada", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 98, 
+        "attempted": 185, 
+        "clinch": 15, 
+        "ground": 22, 
+        "standing": 61
+    }, 
+    "height": "5' 11\"", 
+    "record": "12-2-0", 
+    "college": "", 
+    "location": "St-Jean Sur Richelieu, Quebec Canada", 
+    "height_cm": "180", 
+    "fullname": "Steve Bosse", 
+    "summary": [
+        "Powerful striker", 
+        "great conditioning"
+    ], 
+    "nickname": "The Boss", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 3, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 3
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Brett Johns", 
+    "weight": "135", 
+    "hometown": "Swansea Wales", 
+    "age": "25", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 49, 
+        "attempted": 80, 
+        "clinch": 22, 
+        "ground": null, 
+        "standing": 27
+    }, 
+    "height": "5' 7\"", 
+    "record": "13-0-0", 
+    "college": "", 
+    "location": "Swansea Wales", 
+    "height_cm": "170", 
+    "fullname": "Brett Johns", 
+    "summary": [
+        "Wrestling"
+    ], 
+    "nickname": "The Pikey", 
+    "takedowns": {
+        "successful": 11, 
+        "attempted": 15, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 3
+    }
+}

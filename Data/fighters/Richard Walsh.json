@@ -1,0 +1,34 @@
+{
+    "degree": "Construction", 
+    "name": "Rich Walsh", 
+    "weight": "170", 
+    "hometown": "North Shore, Sydney  Australia", 
+    "age": "28", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 297, 
+        "attempted": 635, 
+        "clinch": 73, 
+        "ground": 65, 
+        "standing": 159
+    }, 
+    "height": "6' 0\"", 
+    "record": "9-6-0", 
+    "college": "University of New South Wales", 
+    "location": "North Shore , Sydney Australia", 
+    "height_cm": "182", 
+    "fullname": "Rich Walsh", 
+    "summary": [
+        "Takedowns", 
+        "cage control and cage clinch"
+    ], 
+    "nickname": "Filthy", 
+    "takedowns": {
+        "successful": 8, 
+        "attempted": 20, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "Mario Rivera", 
+    "weight": "", 
+    "hometown": "", 
+    "age": "", 
+    "fights": [], 
+    "weight_kg": "", 
+    "strikes": {
+        "successful": null, 
+        "attempted": null, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": null
+    }, 
+    "height": "", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "", 
+    "fullname": "Mario Rivera", 
+    "summary": [], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": null, 
+        "attempted": null, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

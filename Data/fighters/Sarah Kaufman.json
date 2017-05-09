@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Sarah Kaufman", 
+    "weight": "135", 
+    "hometown": "Victoria, British Columbia Canada", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 381, 
+        "attempted": 758, 
+        "clinch": 143, 
+        "ground": 22, 
+        "standing": 216
+    }, 
+    "height": "5' 5\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Victoria, British Columbia Canada", 
+    "height_cm": "165", 
+    "fullname": "Sarah Kaufman", 
+    "summary": [
+        "Good conditioning", 
+        "likes striking from any position"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 5, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 3
+    }
+}

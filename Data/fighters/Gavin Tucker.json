@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Gavin Tucker", 
+    "weight": "145", 
+    "hometown": "St. Anthony , Newfoundland Canada", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 55, 
+        "attempted": 163, 
+        "clinch": 2, 
+        "ground": null, 
+        "standing": 53
+    }, 
+    "height": "5' 7\"", 
+    "record": "10-0-0", 
+    "college": "", 
+    "location": "Halifax, Nova Scotia Canada", 
+    "height_cm": "170", 
+    "fullname": "Gavin Tucker", 
+    "summary": [
+        "Left kick", 
+        "speed", 
+        "pace"
+    ], 
+    "nickname": "The Newfoundland Terror", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

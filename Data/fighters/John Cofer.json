@@ -1,0 +1,35 @@
+{
+    "degree": "Sociology", 
+    "name": "John Cofer", 
+    "weight": "155", 
+    "hometown": "Savannah, Georgia USA", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 67, 
+        "attempted": 160, 
+        "clinch": 12, 
+        "ground": 4, 
+        "standing": 51
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "Unversity of Tennessee - Chattanooga", 
+    "location": "Athens, Georgia USA", 
+    "height_cm": "175", 
+    "fullname": "John Cofer", 
+    "summary": [
+        "Mental toughness", 
+        "well-rounded", 
+        "loves to fight"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 4, 
+        "submissions": 0, 
+        "sweeps": 3, 
+        "passes": 2
+    }
+}

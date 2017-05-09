@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Kevin Knabjian", 
+    "weight": "170", 
+    "hometown": "Chicago, Illinois USA", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 0, 
+        "attempted": 0, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": null
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "177", 
+    "fullname": "Kevin Knabjian", 
+    "summary": [
+        "Good wrestling", 
+        "strong standup", 
+        "well rounded"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

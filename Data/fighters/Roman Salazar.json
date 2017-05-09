@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Roman Salazar", 
+    "weight": "135", 
+    "hometown": "Tucson, Arizona USA", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 33, 
+        "attempted": 84, 
+        "clinch": 6, 
+        "ground": 6, 
+        "standing": 21
+    }, 
+    "height": "5' 7\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Scottsdale, Arizona USA", 
+    "height_cm": "170", 
+    "fullname": "Roman Salazar", 
+    "summary": [
+        "Cardio", 
+        "heart and ability to win"
+    ], 
+    "nickname": "El Gallito", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 11, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

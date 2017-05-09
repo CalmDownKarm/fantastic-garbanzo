@@ -1,0 +1,35 @@
+{
+    "degree": "Justice & Social Inquiry", 
+    "name": "Ryan Bader", 
+    "weight": "205", 
+    "hometown": "Reno, Nevada USA", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 577, 
+        "attempted": 1332, 
+        "clinch": 59, 
+        "ground": 240, 
+        "standing": 278
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "Arizona State University", 
+    "location": "Tempe, Arizona USA", 
+    "height_cm": "187", 
+    "fullname": "Ryan \"Darth\" Bader", 
+    "summary": [
+        "Division I All-American Wrestler", 
+        "heavy hands", 
+        "takedowns"
+    ], 
+    "nickname": "Darth", 
+    "takedowns": {
+        "successful": 46, 
+        "attempted": 104, 
+        "submissions": 6, 
+        "sweeps": 0, 
+        "passes": 43
+    }
+}

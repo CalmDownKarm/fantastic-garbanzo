@@ -1,0 +1,35 @@
+{
+    "degree": "Psychology", 
+    "name": "Nick Catone", 
+    "weight": "185", 
+    "hometown": "Englewood, NJ USA", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 196, 
+        "attempted": 439, 
+        "clinch": 47, 
+        "ground": 67, 
+        "standing": 82
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "Rider University", 
+    "location": "Brick, NJ USA", 
+    "height_cm": "182", 
+    "fullname": "Nick Catone", 
+    "summary": [
+        "Well-rounded - wrestling", 
+        "jiu-jitsu", 
+        "boxing"
+    ], 
+    "nickname": "The Jersey Devil", 
+    "takedowns": {
+        "successful": 23, 
+        "attempted": 52, 
+        "submissions": 3, 
+        "sweeps": 1, 
+        "passes": 19
+    }
+}

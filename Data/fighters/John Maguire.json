@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "John Maguire", 
+    "weight": "155", 
+    "hometown": "Peterborough, Cambridgeshire UK", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 98, 
+        "attempted": 236, 
+        "clinch": 15, 
+        "ground": 19, 
+        "standing": 64
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Cambridge England", 
+    "height_cm": "175", 
+    "fullname": "John Maguire", 
+    "summary": [
+        "Submissions (Gypsy Jiu-Jitsu)"
+    ], 
+    "nickname": "The One", 
+    "takedowns": {
+        "successful": 13, 
+        "attempted": 28, 
+        "submissions": 5, 
+        "sweeps": 1, 
+        "passes": 14
+    }
+}

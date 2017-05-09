@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Johnny Bedford", 
+    "weight": "135", 
+    "hometown": "Oregon, Ohio USA", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 186, 
+        "attempted": 368, 
+        "clinch": 31, 
+        "ground": 76, 
+        "standing": 79
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "Cleveland State University", 
+    "location": "Colleyville, TX USA", 
+    "height_cm": "177", 
+    "fullname": "Johnny Bedford", 
+    "summary": [
+        "Wrestling and toughness"
+    ], 
+    "nickname": "Brutal", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 8, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 14
+    }
+}

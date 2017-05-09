@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Claudio Puelles", 
+    "weight": "155", 
+    "hometown": "Lima Peru", 
+    "age": "20", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 29, 
+        "attempted": 68, 
+        "clinch": 2, 
+        "ground": null, 
+        "standing": 27
+    }, 
+    "height": "5' 11\"", 
+    "record": "8-2-0", 
+    "college": "", 
+    "location": "Lima Peru", 
+    "height_cm": "180", 
+    "fullname": "Claudio Puelles", 
+    "summary": [
+        "Grappling", 
+        "intelligence"
+    ], 
+    "nickname": "El Nino ", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 6, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

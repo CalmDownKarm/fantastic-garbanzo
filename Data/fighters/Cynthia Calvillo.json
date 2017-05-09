@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Cynthia Calvillo", 
+    "weight": "115", 
+    "hometown": "San Jose, California United States", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "52", 
+    "strikes": {
+        "successful": 13, 
+        "attempted": 26, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 13
+    }, 
+    "height": "5' 4\"", 
+    "record": "4-0-0", 
+    "college": "", 
+    "location": "Sacramento, California United States", 
+    "height_cm": "162", 
+    "fullname": "Cynthia Calvillo", 
+    "summary": [
+        "Grappling"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 1, 
+        "submissions": 3, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

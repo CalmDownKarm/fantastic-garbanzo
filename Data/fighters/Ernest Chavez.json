@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Ernest Chavez", 
+    "weight": "155", 
+    "hometown": "Brawley, CA USA", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 94, 
+        "attempted": 231, 
+        "clinch": 12, 
+        "ground": 1, 
+        "standing": 81
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "California State University of San Bernardino", 
+    "location": "Orange County, CA USA", 
+    "height_cm": "172", 
+    "fullname": "Ernest Chavez", 
+    "summary": [
+        "Grappling and clinchwork"
+    ], 
+    "nickname": "The Mad Titan", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 6, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 5
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "degree": "Criminal Law", 
+    "name": "Melvin Guillard", 
+    "weight": "155", 
+    "hometown": "New Orleans, LA USA", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 448, 
+        "attempted": 1128, 
+        "clinch": 58, 
+        "ground": 78, 
+        "standing": 312
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "Colby College", 
+    "location": "Coconut Creek, FL USA", 
+    "height_cm": "175", 
+    "fullname": "Melvin Guillard", 
+    "summary": [
+        "Athletic", 
+        "good striker", 
+        "wrestling"
+    ], 
+    "nickname": "The Young Assassin", 
+    "takedowns": {
+        "successful": 14, 
+        "attempted": 21, 
+        "submissions": 2, 
+        "sweeps": 2, 
+        "passes": 6
+    }
+}

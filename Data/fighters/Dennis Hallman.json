@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Dennis Hallman", 
+    "weight": "155", 
+    "hometown": "Olympia, Washington USA", 
+    "age": "41", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 94, 
+        "attempted": 209, 
+        "clinch": 20, 
+        "ground": 51, 
+        "standing": 23
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "175", 
+    "fullname": "Dennis \"Superman\" Hallman", 
+    "summary": [
+        "Submissions", 
+        "wrestling ability"
+    ], 
+    "nickname": "Superman", 
+    "takedowns": {
+        "successful": 10, 
+        "attempted": 33, 
+        "submissions": 12, 
+        "sweeps": 2, 
+        "passes": 12
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Islam Makhachev", 
+    "weight": "155", 
+    "hometown": "Dagestan Russia", 
+    "age": "25", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 91, 
+        "attempted": 142, 
+        "clinch": 9, 
+        "ground": 41, 
+        "standing": 41
+    }, 
+    "height": "5' 10\"", 
+    "record": "14-1-0", 
+    "college": "", 
+    "location": "Makhachkala Russia", 
+    "height_cm": "177", 
+    "fullname": "Islam Makhachev", 
+    "summary": [
+        "Wrestling"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 12, 
+        "attempted": 14, 
+        "submissions": 3, 
+        "sweeps": 2, 
+        "passes": 22
+    }
+}

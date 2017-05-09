@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Caio Magalhaes", 
+    "weight": "185", 
+    "hometown": "Fortaleza, Ceara Brazil", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 129, 
+        "attempted": 321, 
+        "clinch": 28, 
+        "ground": 24, 
+        "standing": 77
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Fortaleza, Ceara Brazil", 
+    "height_cm": "185", 
+    "fullname": "Caio \"Hellboy\" Magalhaes", 
+    "summary": [
+        "Very strong", 
+        "jiu-jitsu specialist"
+    ], 
+    "nickname": "Hellboy", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 26, 
+        "submissions": 6, 
+        "sweeps": 1, 
+        "passes": 5
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Tim McKenzie", 
+    "weight": "185", 
+    "hometown": "Santa Clara, California USA", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 20, 
+        "attempted": 37, 
+        "clinch": 2, 
+        "ground": 11, 
+        "standing": 7
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "182", 
+    "fullname": "Tim McKenzie", 
+    "summary": [
+        "Striking and ground and pound"
+    ], 
+    "nickname": "Wrecking Machine", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 2, 
+        "sweeps": 1, 
+        "passes": 0
+    }
+}

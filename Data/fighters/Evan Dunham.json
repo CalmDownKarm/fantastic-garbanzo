@@ -1,0 +1,35 @@
+{
+    "degree": "Sociology", 
+    "name": "Evan Dunham", 
+    "weight": "155", 
+    "hometown": "Eugene, Oregon USA", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 1160, 
+        "attempted": 2908, 
+        "clinch": 130, 
+        "ground": 61, 
+        "standing": 969
+    }, 
+    "height": "5' 10\"", 
+    "record": "17-6-0", 
+    "college": "University of Oregon", 
+    "location": "Las Vegas, Nevada USA", 
+    "height_cm": "177", 
+    "fullname": "Evan Dunham", 
+    "summary": [
+        "BJJ", 
+        "good striking", 
+        "big heart"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 26, 
+        "attempted": 75, 
+        "submissions": 15, 
+        "sweeps": 1, 
+        "passes": 18
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Jeremy Lang", 
+    "weight": "185", 
+    "hometown": "Springfield, MN USA", 
+    "age": "", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 12, 
+        "attempted": 24, 
+        "clinch": 3, 
+        "ground": 6, 
+        "standing": 3
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "180", 
+    "fullname": "Jeremy Lang", 
+    "summary": [
+        "Wrestling"
+    ], 
+    "nickname": "The Landlord", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 5, 
+        "submissions": 3, 
+        "sweeps": 0, 
+        "passes": 7
+    }
+}

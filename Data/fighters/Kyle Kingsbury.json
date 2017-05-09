@@ -1,0 +1,35 @@
+{
+    "degree": "Communications", 
+    "name": "Kyle Kingsbury", 
+    "weight": "205", 
+    "hometown": "San Jose, CA USA", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 304, 
+        "attempted": 744, 
+        "clinch": 82, 
+        "ground": 14, 
+        "standing": 208
+    }, 
+    "height": "6' 4\"", 
+    "record": "", 
+    "college": "Arizona State University", 
+    "location": "San Jose, CA USA", 
+    "height_cm": "193", 
+    "fullname": "Kyle \"Kingsbu\" Kingsbury", 
+    "summary": [
+        "Strength", 
+        "power", 
+        "conditioning"
+    ], 
+    "nickname": "Kingsbu", 
+    "takedowns": {
+        "successful": 18, 
+        "attempted": 43, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 9
+    }
+}

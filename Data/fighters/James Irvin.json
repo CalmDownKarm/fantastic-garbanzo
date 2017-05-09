@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "James Irvin", 
+    "weight": "185", 
+    "hometown": "Huntington Beach, California USA", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 59, 
+        "attempted": 121, 
+        "clinch": 7, 
+        "ground": 17, 
+        "standing": 35
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "187", 
+    "fullname": "James Irvin", 
+    "summary": [
+        "Athletic ability", 
+        "powerful puncher."
+    ], 
+    "nickname": "The Sandman", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 2, 
+        "submissions": 1, 
+        "sweeps": 1, 
+        "passes": 0
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Jeremy Jackson", 
+    "weight": "169", 
+    "hometown": "Brawley, CA. USA", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "76", 
+    "strikes": {
+        "successful": 14, 
+        "attempted": 51, 
+        "clinch": 8, 
+        "ground": null, 
+        "standing": 6
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "175", 
+    "fullname": "Jeremy Jackson", 
+    "summary": [
+        "Good Submission,KO Power"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 5, 
+        "submissions": 0, 
+        "sweeps": 2, 
+        "passes": 2
+    }
+}

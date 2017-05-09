@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Michael McDonald", 
+    "weight": "135", 
+    "hometown": "Modesto, California USA", 
+    "age": "26", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 223, 
+        "attempted": 521, 
+        "clinch": 20, 
+        "ground": 19, 
+        "standing": 184
+    }, 
+    "height": "5' 9\"", 
+    "record": "17-4-0", 
+    "college": "", 
+    "location": "Modesto, California USA", 
+    "height_cm": "175", 
+    "fullname": "Michael \"Mayday\" McDonald", 
+    "summary": [
+        "KO Power", 
+        "good guard", 
+        "adaptable to any fight"
+    ], 
+    "nickname": "Mayday", 
+    "takedowns": {
+        "successful": 6, 
+        "attempted": 9, 
+        "submissions": 8, 
+        "sweeps": 0, 
+        "passes": 4
+    }
+}

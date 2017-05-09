@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "Keigo Kunihara", 
+    "weight": "235", 
+    "hometown": "Nigata, Japan Japan", 
+    "age": "41", 
+    "fights": [], 
+    "weight_kg": "106", 
+    "strikes": {
+        "successful": 1, 
+        "attempted": 10, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 1
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "182", 
+    "fullname": "Keigo Kunihara", 
+    "summary": [], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 5, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

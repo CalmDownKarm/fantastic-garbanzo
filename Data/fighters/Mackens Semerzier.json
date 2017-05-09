@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Mackens Semerzier", 
+    "weight": "145", 
+    "hometown": "Miami-Dade, FL USA", 
+    "age": "36", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 163, 
+        "attempted": 362, 
+        "clinch": 32, 
+        "ground": 31, 
+        "standing": 100
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Virginia Beach, VA USA", 
+    "height_cm": "175", 
+    "fullname": "Mackens \"Da Menace\" Semerzier", 
+    "summary": [
+        "Aggressive", 
+        "Well Rounded"
+    ], 
+    "nickname": "Da Menace", 
+    "takedowns": {
+        "successful": 8, 
+        "attempted": 16, 
+        "submissions": 8, 
+        "sweeps": 0, 
+        "passes": 7
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "degree": "Criminal Justice", 
+    "name": "Tim Kennedy", 
+    "weight": "185", 
+    "hometown": "San Luis Obispo, CA United States", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 200, 
+        "attempted": 434, 
+        "clinch": 49, 
+        "ground": 32, 
+        "standing": 119
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "Columbia College", 
+    "location": "Austin, TX United States", 
+    "height_cm": "180", 
+    "fullname": "Tim Kennedy", 
+    "summary": [
+        "Submissions", 
+        "cardio", 
+        "strength"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 11, 
+        "attempted": 30, 
+        "submissions": 1, 
+        "sweeps": 1, 
+        "passes": 15
+    }
+}

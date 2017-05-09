@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Jonathan Wilson", 
+    "weight": "205", 
+    "hometown": "San Bernardino, California USA", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 100, 
+        "attempted": 183, 
+        "clinch": 14, 
+        "ground": 8, 
+        "standing": 78
+    }, 
+    "height": "6' 2\"", 
+    "record": "7-2-0", 
+    "college": "", 
+    "location": "San Bernardino, California USA", 
+    "height_cm": "187", 
+    "fullname": "Jonathan Wilson", 
+    "summary": [
+        "Well-Rounded"
+    ], 
+    "nickname": "Jonny Bravo", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

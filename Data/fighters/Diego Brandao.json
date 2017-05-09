@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Diego Brandao", 
+    "weight": "145", 
+    "hometown": "Fortaleza, Ceara Brazil", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 233, 
+        "attempted": 486, 
+        "clinch": 26, 
+        "ground": 45, 
+        "standing": 162
+    }, 
+    "height": "5' 7\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Manaus Brazil", 
+    "height_cm": "170", 
+    "fullname": "Diego Brandao", 
+    "summary": [
+        "BJJ", 
+        "KO power"
+    ], 
+    "nickname": "DB", 
+    "takedowns": {
+        "successful": 17, 
+        "attempted": 25, 
+        "submissions": 3, 
+        "sweeps": 0, 
+        "passes": 13
+    }
+}

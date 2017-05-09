@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Antonio Mendes", 
+    "weight": "205", 
+    "hometown": "Fortaleza, Ceara Brazil", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 8, 
+        "attempted": 17, 
+        "clinch": 3, 
+        "ground": 1, 
+        "standing": 4
+    }, 
+    "height": "6' 3\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "190", 
+    "fullname": "Antonio Mendes", 
+    "summary": [
+        "Kicks"
+    ], 
+    "nickname": "Samuray", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 2, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

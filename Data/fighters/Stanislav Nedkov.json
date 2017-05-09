@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Stanislav Nedkov", 
+    "weight": "205", 
+    "hometown": "Veliko Turnovo Bulgaria", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 90, 
+        "attempted": 207, 
+        "clinch": 36, 
+        "ground": 22, 
+        "standing": 32
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Veliko Turnovo Bulgaria", 
+    "height_cm": "180", 
+    "fullname": "Stanislav \"Stucky\" Nedkov", 
+    "summary": [
+        "Ground game"
+    ], 
+    "nickname": "Stucky", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 12, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

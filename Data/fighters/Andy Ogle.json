@@ -1,0 +1,35 @@
+{
+    "degree": "Sports Science", 
+    "name": "Andy Ogle", 
+    "weight": "145", 
+    "hometown": "Newcastle England", 
+    "age": "28", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 163, 
+        "attempted": 363, 
+        "clinch": 8, 
+        "ground": 39, 
+        "standing": 116
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "Sunderland Universitty", 
+    "location": "Newcastle England", 
+    "height_cm": "172", 
+    "fullname": "Andy Ogle", 
+    "summary": [
+        "Cardio", 
+        "standup", 
+        "versatility"
+    ], 
+    "nickname": "The Little Axe", 
+    "takedowns": {
+        "successful": 7, 
+        "attempted": 26, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 4
+    }
+}

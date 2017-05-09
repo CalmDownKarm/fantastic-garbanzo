@@ -1,0 +1,35 @@
+{
+    "degree": "Sociology", 
+    "name": "Ovince Saint Preux", 
+    "weight": "205", 
+    "hometown": "Immokalee, Florida United States", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 346, 
+        "attempted": 820, 
+        "clinch": 42, 
+        "ground": 52, 
+        "standing": 252
+    }, 
+    "height": "6' 3\"", 
+    "record": "19-10-0", 
+    "college": "University of Tennessee", 
+    "location": "Knoxville, Tennessee United States", 
+    "height_cm": "190", 
+    "fullname": "Ovince Saint Preux", 
+    "summary": [
+        "Wrestling", 
+        "conditioning", 
+        "striking"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 8, 
+        "attempted": 22, 
+        "submissions": 2, 
+        "sweeps": 1, 
+        "passes": 10
+    }
+}

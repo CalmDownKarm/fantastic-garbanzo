@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Angela Magana", 
+    "weight": "115", 
+    "hometown": "Los Angeles, California USA", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "52", 
+    "strikes": {
+        "successful": 45, 
+        "attempted": 169, 
+        "clinch": 7, 
+        "ground": null, 
+        "standing": 38
+    }, 
+    "height": "5' 1\"", 
+    "record": "11-8-0", 
+    "college": "", 
+    "location": "Phuket Thailand", 
+    "height_cm": "154", 
+    "fullname": "Angela Magana", 
+    "summary": [
+        "Well-rounded"
+    ], 
+    "nickname": "Your Majesty", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 3, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

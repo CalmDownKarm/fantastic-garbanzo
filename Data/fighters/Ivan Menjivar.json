@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Ivan Menjivar", 
+    "weight": "145", 
+    "hometown": "La Paz El Salvador", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 291, 
+        "attempted": 768, 
+        "clinch": 53, 
+        "ground": 37, 
+        "standing": 201
+    }, 
+    "height": "5' 6\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Montreal, Quebec Canada", 
+    "height_cm": "167", 
+    "fullname": "Ivan Menjivar", 
+    "summary": [
+        "Well-rounded"
+    ], 
+    "nickname": "The Pride of El Salvador", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 8, 
+        "submissions": 7, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

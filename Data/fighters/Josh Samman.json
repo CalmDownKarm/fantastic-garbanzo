@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Josh Samman", 
+    "weight": "185", 
+    "hometown": "Orlando, Florida USA", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 86, 
+        "attempted": 163, 
+        "clinch": 36, 
+        "ground": 14, 
+        "standing": 36
+    }, 
+    "height": "6' 3\"", 
+    "record": "12-5-0", 
+    "college": "", 
+    "location": "Tallahassee, Florida USA", 
+    "height_cm": "190", 
+    "fullname": "Josh Samman", 
+    "summary": [
+        "Aggression", 
+        "violence"
+    ], 
+    "nickname": "Anqa", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 9, 
+        "submissions": 1, 
+        "sweeps": 1, 
+        "passes": 3
+    }
+}

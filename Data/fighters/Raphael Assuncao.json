@@ -1,0 +1,36 @@
+{
+    "degree": "", 
+    "name": "Raphael Assuncao", 
+    "weight": "135", 
+    "hometown": "Recife Brazil", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 653, 
+        "attempted": 1553, 
+        "clinch": 78, 
+        "ground": 60, 
+        "standing": 515
+    }, 
+    "height": "5' 5\"", 
+    "record": "24-5-0", 
+    "college": "", 
+    "location": "Alpharetta, Georgia  USA", 
+    "height_cm": "165", 
+    "fullname": "Raphael Assuncao", 
+    "summary": [
+        "BJJ", 
+        "Muay Thai", 
+        "good defense", 
+        "always looking to push the action"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 20, 
+        "attempted": 58, 
+        "submissions": 5, 
+        "sweeps": 1, 
+        "passes": 12
+    }
+}

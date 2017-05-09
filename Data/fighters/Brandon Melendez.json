@@ -1,0 +1,36 @@
+{
+    "degree": "", 
+    "name": "Brandon Melendez", 
+    "weight": "155", 
+    "hometown": "Bountiful, Utah USA", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 6, 
+        "attempted": 23, 
+        "clinch": 1, 
+        "ground": null, 
+        "standing": 5
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "177", 
+    "fullname": "Brandon Melendez", 
+    "summary": [
+        "Jiu Jitsu", 
+        "Finishing ability", 
+        "explosive", 
+        "great hands"
+    ], 
+    "nickname": "The Murderer", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 2, 
+        "passes": 1
+    }
+}

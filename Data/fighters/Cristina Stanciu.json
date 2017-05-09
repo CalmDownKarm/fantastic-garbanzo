@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Cristina Stanciu", 
+    "weight": "115", 
+    "hometown": "Bucharest Romania", 
+    "age": "22", 
+    "fights": [], 
+    "weight_kg": "52", 
+    "strikes": {
+        "successful": 44, 
+        "attempted": 88, 
+        "clinch": 2, 
+        "ground": 8, 
+        "standing": 34
+    }, 
+    "height": "5' 5\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Bucharest Romania", 
+    "height_cm": "165", 
+    "fullname": "Cristina Stanciu", 
+    "summary": [
+        "Power", 
+        "Speed"
+    ], 
+    "nickname": "Barbie", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 1, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

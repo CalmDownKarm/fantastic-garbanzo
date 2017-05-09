@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Thomas Almeida", 
+    "weight": "135", 
+    "hometown": "Sao Paulo Brazil", 
+    "age": "25", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 250, 
+        "attempted": 501, 
+        "clinch": 32, 
+        "ground": null, 
+        "standing": 218
+    }, 
+    "height": "5' 7\"", 
+    "record": "21-1-0", 
+    "college": "", 
+    "location": "Sao Paulo Brazil", 
+    "height_cm": "170", 
+    "fullname": "Thomas Almeida", 
+    "summary": [
+        "Liver punch"
+    ], 
+    "nickname": "Thominhas", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

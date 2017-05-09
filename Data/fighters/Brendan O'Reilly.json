@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Brendan O'Reilly", 
+    "weight": "170", 
+    "hometown": "Melbourne Australia", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 90, 
+        "attempted": 190, 
+        "clinch": 52, 
+        "ground": 6, 
+        "standing": 32
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Brisbane Australia", 
+    "height_cm": "175", 
+    "fullname": "Brendan O'Reilly", 
+    "summary": [
+        "Physical strength", 
+        "power"
+    ], 
+    "nickname": "The Badger", 
+    "takedowns": {
+        "successful": 7, 
+        "attempted": 16, 
+        "submissions": 2, 
+        "sweeps": 3, 
+        "passes": 6
+    }
+}

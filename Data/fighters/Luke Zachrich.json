@@ -1,0 +1,37 @@
+{
+    "degree": "", 
+    "name": "Luke Zachrich", 
+    "weight": "185", 
+    "hometown": "Defiance, OH USA", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 92, 
+        "attempted": 283, 
+        "clinch": 3, 
+        "ground": null, 
+        "standing": 89
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "Bowling Green University", 
+    "location": "Columbus, OH USA", 
+    "height_cm": "187", 
+    "fullname": "Luke Zachrich", 
+    "summary": [
+        "Overall mixed martial artist", 
+        "mentally strong and focused", 
+        "my wife", 
+        "my daughter", 
+        "and my family"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 3, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

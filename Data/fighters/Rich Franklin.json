@@ -1,0 +1,35 @@
+{
+    "degree": "Mathematics", 
+    "name": "Rich Franklin", 
+    "weight": "185", 
+    "hometown": "Cincinnati, Ohio USA", 
+    "age": "42", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 856, 
+        "attempted": 1970, 
+        "clinch": 151, 
+        "ground": 109, 
+        "standing": 596
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "University of Cincinnati", 
+    "location": "", 
+    "height_cm": "185", 
+    "fullname": "Rich \"Ace\" Franklin", 
+    "summary": [
+        "Excellent striking skills", 
+        "good conditioning", 
+        "well-rounded"
+    ], 
+    "nickname": "Ace", 
+    "takedowns": {
+        "successful": 14, 
+        "attempted": 22, 
+        "submissions": 2, 
+        "sweeps": 3, 
+        "passes": 21
+    }
+}

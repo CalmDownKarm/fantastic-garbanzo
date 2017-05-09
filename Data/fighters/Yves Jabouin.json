@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Yves Jabouin", 
+    "weight": "135", 
+    "hometown": "Port au Prince Haiti", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 427, 
+        "attempted": 1039, 
+        "clinch": 26, 
+        "ground": 47, 
+        "standing": 354
+    }, 
+    "height": "5' 7\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Montreal, Quebec Canada", 
+    "height_cm": "170", 
+    "fullname": "Yves Jabouin", 
+    "summary": [
+        "Striking and wrestling"
+    ], 
+    "nickname": "Tiger", 
+    "takedowns": {
+        "successful": 18, 
+        "attempted": 30, 
+        "submissions": 1, 
+        "sweeps": 4, 
+        "passes": 14
+    }
+}

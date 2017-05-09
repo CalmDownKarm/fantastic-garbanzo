@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Michael Graves", 
+    "weight": "170", 
+    "hometown": "Toledo, OH USA", 
+    "age": "26", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 47, 
+        "attempted": 87, 
+        "clinch": 10, 
+        "ground": 20, 
+        "standing": 17
+    }, 
+    "height": "5' 10\"", 
+    "record": "6-0-1", 
+    "college": "", 
+    "location": "Coconut Creek, FL USA", 
+    "height_cm": "177", 
+    "fullname": "Michael Graves", 
+    "summary": [
+        "Wrestling", 
+        "kickboxing"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 12, 
+        "attempted": 23, 
+        "submissions": 1, 
+        "sweeps": 1, 
+        "passes": 11
+    }
+}

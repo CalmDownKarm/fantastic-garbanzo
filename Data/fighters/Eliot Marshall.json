@@ -1,0 +1,33 @@
+{
+    "degree": "Mathematics", 
+    "name": "Eliot Marshall", 
+    "weight": "205", 
+    "hometown": "Franklinville, New Jersey USA", 
+    "age": "36", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 123, 
+        "attempted": 455, 
+        "clinch": 13, 
+        "ground": 5, 
+        "standing": 105
+    }, 
+    "height": "6' 3\"", 
+    "record": "", 
+    "college": "Univeristy of Colorado", 
+    "location": "Boulder, CO USA", 
+    "height_cm": "190", 
+    "fullname": "Eliot \"The Fire\" Marshall", 
+    "summary": [
+        "BJJ"
+    ], 
+    "nickname": "The Fire", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 6, 
+        "submissions": 4, 
+        "sweeps": 0, 
+        "passes": 4
+    }
+}

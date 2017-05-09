@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Cory Hendricks", 
+    "weight": "205", 
+    "hometown": "Lynden, Washington USA", 
+    "age": "28", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 47, 
+        "attempted": 118, 
+        "clinch": 10, 
+        "ground": null, 
+        "standing": 37
+    }, 
+    "height": "6' 3\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Las Vegas, Nevada USA", 
+    "height_cm": "190", 
+    "fullname": "Cory Hendricks", 
+    "summary": [
+        "Jiu-jitsu"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 2, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

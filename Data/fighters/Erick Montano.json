@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Erick Montano", 
+    "weight": "170", 
+    "hometown": "Mexico City Mexico", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 73, 
+        "attempted": 164, 
+        "clinch": 10, 
+        "ground": 5, 
+        "standing": 58
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Mexico City Mexico", 
+    "height_cm": "182", 
+    "fullname": "Erick Montano", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "Perry", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 11, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 2
+    }
+}

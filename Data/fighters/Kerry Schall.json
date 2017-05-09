@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Kerry Schall", 
+    "weight": "265", 
+    "hometown": "Terre Haute, IN. USA", 
+    "age": "45", 
+    "fights": [], 
+    "weight_kg": "120", 
+    "strikes": {
+        "successful": 8, 
+        "attempted": 68, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 8
+    }, 
+    "height": "6' 3\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "190", 
+    "fullname": "Kerry Schall", 
+    "summary": [
+        "Wrestling,Submission"
+    ], 
+    "nickname": "Meat Truck", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

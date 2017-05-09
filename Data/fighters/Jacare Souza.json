@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Ronaldo Souza", 
+    "weight": "185", 
+    "hometown": "Espiritos Santos Brazil", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 175, 
+        "attempted": 337, 
+        "clinch": 25, 
+        "ground": 79, 
+        "standing": 71
+    }, 
+    "height": "6' 1\"", 
+    "record": "24-5-0, 1NC", 
+    "college": "", 
+    "location": "Rio de Janeiro Brazil", 
+    "height_cm": "185", 
+    "fullname": "Ronaldo \"Jacare\" Souza", 
+    "summary": [
+        "Submissions", 
+        "takedowns", 
+        "strength"
+    ], 
+    "nickname": "Jacare", 
+    "takedowns": {
+        "successful": 12, 
+        "attempted": 34, 
+        "submissions": 7, 
+        "sweeps": 1, 
+        "passes": 24
+    }
+}

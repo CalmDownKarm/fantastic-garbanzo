@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Anton Kuivanen", 
+    "weight": "155", 
+    "hometown": "Parnu Estonia", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 85, 
+        "attempted": 223, 
+        "clinch": 17, 
+        "ground": 16, 
+        "standing": 52
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Helsinki Finland", 
+    "height_cm": "172", 
+    "fullname": "Anton Kuivanen", 
+    "summary": [
+        "Physically and mentally tough", 
+        "speed", 
+        "well-rounded"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 3, 
+        "submissions": 1, 
+        "sweeps": 2, 
+        "passes": 4
+    }
+}

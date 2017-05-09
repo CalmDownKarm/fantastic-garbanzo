@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Travis Lutter", 
+    "weight": "185", 
+    "hometown": "Chamberlain, South Dakota USA", 
+    "age": "43", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 19, 
+        "attempted": 59, 
+        "clinch": 5, 
+        "ground": 9, 
+        "standing": 5
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "180", 
+    "fullname": "Travis Lutter", 
+    "summary": [
+        "Brazilian Jiu-Jitsu"
+    ], 
+    "nickname": "The Serial Killer", 
+    "takedowns": {
+        "successful": 6, 
+        "attempted": 25, 
+        "submissions": 2, 
+        "sweeps": 1, 
+        "passes": 10
+    }
+}

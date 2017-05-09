@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Willamy Freire", 
+    "weight": "155", 
+    "hometown": "Fortaleza Brazil", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 23, 
+        "attempted": 50, 
+        "clinch": 2, 
+        "ground": 14, 
+        "standing": 7
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Fortaleza Brazil", 
+    "height_cm": "172", 
+    "fullname": "Willamy Freire", 
+    "summary": [
+        "Muay Thai specialist - good cardio"
+    ], 
+    "nickname": "Chiquerim", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

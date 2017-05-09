@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Piotr Hallmann", 
+    "weight": "155", 
+    "hometown": "Gdynia Poland", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 281, 
+        "attempted": 611, 
+        "clinch": 70, 
+        "ground": 39, 
+        "standing": 172
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Gdynia Poland", 
+    "height_cm": "175", 
+    "fullname": "Piotr Hallmann", 
+    "summary": [
+        "Physically strong", 
+        "tireless worker", 
+        "vicious ground and pound"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 12, 
+        "attempted": 27, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 7
+    }
+}

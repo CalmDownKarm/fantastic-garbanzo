@@ -1,0 +1,33 @@
+{
+    "degree": "Studio Art", 
+    "name": "Will Kerr", 
+    "weight": "155", 
+    "hometown": "New London, CT USA", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 8, 
+        "attempted": 19, 
+        "clinch": 3, 
+        "ground": null, 
+        "standing": 5
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "Eastern CT State University", 
+    "location": "New London, CT USA", 
+    "height_cm": "177", 
+    "fullname": "Will Kerr", 
+    "summary": [
+        "Stand up"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 4, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

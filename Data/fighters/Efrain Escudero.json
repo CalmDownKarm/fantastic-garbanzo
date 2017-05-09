@@ -1,0 +1,33 @@
+{
+    "degree": "Criminal Justice and Sociology", 
+    "name": "Efrain Escudero", 
+    "weight": "155", 
+    "hometown": "San Luis Rio Colorado, Sonora Mexico", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 435, 
+        "attempted": 970, 
+        "clinch": 93, 
+        "ground": 69, 
+        "standing": 273
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "Grand Canyon University ", 
+    "location": "Tempe, Arizona USA", 
+    "height_cm": "175", 
+    "fullname": "Efrain \"Hecho en Mexico\" Escudero", 
+    "summary": [
+        "Wrestling"
+    ], 
+    "nickname": "Hecho en M\u00e9xico", 
+    "takedowns": {
+        "successful": 13, 
+        "attempted": 32, 
+        "submissions": 8, 
+        "sweeps": 1, 
+        "passes": 7
+    }
+}

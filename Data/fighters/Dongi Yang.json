@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Dongi Yang", 
+    "weight": "185", 
+    "hometown": "Seoul South Korea", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 219, 
+        "attempted": 428, 
+        "clinch": 10, 
+        "ground": 64, 
+        "standing": 145
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Seoul South Korea", 
+    "height_cm": "180", 
+    "fullname": "Dongi \"The Ox\" Yang", 
+    "summary": [
+        "Attacking style"
+    ], 
+    "nickname": "The Ox", 
+    "takedowns": {
+        "successful": 7, 
+        "attempted": 17, 
+        "submissions": 2, 
+        "sweeps": 1, 
+        "passes": 11
+    }
+}

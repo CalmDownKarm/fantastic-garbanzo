@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Wes Sims", 
+    "weight": "260", 
+    "hometown": "Columbus, Ohio USA", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "118", 
+    "strikes": {
+        "successful": 19, 
+        "attempted": 28, 
+        "clinch": 5, 
+        "ground": 12, 
+        "standing": 2
+    }, 
+    "height": "6' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "208", 
+    "fullname": "Wes Sims", 
+    "summary": [
+        "Powerful"
+    ], 
+    "nickname": "The Project", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 3, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Renee Forte", 
+    "weight": "155", 
+    "hometown": "Fortaleza, CE Brazil", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 94, 
+        "attempted": 292, 
+        "clinch": 21, 
+        "ground": 25, 
+        "standing": 48
+    }, 
+    "height": "5' 7\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Fortaleza, Ceara Brazil", 
+    "height_cm": "170", 
+    "fullname": "Renee Forte", 
+    "summary": [
+        "Jiu jitsu", 
+        "wrestling"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 7, 
+        "attempted": 12, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 7
+    }
+}

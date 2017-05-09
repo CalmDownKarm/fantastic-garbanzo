@@ -1,0 +1,33 @@
+{
+    "degree": "Political Studies", 
+    "name": "Tae Hyun Bang", 
+    "weight": "155", 
+    "hometown": "Seoul South Korea", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 166, 
+        "attempted": 433, 
+        "clinch": 10, 
+        "ground": 18, 
+        "standing": 138
+    }, 
+    "height": "5' 9\"", 
+    "record": "18-10-0", 
+    "college": "Kyungbuk Science University", 
+    "location": "Seoul South Korea", 
+    "height_cm": "175", 
+    "fullname": "Tae Hyun Bang", 
+    "summary": [
+        "Wrestling"
+    ], 
+    "nickname": "The Korean Cowboy", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 6, 
+        "submissions": 2, 
+        "sweeps": 3, 
+        "passes": 2
+    }
+}

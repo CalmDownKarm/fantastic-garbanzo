@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Yuri Villefort", 
+    "weight": "170", 
+    "hometown": "Brasilia Brazil", 
+    "age": "26", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 117, 
+        "attempted": 283, 
+        "clinch": 5, 
+        "ground": 3, 
+        "standing": 109
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Boca Raton, FL USA", 
+    "height_cm": "182", 
+    "fullname": "Yuri Villefort", 
+    "summary": [
+        "Elbows"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 13, 
+        "submissions": 1, 
+        "sweeps": 1, 
+        "passes": 5
+    }
+}

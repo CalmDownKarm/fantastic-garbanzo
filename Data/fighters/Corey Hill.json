@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Corey Hill", 
+    "weight": "155", 
+    "hometown": "Martinsburg, West Virginia USA", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 71, 
+        "attempted": 153, 
+        "clinch": 16, 
+        "ground": 22, 
+        "standing": 33
+    }, 
+    "height": "6' 4\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "193", 
+    "fullname": "Corey Hill", 
+    "summary": [
+        "Reach", 
+        "conditioning", 
+        "solid takedown defense"
+    ], 
+    "nickname": "The Real Deal", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 5, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 5
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "degree": "", 
+    "name": "Dave Jansen", 
+    "weight": "155", 
+    "hometown": "Portland, OR USA", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 96, 
+        "attempted": 361, 
+        "clinch": 13, 
+        "ground": 10, 
+        "standing": 73
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "175", 
+    "fullname": "Dave Jansen", 
+    "summary": [
+        "Wrestling", 
+        "Submissions", 
+        "Cardio", 
+        "Heavy Hands"
+    ], 
+    "nickname": "The Fugitive", 
+    "takedowns": {
+        "successful": 13, 
+        "attempted": 36, 
+        "submissions": 4, 
+        "sweeps": 1, 
+        "passes": 11
+    }
+}

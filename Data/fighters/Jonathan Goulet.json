@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Jonathan Goulet", 
+    "weight": "170", 
+    "hometown": "Victoriaville, Quebec Canada", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 81, 
+        "attempted": 193, 
+        "clinch": 16, 
+        "ground": 27, 
+        "standing": 38
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "185", 
+    "fullname": "Jonathan Goulet", 
+    "summary": [
+        "Great knees", 
+        "calm under fire"
+    ], 
+    "nickname": "The Road Warrior", 
+    "takedowns": {
+        "successful": 14, 
+        "attempted": 20, 
+        "submissions": 2, 
+        "sweeps": 4, 
+        "passes": 17
+    }
+}

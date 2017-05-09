@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Hyun Gyu Lim", 
+    "weight": "170", 
+    "hometown": "Seoul South Korea", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 243, 
+        "attempted": 564, 
+        "clinch": 15, 
+        "ground": 19, 
+        "standing": 209
+    }, 
+    "height": "6' 3\"", 
+    "record": "13-6-1", 
+    "college": "", 
+    "location": "Seoul South Korea", 
+    "height_cm": "190", 
+    "fullname": "Hyun Gyu Lim", 
+    "summary": [
+        "Striking", 
+        "well-rounded", 
+        "size"
+    ], 
+    "nickname": "The Ace", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 1, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

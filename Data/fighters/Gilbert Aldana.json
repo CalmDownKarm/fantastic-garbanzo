@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Gilbert Aldana", 
+    "weight": "245", 
+    "hometown": "Phoenix, Arizona USA", 
+    "age": "", 
+    "fights": [], 
+    "weight_kg": "111", 
+    "strikes": {
+        "successful": 34, 
+        "attempted": 62, 
+        "clinch": 19, 
+        "ground": 9, 
+        "standing": 6
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "187", 
+    "fullname": "Gilbert Aldana", 
+    "summary": [
+        "Striking,Ground and pound"
+    ], 
+    "nickname": "El Peligroso", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 5, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

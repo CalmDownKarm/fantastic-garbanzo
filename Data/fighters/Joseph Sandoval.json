@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Joseph Sandoval", 
+    "weight": "135", 
+    "hometown": "Amarillo, Texas USA", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 3, 
+        "attempted": 7, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 3
+    }, 
+    "height": "5' 7\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Lubbock, Texas USA", 
+    "height_cm": "170", 
+    "fullname": "Joseph Sandoval ", 
+    "summary": [
+        "Punching Power"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

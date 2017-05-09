@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "JJ Aldrich", 
+    "weight": "115", 
+    "hometown": "Denver, Colorado USA", 
+    "age": "24", 
+    "fights": [], 
+    "weight_kg": "52", 
+    "strikes": {
+        "successful": 31, 
+        "attempted": 81, 
+        "clinch": 19, 
+        "ground": 4, 
+        "standing": 8
+    }, 
+    "height": "5' 5\"", 
+    "record": "4-2-0", 
+    "college": "", 
+    "location": "Westminster, Colorado USA", 
+    "height_cm": "165", 
+    "fullname": "JJ Aldrich", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

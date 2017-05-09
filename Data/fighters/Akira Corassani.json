@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Akira Corassani", 
+    "weight": "145", 
+    "hometown": "Lund Sweden", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 139, 
+        "attempted": 307, 
+        "clinch": 18, 
+        "ground": null, 
+        "standing": 121
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Brooklyn, New York USA", 
+    "height_cm": "172", 
+    "fullname": "Akira Corassani", 
+    "summary": [
+        "Well-rounded"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 7, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

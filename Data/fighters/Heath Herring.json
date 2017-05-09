@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Heath Herring", 
+    "weight": "250", 
+    "hometown": "Waco, TX USA", 
+    "age": "39", 
+    "fights": [], 
+    "weight_kg": "113", 
+    "strikes": {
+        "successful": 172, 
+        "attempted": 412, 
+        "clinch": 19, 
+        "ground": 98, 
+        "standing": 55
+    }, 
+    "height": "6' 4\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "193", 
+    "fullname": "Heath Herring", 
+    "summary": [
+        "Size and agility"
+    ], 
+    "nickname": "The Texas Crazy Horse", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 6, 
+        "submissions": 1, 
+        "sweeps": 6, 
+        "passes": 6
+    }
+}

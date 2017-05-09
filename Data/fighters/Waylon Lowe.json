@@ -1,0 +1,34 @@
+{
+    "degree": "Business Management", 
+    "name": "Waylon Lowe", 
+    "weight": "155", 
+    "hometown": "Jefferson City, Tennessee USA", 
+    "age": "36", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 88, 
+        "attempted": 156, 
+        "clinch": 7, 
+        "ground": 15, 
+        "standing": 66
+    }, 
+    "height": "5' 7\"", 
+    "record": "", 
+    "college": "University of Findlay", 
+    "location": "Philadelphia, PA USA", 
+    "height_cm": "170", 
+    "fullname": "Waylon Lowe", 
+    "summary": [
+        "Wrestling", 
+        "explosive punches"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 14, 
+        "attempted": 27, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 6
+    }
+}

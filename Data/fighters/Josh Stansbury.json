@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Joshua Stansbury", 
+    "weight": "205", 
+    "hometown": "East Liverpool, Ohio USA", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 97, 
+        "attempted": 173, 
+        "clinch": 22, 
+        "ground": 15, 
+        "standing": 60
+    }, 
+    "height": "6' 2\"", 
+    "record": "8-4-0", 
+    "college": "", 
+    "location": "East Liverpool, Ohio USA", 
+    "height_cm": "187", 
+    "fullname": "Joshua Stansbury", 
+    "summary": [
+        "Wrestling", 
+        "boxing"
+    ], 
+    "nickname": "The Sandman", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 4, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 5
+    }
+}

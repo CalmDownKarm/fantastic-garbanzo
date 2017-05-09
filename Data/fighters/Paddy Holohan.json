@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Paddy Holohan", 
+    "weight": "125", 
+    "hometown": "Dublin Ireland", 
+    "age": "28", 
+    "fights": [], 
+    "weight_kg": "56", 
+    "strikes": {
+        "successful": 122, 
+        "attempted": 263, 
+        "clinch": 3, 
+        "ground": 41, 
+        "standing": 78
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Tallaght, Dublin Ireland", 
+    "height_cm": "177", 
+    "fullname": "Paddy Holohan", 
+    "summary": [
+        "Finding a way to win"
+    ], 
+    "nickname": "The Hooligan", 
+    "takedowns": {
+        "successful": 11, 
+        "attempted": 23, 
+        "submissions": 5, 
+        "sweeps": 2, 
+        "passes": 21
+    }
+}

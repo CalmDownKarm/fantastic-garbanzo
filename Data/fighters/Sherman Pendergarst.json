@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Sherman Pendergarst", 
+    "weight": "240", 
+    "hometown": "Baltimore, Maryland USA", 
+    "age": "50", 
+    "fights": [], 
+    "weight_kg": "109", 
+    "strikes": {
+        "successful": 4, 
+        "attempted": 11, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 4
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "185", 
+    "fullname": "Sherman Pendergarst", 
+    "summary": [
+        "Wrestling"
+    ], 
+    "nickname": "The Tank", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

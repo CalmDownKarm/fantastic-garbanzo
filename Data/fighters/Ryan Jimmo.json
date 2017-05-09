@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Ryan Jimmo", 
+    "weight": "205", 
+    "hometown": "St. John, New Brunswick Canada", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 207, 
+        "attempted": 313, 
+        "clinch": 76, 
+        "ground": 41, 
+        "standing": 90
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Edmonton, Alberta Canada", 
+    "height_cm": "187", 
+    "fullname": "Ryan Jimmo", 
+    "summary": [
+        "Counter striking", 
+        "wrestling", 
+        "fitness"
+    ], 
+    "nickname": "The Big Deal", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 7, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 3
+    }
+}

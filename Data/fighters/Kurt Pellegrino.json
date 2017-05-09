@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Kurt Pellegrino", 
+    "weight": "155", 
+    "hometown": "Point Pleasant, New Jersey USA", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 304, 
+        "attempted": 699, 
+        "clinch": 34, 
+        "ground": 130, 
+        "standing": 140
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Point Pleasant, New Jersey USA", 
+    "height_cm": "172", 
+    "fullname": "Kurt Pellegrino", 
+    "summary": [
+        "Wrestling (body slams) and BJJ"
+    ], 
+    "nickname": "Batman", 
+    "takedowns": {
+        "successful": 24, 
+        "attempted": 44, 
+        "submissions": 7, 
+        "sweeps": 4, 
+        "passes": 41
+    }
+}

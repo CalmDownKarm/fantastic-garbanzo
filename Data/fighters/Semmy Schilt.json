@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Semmy Schilt", 
+    "weight": "256", 
+    "hometown": "Rotterdam, Holland USA", 
+    "age": "43", 
+    "fights": [], 
+    "weight_kg": "116", 
+    "strikes": {
+        "successful": 16, 
+        "attempted": 27, 
+        "clinch": 2, 
+        "ground": 2, 
+        "standing": 12
+    }, 
+    "height": "6' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "210", 
+    "fullname": "Semmy Schilt", 
+    "summary": [
+        "Endurance/knees"
+    ], 
+    "nickname": "The Viking", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

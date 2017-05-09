@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Paul Rodriguez", 
+    "weight": "169", 
+    "hometown": "San Antonio, TX USA", 
+    "age": "41", 
+    "fights": [], 
+    "weight_kg": "76", 
+    "strikes": {
+        "successful": 2, 
+        "attempted": 2, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 2
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "172", 
+    "fullname": "Paul Rodriguez", 
+    "summary": [
+        "Conditioning ", 
+        "punching power"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

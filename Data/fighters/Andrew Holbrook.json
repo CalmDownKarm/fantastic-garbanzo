@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Andrew Holbrook", 
+    "weight": "155", 
+    "hometown": "Adrian, Michigan USA", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 52, 
+        "attempted": 95, 
+        "clinch": 24, 
+        "ground": 13, 
+        "standing": 15
+    }, 
+    "height": "5' 11\"", 
+    "record": "12-1-0", 
+    "college": "", 
+    "location": "Indianapolis, Indiana USA", 
+    "height_cm": "180", 
+    "fullname": "Andrew Holbrook", 
+    "summary": [
+        "Wrestling", 
+        "boxing"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 5, 
+        "submissions": 5, 
+        "sweeps": 1, 
+        "passes": 1
+    }
+}

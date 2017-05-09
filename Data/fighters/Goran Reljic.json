@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Goran Reljic", 
+    "weight": "185", 
+    "hometown": "Zadar, Dalmatia Croatia", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 90, 
+        "attempted": 243, 
+        "clinch": 4, 
+        "ground": 15, 
+        "standing": 71
+    }, 
+    "height": "6' 3\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Zadar Croatia", 
+    "height_cm": "190", 
+    "fullname": "Goran Reljic", 
+    "summary": [
+        "Counterstriker", 
+        "KO power with hands and feet", 
+        "BJJ brown belt"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 6, 
+        "attempted": 12, 
+        "submissions": 4, 
+        "sweeps": 2, 
+        "passes": 4
+    }
+}

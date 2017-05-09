@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Roger Huerta", 
+    "weight": "155", 
+    "hometown": "Los Angeles, California USA", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 333, 
+        "attempted": 911, 
+        "clinch": 44, 
+        "ground": 141, 
+        "standing": 148
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "175", 
+    "fullname": "Roger Huerta", 
+    "summary": [
+        "Well rounded", 
+        "composed and confident", 
+        "an exciting fighter"
+    ], 
+    "nickname": "El Matador", 
+    "takedowns": {
+        "successful": 13, 
+        "attempted": 28, 
+        "submissions": 3, 
+        "sweeps": 5, 
+        "passes": 26
+    }
+}

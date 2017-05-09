@@ -1,0 +1,38 @@
+{
+    "degree": "", 
+    "name": "Geane Herrera", 
+    "weight": "125", 
+    "hometown": "Tampa, Florida USA", 
+    "age": "26", 
+    "fights": [], 
+    "weight_kg": "56", 
+    "strikes": {
+        "successful": 82, 
+        "attempted": 263, 
+        "clinch": 7, 
+        "ground": 17, 
+        "standing": 58
+    }, 
+    "height": "5' 5\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Tampa, Florida USA", 
+    "height_cm": "165", 
+    "fullname": "Geane Herrera", 
+    "summary": [
+        "Speed", 
+        "energetic", 
+        "intense", 
+        "strength", 
+        "agility", 
+        "finishes fights"
+    ], 
+    "nickname": "The Revolutionary", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 8, 
+        "submissions": 2, 
+        "sweeps": 1, 
+        "passes": 3
+    }
+}

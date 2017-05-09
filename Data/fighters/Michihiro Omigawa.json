@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Michihiro Omigawa", 
+    "weight": "145", 
+    "hometown": "Ibaraki Japan", 
+    "age": "41", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 217, 
+        "attempted": 530, 
+        "clinch": 35, 
+        "ground": 27, 
+        "standing": 155
+    }, 
+    "height": "5' 6\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Tokyo Japan", 
+    "height_cm": "167", 
+    "fullname": "Michihiro Omigawa", 
+    "summary": [
+        "Judo technique"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 8, 
+        "attempted": 22, 
+        "submissions": 8, 
+        "sweeps": 5, 
+        "passes": 7
+    }
+}

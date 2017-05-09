@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Seohee Ham", 
+    "weight": "115", 
+    "hometown": "Kangwon-do South Korea", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "52", 
+    "strikes": {
+        "successful": 252, 
+        "attempted": 635, 
+        "clinch": 25, 
+        "ground": 4, 
+        "standing": 223
+    }, 
+    "height": "5' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Busan South Korea", 
+    "height_cm": "157", 
+    "fullname": "Seohee Ham", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 8, 
+        "submissions": 1, 
+        "sweeps": 1, 
+        "passes": 1
+    }
+}

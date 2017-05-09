@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Jorgen Kruth", 
+    "weight": "205", 
+    "hometown": "Stockholm Sweden", 
+    "age": "42", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": null, 
+        "attempted": null, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": null
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Stockholm Sweden", 
+    "height_cm": "187", 
+    "fullname": "Jorgen \"The Last Viking\" Kruth", 
+    "summary": [
+        "Knees", 
+        "kicks", 
+        "and Thai clinch"
+    ], 
+    "nickname": "The Last Viking", 
+    "takedowns": {
+        "successful": null, 
+        "attempted": null, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

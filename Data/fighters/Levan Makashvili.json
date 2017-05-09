@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Levan Makashvili", 
+    "weight": "145", 
+    "hometown": "Gori, Georgia USA", 
+    "age": "28", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 129, 
+        "attempted": 236, 
+        "clinch": 57, 
+        "ground": 13, 
+        "standing": 59
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Oceanside, New York USA", 
+    "height_cm": "172", 
+    "fullname": "Levan Makashvili", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "The Hornet", 
+    "takedowns": {
+        "successful": 11, 
+        "attempted": 26, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 6
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Josh Smith", 
+    "weight": "155", 
+    "hometown": "Dana Point, CA USA", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 11, 
+        "attempted": 39, 
+        "clinch": 5, 
+        "ground": null, 
+        "standing": 6
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "182", 
+    "fullname": "Josh Smith", 
+    "summary": [
+        "Unpredictable", 
+        "mentally strong"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 2, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

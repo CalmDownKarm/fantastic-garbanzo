@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Stephen Ledbetter", 
+    "weight": "145", 
+    "hometown": "Ft Leonard Wood, Missouri USA", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 18, 
+        "attempted": 47, 
+        "clinch": 9, 
+        "ground": 3, 
+        "standing": 6
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "175", 
+    "fullname": "Stephen Ledbetter", 
+    "summary": [
+        "Long reach", 
+        "good clinch", 
+        "athletic"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 11, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

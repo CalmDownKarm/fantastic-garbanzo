@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Anthony Torres", 
+    "weight": "170", 
+    "hometown": "Waimanalo, Hawaii USA", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 24, 
+        "attempted": 49, 
+        "clinch": 7, 
+        "ground": 3, 
+        "standing": 14
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "177", 
+    "fullname": "Anthony Torres", 
+    "summary": [
+        "Good submissions"
+    ], 
+    "nickname": "The Crush", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

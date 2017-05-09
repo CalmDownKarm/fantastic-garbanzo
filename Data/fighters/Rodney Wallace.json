@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Rodney Wallace", 
+    "weight": "205", 
+    "hometown": "Bamberg, SC USA", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 51, 
+        "attempted": 110, 
+        "clinch": 18, 
+        "ground": 11, 
+        "standing": 22
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Charlotte, North Carolina USA", 
+    "height_cm": "175", 
+    "fullname": "Rodney Wallace", 
+    "summary": [
+        "Grappling"
+    ], 
+    "nickname": "Shonuff The Master", 
+    "takedowns": {
+        "successful": 18, 
+        "attempted": 33, 
+        "submissions": 3, 
+        "sweeps": 1, 
+        "passes": 4
+    }
+}

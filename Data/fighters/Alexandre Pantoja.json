@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Alexandre Pantoja", 
+    "weight": "125", 
+    "hometown": "Rio de Janeiro Brazil", 
+    "age": "26", 
+    "fights": [], 
+    "weight_kg": "56", 
+    "strikes": {
+        "successful": 37, 
+        "attempted": 99, 
+        "clinch": 3, 
+        "ground": 2, 
+        "standing": 32
+    }, 
+    "height": "5' 5\"", 
+    "record": "17-2-0", 
+    "college": "", 
+    "location": "Arraial Do Cabo Brazil", 
+    "height_cm": "165", 
+    "fullname": "Alexandre Pantoja", 
+    "summary": [
+        "Aggressive style", 
+        "my family"
+    ], 
+    "nickname": "The Cannibal", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 3, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Joey Gilbert", 
+    "weight": "154", 
+    "hometown": "Chicago, IL. USA", 
+    "age": "46", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 3, 
+        "attempted": 7, 
+        "clinch": 2, 
+        "ground": null, 
+        "standing": 1
+    }, 
+    "height": "5' 5\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "165", 
+    "fullname": "Joey Gilbert", 
+    "summary": [
+        "Wrestling", 
+        "Takedowns", 
+        "Athleticism"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

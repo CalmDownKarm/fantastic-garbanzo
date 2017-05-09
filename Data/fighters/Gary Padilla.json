@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Gary Padilla", 
+    "weight": "205", 
+    "hometown": "San Diego, California USA", 
+    "age": "36", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 33, 
+        "attempted": 119, 
+        "clinch": 9, 
+        "ground": null, 
+        "standing": 24
+    }, 
+    "height": "5' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "152", 
+    "fullname": "Gary Padilla", 
+    "summary": [
+        "KO Power"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

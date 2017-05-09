@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Peggy Morgan", 
+    "weight": "135", 
+    "hometown": "Nashua, NH USA", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 34, 
+        "attempted": 147, 
+        "clinch": 3, 
+        "ground": null, 
+        "standing": 31
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Nashua, NH USA", 
+    "height_cm": "185", 
+    "fullname": "Peggy Morgan", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "Daywalker", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

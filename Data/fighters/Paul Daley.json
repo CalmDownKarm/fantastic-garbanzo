@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Paul Daley", 
+    "weight": "170", 
+    "hometown": "London England", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 46, 
+        "attempted": 111, 
+        "clinch": 9, 
+        "ground": 6, 
+        "standing": 31
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Nottingham England", 
+    "height_cm": "175", 
+    "fullname": "Paul Daley", 
+    "summary": [
+        "KO power"
+    ], 
+    "nickname": "Semtex", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

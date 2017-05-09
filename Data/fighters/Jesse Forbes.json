@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Jesse Forbes", 
+    "weight": "205", 
+    "hometown": "Portland, Maine USA", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 53, 
+        "attempted": 217, 
+        "clinch": 24, 
+        "ground": 2, 
+        "standing": 27
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "187", 
+    "fullname": "Jesse Forbes", 
+    "summary": [
+        "Power", 
+        "speed", 
+        "athleticism"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 4, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 3
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Marcus Hicks", 
+    "weight": "155", 
+    "hometown": "Clarksville, Texas USA", 
+    "age": "41", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 63, 
+        "attempted": 145, 
+        "clinch": 14, 
+        "ground": 6, 
+        "standing": 43
+    }, 
+    "height": "5' 7\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "170", 
+    "fullname": "Marcus Hicks", 
+    "summary": [
+        "Well rounded"
+    ], 
+    "nickname": "Wrecking Ball", 
+    "takedowns": {
+        "successful": 8, 
+        "attempted": 15, 
+        "submissions": 12, 
+        "sweeps": 1, 
+        "passes": 6
+    }
+}

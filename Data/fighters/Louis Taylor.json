@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Louis Taylor", 
+    "weight": "185", 
+    "hometown": "Chicago, Illinois United States", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": null, 
+        "attempted": null, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": null
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Chicago, Illinois USA", 
+    "height_cm": "180", 
+    "fullname": "Louis Taylor", 
+    "summary": [
+        "Power", 
+        "grappling"
+    ], 
+    "nickname": "BeastMode", 
+    "takedowns": {
+        "successful": null, 
+        "attempted": null, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

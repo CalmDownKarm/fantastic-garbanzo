@@ -1,0 +1,34 @@
+{
+    "degree": "Biology, Sociology", 
+    "name": "Jason Brilz", 
+    "weight": "205", 
+    "hometown": "Bismarck, North Dakota USA", 
+    "age": "41", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 185, 
+        "attempted": 459, 
+        "clinch": 55, 
+        "ground": 55, 
+        "standing": 75
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "Univeristy of Nebraska - Omaha", 
+    "location": "Omaha, Nebraska USA", 
+    "height_cm": "180", 
+    "fullname": "Jason \"Hitman\" Brilz", 
+    "summary": [
+        "wrestling", 
+        "submissions"
+    ], 
+    "nickname": "Hitman", 
+    "takedowns": {
+        "successful": 11, 
+        "attempted": 44, 
+        "submissions": 6, 
+        "sweeps": 3, 
+        "passes": 24
+    }
+}

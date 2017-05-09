@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Darren Uyenoyama", 
+    "weight": "125", 
+    "hometown": "San Francisco, CA USA", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "56", 
+    "strikes": {
+        "successful": 66, 
+        "attempted": 165, 
+        "clinch": 8, 
+        "ground": 13, 
+        "standing": 45
+    }, 
+    "height": "5' 6\"", 
+    "record": "", 
+    "college": "", 
+    "location": "South San Francisco, CA USA", 
+    "height_cm": "167", 
+    "fullname": "Darren Uyenoyama", 
+    "summary": [
+        "Grappling"
+    ], 
+    "nickname": "BC", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 15, 
+        "submissions": 3, 
+        "sweeps": 2, 
+        "passes": 4
+    }
+}

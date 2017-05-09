@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Eddie Alvarez", 
+    "weight": "155", 
+    "hometown": "Philadelphia, Pennsylvania United States", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 175, 
+        "attempted": 411, 
+        "clinch": 41, 
+        "ground": 6, 
+        "standing": 128
+    }, 
+    "height": "5' 9\"", 
+    "record": "28-5-0", 
+    "college": "", 
+    "location": "Boca Raton, Florida United States", 
+    "height_cm": "175", 
+    "fullname": "Eddie Alvarez", 
+    "summary": [
+        "Striking", 
+        "boxing", 
+        "wrestling"
+    ], 
+    "nickname": "The Underground King", 
+    "takedowns": {
+        "successful": 10, 
+        "attempted": 37, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

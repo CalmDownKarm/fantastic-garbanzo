@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Junie Browning", 
+    "weight": "155", 
+    "hometown": "Lexington, Kentucky USA", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 32, 
+        "attempted": 66, 
+        "clinch": 3, 
+        "ground": 3, 
+        "standing": 26
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "175", 
+    "fullname": "Junie Browning", 
+    "summary": [
+        "Well-rounded", 
+        "athletic", 
+        "tons of toughness and heart"
+    ], 
+    "nickname": "The Lunatic", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 3, 
+        "submissions": 2, 
+        "sweeps": 1, 
+        "passes": 7
+    }
+}

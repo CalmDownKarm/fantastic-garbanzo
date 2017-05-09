@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Chase Gormley", 
+    "weight": "265", 
+    "hometown": "Red Bluff, California USA", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "120", 
+    "strikes": {
+        "successful": 10, 
+        "attempted": 29, 
+        "clinch": 2, 
+        "ground": 5, 
+        "standing": 3
+    }, 
+    "height": "6' 3\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "190", 
+    "fullname": "Chase Gormley", 
+    "summary": [
+        "Wrestling", 
+        "Cardio"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 3, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "degree": "Business Administration", 
+    "name": "Sean Pierson", 
+    "weight": "170", 
+    "hometown": "Pickering, Ontario Canada", 
+    "age": "41", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 298, 
+        "attempted": 748, 
+        "clinch": 47, 
+        "ground": 23, 
+        "standing": 228
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "Brock University", 
+    "location": "Toronto, Ontario Canada", 
+    "height_cm": "182", 
+    "fullname": "Sean \"The Punisher\" Pierson", 
+    "summary": [
+        "Wrestling", 
+        "experience"
+    ], 
+    "nickname": "The Punisher", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 11, 
+        "submissions": 2, 
+        "sweeps": 2, 
+        "passes": 4
+    }
+}

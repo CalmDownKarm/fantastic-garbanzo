@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Gabriel Benitez", 
+    "weight": "145", 
+    "hometown": "Tijuana, Baja California Mexico", 
+    "age": "28", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 133, 
+        "attempted": 294, 
+        "clinch": 7, 
+        "ground": 10, 
+        "standing": 116
+    }, 
+    "height": "5' 8\"", 
+    "record": "19-6-0", 
+    "college": "", 
+    "location": "Tijuana, Baja California Mexico", 
+    "height_cm": "172", 
+    "fullname": "Gabriel Benitez", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "Moggly", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 7, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

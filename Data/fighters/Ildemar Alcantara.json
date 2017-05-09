@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Ildemar Alcantara", 
+    "weight": "185", 
+    "hometown": "Soure, Para Brazil", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 188, 
+        "attempted": 486, 
+        "clinch": 34, 
+        "ground": 25, 
+        "standing": 129
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Soure, Para Brazil", 
+    "height_cm": "187", 
+    "fullname": "Ildemar Alcantara", 
+    "summary": [
+        "Determination"
+    ], 
+    "nickname": "Marajo", 
+    "takedowns": {
+        "successful": 13, 
+        "attempted": 19, 
+        "submissions": 6, 
+        "sweeps": 0, 
+        "passes": 11
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "Kinesiology", 
+    "name": "Phil Davis", 
+    "weight": "205", 
+    "hometown": "Harrisburg, Pennsylvania USA", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 485, 
+        "attempted": 1406, 
+        "clinch": 62, 
+        "ground": 182, 
+        "standing": 241
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "Penn State ", 
+    "location": "San Diego, California USA", 
+    "height_cm": "187", 
+    "fullname": "Phil Davis", 
+    "summary": [
+        "Wrestling"
+    ], 
+    "nickname": "Mr. Wonderful", 
+    "takedowns": {
+        "successful": 31, 
+        "attempted": 87, 
+        "submissions": 6, 
+        "sweeps": 0, 
+        "passes": 44
+    }
+}

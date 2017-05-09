@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Chris Leben", 
+    "weight": "185", 
+    "hometown": "Portland, OR USA", 
+    "age": "36", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 600, 
+        "attempted": 1379, 
+        "clinch": 170, 
+        "ground": 137, 
+        "standing": 293
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "San Diego, CA USA", 
+    "height_cm": "180", 
+    "fullname": "Chris Leben", 
+    "summary": [
+        "Punching power", 
+        "great chin", 
+        "veteran experience"
+    ], 
+    "nickname": "The Crippler", 
+    "takedowns": {
+        "successful": 17, 
+        "attempted": 41, 
+        "submissions": 12, 
+        "sweeps": 0, 
+        "passes": 23
+    }
+}

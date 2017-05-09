@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Michael McBride", 
+    "weight": "155", 
+    "hometown": "Webster City, Iowa United States", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 16, 
+        "attempted": 31, 
+        "clinch": 2, 
+        "ground": null, 
+        "standing": 14
+    }, 
+    "height": "6' 1\"", 
+    "record": "8-2-0", 
+    "college": "", 
+    "location": "Webster City, Iowa United States", 
+    "height_cm": "185", 
+    "fullname": "Michael McBride", 
+    "summary": [
+        "Jiu-jitsu"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "Criminal Justice", 
+    "name": "Caros Fodor", 
+    "weight": "155", 
+    "hometown": "Redmond, Washington USA", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 47, 
+        "attempted": 92, 
+        "clinch": 15, 
+        "ground": null, 
+        "standing": 32
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "Shoreline Community College", 
+    "location": "Shoreline, Washington USA", 
+    "height_cm": "175", 
+    "fullname": "Caros Fodor", 
+    "summary": [
+        "Very well-rounded and durable"
+    ], 
+    "nickname": "The Future", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 13, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

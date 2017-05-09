@@ -1,0 +1,36 @@
+{
+    "degree": "", 
+    "name": "Sage Northcutt", 
+    "weight": "155", 
+    "hometown": "Houston, Texas USA", 
+    "age": "21", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 101, 
+        "attempted": 174, 
+        "clinch": 29, 
+        "ground": 34, 
+        "standing": 38
+    }, 
+    "height": "6' 0\"", 
+    "record": "8-2-0", 
+    "college": "", 
+    "location": "Katy, Texas USA", 
+    "height_cm": "182", 
+    "fullname": "Sage Northcutt", 
+    "summary": [
+        "Striking", 
+        "power", 
+        "speed", 
+        "unconventional style/footwork"
+    ], 
+    "nickname": "Super", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 11, 
+        "submissions": 2, 
+        "sweeps": 1, 
+        "passes": 7
+    }
+}

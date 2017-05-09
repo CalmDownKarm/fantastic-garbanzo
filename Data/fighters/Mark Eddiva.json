@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Mark Eddiva", 
+    "weight": "145", 
+    "hometown": "Baguio City Philippines", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 139, 
+        "attempted": 304, 
+        "clinch": 34, 
+        "ground": 20, 
+        "standing": 85
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Baguio City Philippines", 
+    "height_cm": "172", 
+    "fullname": "Mark Eddiva", 
+    "summary": [
+        "Wrestling"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 18, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

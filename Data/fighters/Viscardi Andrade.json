@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Viscardi Andrade", 
+    "weight": "170", 
+    "hometown": "Jales City, Sao Paulo Brazil", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 152, 
+        "attempted": 358, 
+        "clinch": 27, 
+        "ground": 21, 
+        "standing": 104
+    }, 
+    "height": "6' 0\"", 
+    "record": "19-7-0", 
+    "college": "", 
+    "location": "S\u00e3o Paulo Brazil", 
+    "height_cm": "182", 
+    "fullname": "Viscardi Andrade", 
+    "summary": [
+        "Strong right hand"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 6, 
+        "attempted": 12, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 4
+    }
+}

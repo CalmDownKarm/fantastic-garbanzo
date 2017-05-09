@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Wagner Campos", 
+    "weight": "145", 
+    "hometown": "Curitiba Brazil", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 17, 
+        "attempted": 41, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 17
+    }, 
+    "height": "5' 6\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Curitiba Brazil", 
+    "height_cm": "167", 
+    "fullname": "Wagner Campos", 
+    "summary": [
+        "Ground game. versatile", 
+        "unpredictable"
+    ], 
+    "nickname": "Galeto", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 2, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 7
+    }
+}

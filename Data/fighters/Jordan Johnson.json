@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Jordan Johnson", 
+    "weight": "205", 
+    "hometown": "Richmond, Virginia USA", 
+    "age": "28", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 39, 
+        "attempted": 67, 
+        "clinch": 3, 
+        "ground": 13, 
+        "standing": 23
+    }, 
+    "height": "6' 2\"", 
+    "record": "7-0-0", 
+    "college": "", 
+    "location": "San Diego, California USA", 
+    "height_cm": "187", 
+    "fullname": "Jordan Johnson", 
+    "summary": [
+        "Wrestling"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 5, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 5
+    }
+}

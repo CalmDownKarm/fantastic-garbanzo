@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "Edward Faaloloto", 
+    "weight": "155", 
+    "hometown": "Honolulu, HI USA", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 34, 
+        "attempted": 104, 
+        "clinch": 11, 
+        "ground": null, 
+        "standing": 23
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "HI USA", 
+    "height_cm": "175", 
+    "fullname": "Edward \"Falo\" Faaloloto", 
+    "summary": [], 
+    "nickname": "Falo", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 4, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

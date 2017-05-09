@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Ivan Lopez", 
+    "weight": "135", 
+    "hometown": "Tijuana Mexico", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 12, 
+        "attempted": 46, 
+        "clinch": 3, 
+        "ground": null, 
+        "standing": 9
+    }, 
+    "height": "5' 6\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "167", 
+    "fullname": "Ivan Lopez", 
+    "summary": [
+        "Standup", 
+        "Kickboxing"
+    ], 
+    "nickname": "El Nino Demoledor", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

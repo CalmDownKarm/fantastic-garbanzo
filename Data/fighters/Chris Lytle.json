@@ -1,0 +1,33 @@
+{
+    "degree": "Sports Management", 
+    "name": "Chris Lytle", 
+    "weight": "170", 
+    "hometown": "Indianapolis, Indiana USA", 
+    "age": "42", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 883, 
+        "attempted": 1948, 
+        "clinch": 178, 
+        "ground": 75, 
+        "standing": 630
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "Indiana University", 
+    "location": "Indianapolis, IN", 
+    "height_cm": "180", 
+    "fullname": "Chris \"Lights Out\" Lytle", 
+    "summary": [
+        "striking and submissions"
+    ], 
+    "nickname": "Lights Out", 
+    "takedowns": {
+        "successful": 11, 
+        "attempted": 20, 
+        "submissions": 37, 
+        "sweeps": 10, 
+        "passes": 20
+    }
+}

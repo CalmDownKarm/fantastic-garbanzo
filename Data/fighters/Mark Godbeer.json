@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Mark Godbeer", 
+    "weight": "240", 
+    "hometown": "Taunton  England", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "109", 
+    "strikes": {
+        "successful": 97, 
+        "attempted": 178, 
+        "clinch": 18, 
+        "ground": null, 
+        "standing": 79
+    }, 
+    "height": "6' 2\"", 
+    "record": "12-3-0", 
+    "college": "", 
+    "location": "Bridgewater England", 
+    "height_cm": "187", 
+    "fullname": "Mark Godbeer", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "The Hand Of", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

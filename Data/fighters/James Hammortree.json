@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "James Hammortree", 
+    "weight": "185", 
+    "hometown": "Chicago, Illinois USA", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 29, 
+        "attempted": 95, 
+        "clinch": 13, 
+        "ground": 2, 
+        "standing": 14
+    }, 
+    "height": "6' 3\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "190", 
+    "fullname": "James Hammortree", 
+    "summary": [
+        "Good wresting", 
+        "strong right hand", 
+        "won\u2019t quit"
+    ], 
+    "nickname": "The Sledge", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 4, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

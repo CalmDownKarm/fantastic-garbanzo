@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Chris Indich", 
+    "weight": "170", 
+    "hometown": "Perth, Western Australia Australia", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 26, 
+        "attempted": 84, 
+        "clinch": 11, 
+        "ground": null, 
+        "standing": 15
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Perth, Western Australia Australia", 
+    "height_cm": "177", 
+    "fullname": "Chris Indich", 
+    "summary": [
+        "Good BJJ and boxing skills"
+    ], 
+    "nickname": "The Savage", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 2, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

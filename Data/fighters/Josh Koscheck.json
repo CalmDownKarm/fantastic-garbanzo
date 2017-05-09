@@ -1,0 +1,35 @@
+{
+    "degree": "Criminal Justice", 
+    "name": "Josh Koscheck", 
+    "weight": "170", 
+    "hometown": "Waynesburg, Pennsylvania USA", 
+    "age": "39", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 428, 
+        "attempted": 1183, 
+        "clinch": 45, 
+        "ground": 179, 
+        "standing": 204
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "Edinboro University", 
+    "location": "Fresno, California USA", 
+    "height_cm": "177", 
+    "fullname": "Josh Koscheck", 
+    "summary": [
+        "Wrestling", 
+        "athleticism", 
+        "former NCAA champion"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 40, 
+        "attempted": 83, 
+        "submissions": 7, 
+        "sweeps": 1, 
+        "passes": 48
+    }
+}

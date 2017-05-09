@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Clay Harvison", 
+    "weight": "170", 
+    "hometown": "Atlanta, Georgia USA", 
+    "age": "36", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 75, 
+        "attempted": 156, 
+        "clinch": 26, 
+        "ground": 11, 
+        "standing": 38
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Atlanta , Georgia USA", 
+    "height_cm": "182", 
+    "fullname": "Clay \"Heavy Metal\" Harvison", 
+    "summary": [
+        "Finishing ability", 
+        "submissions", 
+        "standup"
+    ], 
+    "nickname": "Heavy Metal", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 1, 
+        "submissions": 2, 
+        "sweeps": 1, 
+        "passes": 2
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "BJ Penn", 
+    "weight": "145", 
+    "hometown": "Kailua, Hawaii USA", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 875, 
+        "attempted": 1809, 
+        "clinch": 196, 
+        "ground": 156, 
+        "standing": 523
+    }, 
+    "height": "5' 9\"", 
+    "record": "16-11-2", 
+    "college": "", 
+    "location": "Hilo, Hawaii USA", 
+    "height_cm": "175", 
+    "fullname": "BJ \"The Prodigy\" Penn", 
+    "summary": [
+        "Excellent submissions", 
+        "strong standup", 
+        "two division world champion"
+    ], 
+    "nickname": "The Prodigy", 
+    "takedowns": {
+        "successful": 26, 
+        "attempted": 45, 
+        "submissions": 12, 
+        "sweeps": 1, 
+        "passes": 43
+    }
+}

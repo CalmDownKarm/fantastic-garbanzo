@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Daniel Jolly", 
+    "weight": "205", 
+    "hometown": "Fairfield, CA USA", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 6, 
+        "attempted": 17, 
+        "clinch": 1, 
+        "ground": null, 
+        "standing": 5
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Austin, TX United States", 
+    "height_cm": "185", 
+    "fullname": "Daniel Jolly", 
+    "summary": [
+        "Explosiveness"
+    ], 
+    "nickname": "Werewolf of Texas", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 2, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

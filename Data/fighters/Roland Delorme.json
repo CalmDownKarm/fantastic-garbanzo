@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Roland Delorme", 
+    "weight": "135", 
+    "hometown": "Winnipeg, Manitoba Canada", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 150, 
+        "attempted": 339, 
+        "clinch": 20, 
+        "ground": 32, 
+        "standing": 98
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Winnipeg, Manitoba Canada", 
+    "height_cm": "175", 
+    "fullname": "Roland Delorme", 
+    "summary": [
+        "Grappling"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 11, 
+        "attempted": 32, 
+        "submissions": 7, 
+        "sweeps": 3, 
+        "passes": 20
+    }
+}

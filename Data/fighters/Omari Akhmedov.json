@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Omari Akhmedov", 
+    "weight": "170", 
+    "hometown": "Kizlyar, Dagestan Russia", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 193, 
+        "attempted": 556, 
+        "clinch": 28, 
+        "ground": 39, 
+        "standing": 126
+    }, 
+    "height": "6' 0\"", 
+    "record": "16-3-0", 
+    "college": "", 
+    "location": "Makhachkala Russia", 
+    "height_cm": "182", 
+    "fullname": "Omari Akhmedov", 
+    "summary": [
+        "Striking", 
+        "takedowns"
+    ], 
+    "nickname": "Wolverine", 
+    "takedowns": {
+        "successful": 13, 
+        "attempted": 26, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 4
+    }
+}

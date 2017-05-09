@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Rob Kimmons", 
+    "weight": "185", 
+    "hometown": "Kansas City, KS USA", 
+    "age": "36", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 94, 
+        "attempted": 193, 
+        "clinch": 45, 
+        "ground": 23, 
+        "standing": 26
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Liberty, MO USA", 
+    "height_cm": "177", 
+    "fullname": "Rob Kimmons", 
+    "summary": [
+        "Striking", 
+        "Jujitsu", 
+        "Toughness and Aggression"
+    ], 
+    "nickname": "The Rosedale Reaper", 
+    "takedowns": {
+        "successful": 7, 
+        "attempted": 15, 
+        "submissions": 8, 
+        "sweeps": 1, 
+        "passes": 6
+    }
+}

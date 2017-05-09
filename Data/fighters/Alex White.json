@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Alex White", 
+    "weight": "145", 
+    "hometown": "Columbia, Missouri USA", 
+    "age": "28", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 209, 
+        "attempted": 555, 
+        "clinch": 37, 
+        "ground": 8, 
+        "standing": 164
+    }, 
+    "height": "6' 0\"", 
+    "record": "11-3-0", 
+    "college": "", 
+    "location": "Farmington, MO USA", 
+    "height_cm": "182", 
+    "fullname": "Alex White", 
+    "summary": [
+        "Stand-up"
+    ], 
+    "nickname": "The Spartan", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 10, 
+        "submissions": 1, 
+        "sweeps": 2, 
+        "passes": 3
+    }
+}

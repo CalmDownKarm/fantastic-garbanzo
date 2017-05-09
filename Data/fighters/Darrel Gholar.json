@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "Darrel Gholar", 
+    "weight": "198", 
+    "hometown": "USA", 
+    "age": "", 
+    "fights": [], 
+    "weight_kg": "89", 
+    "strikes": {
+        "successful": null, 
+        "attempted": null, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": null
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "172", 
+    "fullname": "Darrel Gholar", 
+    "summary": [], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": null, 
+        "attempted": null, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

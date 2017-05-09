@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Sam Alvey", 
+    "weight": "185", 
+    "hometown": "Milwaukee, Wisconsin United States", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 294, 
+        "attempted": 601, 
+        "clinch": 76, 
+        "ground": 25, 
+        "standing": 193
+    }, 
+    "height": "6' 2\"", 
+    "record": "30-8-0, 1NC", 
+    "college": "", 
+    "location": "Temecula, California United States", 
+    "height_cm": "187", 
+    "fullname": "Sam Alvey", 
+    "summary": [
+        "I have a strong wrestling base and I hit really hard. I also have an \"of the night\" style"
+    ], 
+    "nickname": "Smile'N", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 3, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

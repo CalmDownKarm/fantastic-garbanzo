@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Bobby Nash", 
+    "weight": "170", 
+    "hometown": "Mt. Clemens, Michigan USA", 
+    "age": "26", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 39, 
+        "attempted": 106, 
+        "clinch": 11, 
+        "ground": 2, 
+        "standing": 26
+    }, 
+    "height": "6' 0\"", 
+    "record": "8-2-0", 
+    "college": "", 
+    "location": "Detroit , Michigan United States", 
+    "height_cm": "182", 
+    "fullname": "Bobby Nash", 
+    "summary": [
+        "Wrestling and striking"
+    ], 
+    "nickname": "Nashty", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 4, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

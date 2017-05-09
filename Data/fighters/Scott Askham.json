@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Scott Askham", 
+    "weight": "185", 
+    "hometown": "Yorkshire England", 
+    "age": "28", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 205, 
+        "attempted": 444, 
+        "clinch": 47, 
+        "ground": 10, 
+        "standing": 148
+    }, 
+    "height": "6' 3\"", 
+    "record": "14-4-0", 
+    "college": "", 
+    "location": "Doncaster, Yorkshire England", 
+    "height_cm": "190", 
+    "fullname": "Scott Askham", 
+    "summary": [
+        "Cardio", 
+        "clinch grappling/cage work", 
+        "striking"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 11, 
+        "submissions": 3, 
+        "sweeps": 1, 
+        "passes": 2
+    }
+}

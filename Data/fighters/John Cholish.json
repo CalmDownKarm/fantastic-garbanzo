@@ -1,0 +1,33 @@
+{
+    "degree": "Applied Economics and Management", 
+    "name": "John Cholish", 
+    "weight": "155", 
+    "hometown": "Hackettstown, New Jersey USA", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 93, 
+        "attempted": 190, 
+        "clinch": 5, 
+        "ground": 17, 
+        "standing": 71
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "Cornell University", 
+    "location": "New York, New York USA", 
+    "height_cm": "180", 
+    "fullname": "John Cholish", 
+    "summary": [
+        "Trying to instill in myself the idea of being a complete mixed martial artist and maintaining a well rounded base"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 13, 
+        "submissions": 0, 
+        "sweeps": 2, 
+        "passes": 2
+    }
+}

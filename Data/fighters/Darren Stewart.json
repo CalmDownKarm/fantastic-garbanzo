@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Darren Stewart", 
+    "weight": "205", 
+    "hometown": "London England", 
+    "age": "26", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 38, 
+        "attempted": 83, 
+        "clinch": 15, 
+        "ground": 7, 
+        "standing": 16
+    }, 
+    "height": "5' 10\"", 
+    "record": "7-1-0, 1NC", 
+    "college": "", 
+    "location": "London England", 
+    "height_cm": "177", 
+    "fullname": "Darren Stewart", 
+    "summary": [
+        "Speed and Movement "
+    ], 
+    "nickname": "The Dentist", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 7, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

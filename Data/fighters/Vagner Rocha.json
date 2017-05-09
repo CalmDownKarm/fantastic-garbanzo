@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Vagner Rocha", 
+    "weight": "155", 
+    "hometown": "Nova Friburgo, Rio de Janeiro Brazil", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 85, 
+        "attempted": 200, 
+        "clinch": 1, 
+        "ground": 10, 
+        "standing": 74
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Pembroke Pines, FL USA", 
+    "height_cm": "177", 
+    "fullname": "Vagner \"Ceara\" Rocha", 
+    "summary": [
+        "Submissions"
+    ], 
+    "nickname": "Ceara", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 9, 
+        "submissions": 4, 
+        "sweeps": 0, 
+        "passes": 5
+    }
+}

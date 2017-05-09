@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Christian Colombo", 
+    "weight": "265", 
+    "hometown": "Copenhagen Denmark", 
+    "age": "36", 
+    "fights": [], 
+    "weight_kg": "120", 
+    "strikes": {
+        "successful": 79, 
+        "attempted": 173, 
+        "clinch": 38, 
+        "ground": 2, 
+        "standing": 39
+    }, 
+    "height": "6' 5\"", 
+    "record": "8-2-1", 
+    "college": "", 
+    "location": "Copenhagen Denmark", 
+    "height_cm": "195", 
+    "fullname": "Christian Colombo", 
+    "summary": [
+        "Muay Thai"
+    ], 
+    "nickname": "Godzilla", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

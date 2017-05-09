@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Will Brooks", 
+    "weight": "155", 
+    "hometown": "Chicago, Illinois United States", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 96, 
+        "attempted": 167, 
+        "clinch": 41, 
+        "ground": 7, 
+        "standing": 48
+    }, 
+    "height": "5' 10\"", 
+    "record": "18-2-0", 
+    "college": "", 
+    "location": "Coconut Creek, Florida United States", 
+    "height_cm": "177", 
+    "fullname": "Will Brooks", 
+    "summary": [
+        "Well-rounded"
+    ], 
+    "nickname": "Ill Will", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 14, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 5
+    }
+}

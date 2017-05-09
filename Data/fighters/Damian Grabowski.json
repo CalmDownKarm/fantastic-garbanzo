@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "Damian Grabowski", 
+    "weight": "241", 
+    "hometown": "Opole Poland", 
+    "age": "36", 
+    "fights": [], 
+    "weight_kg": "109", 
+    "strikes": {
+        "successful": 2, 
+        "attempted": 6, 
+        "clinch": 1, 
+        "ground": null, 
+        "standing": 1
+    }, 
+    "height": "6' 1\"", 
+    "record": "20-4-0", 
+    "college": "", 
+    "location": "Opole Poland", 
+    "height_cm": "185", 
+    "fullname": "Damian Grabowski", 
+    "summary": [], 
+    "nickname": "The Polish Pitbull", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

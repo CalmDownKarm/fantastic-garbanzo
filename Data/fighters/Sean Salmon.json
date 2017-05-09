@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Sean Salmon", 
+    "weight": "205", 
+    "hometown": "Milwaukee, WI USA", 
+    "age": "39", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 11, 
+        "attempted": 29, 
+        "clinch": 2, 
+        "ground": 7, 
+        "standing": 2
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "177", 
+    "fullname": "Sean Salmon", 
+    "summary": [
+        "Takedowns", 
+        "Speed", 
+        "Strength"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 4, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

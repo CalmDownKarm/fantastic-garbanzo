@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Terry Etim", 
+    "weight": "155", 
+    "hometown": "Liverpool, England England", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 229, 
+        "attempted": 639, 
+        "clinch": 27, 
+        "ground": 3, 
+        "standing": 199
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Liverpool England", 
+    "height_cm": "185", 
+    "fullname": "Terry Etim", 
+    "summary": [
+        "good all-around fighter"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 10, 
+        "submissions": 10, 
+        "sweeps": 1, 
+        "passes": 1
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "Jose Landi-Jons", 
+    "weight": "184", 
+    "hometown": "USA", 
+    "age": "", 
+    "fights": [], 
+    "weight_kg": "83", 
+    "strikes": {
+        "successful": null, 
+        "attempted": null, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": null
+    }, 
+    "height": "", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "", 
+    "fullname": "Jose Landi-Jons", 
+    "summary": [], 
+    "nickname": "Pele", 
+    "takedowns": {
+        "successful": null, 
+        "attempted": null, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

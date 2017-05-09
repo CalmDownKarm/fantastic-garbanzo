@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Tom Breese", 
+    "weight": "170", 
+    "hometown": "Birmingham England", 
+    "age": "25", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 143, 
+        "attempted": 289, 
+        "clinch": 21, 
+        "ground": 17, 
+        "standing": 105
+    }, 
+    "height": "6' 3\"", 
+    "record": "10-1-0", 
+    "college": "", 
+    "location": "Birmingham England", 
+    "height_cm": "190", 
+    "fullname": "Tom Breese", 
+    "summary": [
+        "Boxing/BJJ"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 5, 
+        "submissions": 1, 
+        "sweeps": 1, 
+        "passes": 3
+    }
+}

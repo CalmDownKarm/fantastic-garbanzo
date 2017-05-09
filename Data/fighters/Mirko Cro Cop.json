@@ -1,0 +1,36 @@
+{
+    "degree": "", 
+    "name": "Mirko Cro Cop", 
+    "weight": "220", 
+    "hometown": "Vinkovci Croatia", 
+    "age": "42", 
+    "fights": [], 
+    "weight_kg": "99", 
+    "strikes": {
+        "successful": 236, 
+        "attempted": 535, 
+        "clinch": 66, 
+        "ground": 42, 
+        "standing": 128
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Zagreb Croatia", 
+    "height_cm": "187", 
+    "fullname": "Mirko Cro Cop", 
+    "summary": [
+        "Left straight", 
+        "left kicks", 
+        "knockout power", 
+        "experience"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 6, 
+        "submissions": 3, 
+        "sweeps": 0, 
+        "passes": 7
+    }
+}

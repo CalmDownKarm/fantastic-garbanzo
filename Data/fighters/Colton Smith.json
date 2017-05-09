@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Colton Smith", 
+    "weight": "155", 
+    "hometown": "Des Moines, IA USA", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 54, 
+        "attempted": 130, 
+        "clinch": 17, 
+        "ground": 7, 
+        "standing": 30
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Fort Hood, TX USA", 
+    "height_cm": "182", 
+    "fullname": "Colton Smith", 
+    "summary": [
+        "Grappling", 
+        "boxing"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 9, 
+        "attempted": 25, 
+        "submissions": 3, 
+        "sweeps": 0, 
+        "passes": 6
+    }
+}

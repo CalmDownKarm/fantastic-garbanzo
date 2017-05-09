@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Micah Miller", 
+    "weight": "145", 
+    "hometown": "Chicago, Illinois USA", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 51, 
+        "attempted": 145, 
+        "clinch": 31, 
+        "ground": 5, 
+        "standing": 15
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "182", 
+    "fullname": "Micah Miller", 
+    "summary": [
+        "Good submissions", 
+        "quick hands", 
+        "flexible"
+    ], 
+    "nickname": "Maverick", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 7, 
+        "submissions": 3, 
+        "sweeps": 1, 
+        "passes": 5
+    }
+}

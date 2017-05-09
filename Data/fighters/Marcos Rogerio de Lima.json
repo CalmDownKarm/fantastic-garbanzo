@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Marcos Rogerio De Lima", 
+    "weight": "205", 
+    "hometown": "Ribeir\u00e2o Pires, Sao Paulo Brazil", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 90, 
+        "attempted": 158, 
+        "clinch": 14, 
+        "ground": 31, 
+        "standing": 45
+    }, 
+    "height": "6' 1\"", 
+    "record": "15-6-1", 
+    "college": "", 
+    "location": "Sao Paulo Brazil", 
+    "height_cm": "185", 
+    "fullname": "Marcos Rogerio De Lima", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "Pezao", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 3, 
+        "sweeps": 1, 
+        "passes": 3
+    }
+}

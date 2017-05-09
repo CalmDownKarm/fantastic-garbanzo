@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "Rob Broughton", 
+    "weight": "265", 
+    "hometown": "St. Helens, Mersyside England", 
+    "age": "", 
+    "fights": [], 
+    "weight_kg": "120", 
+    "strikes": {
+        "successful": 118, 
+        "attempted": 196, 
+        "clinch": 11, 
+        "ground": 29, 
+        "standing": 78
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Liverpool England", 
+    "height_cm": "187", 
+    "fullname": "Rob \"The Bear\" Broughton", 
+    "summary": [], 
+    "nickname": "The Bear", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 9, 
+        "sweeps": 1, 
+        "passes": 5
+    }
+}

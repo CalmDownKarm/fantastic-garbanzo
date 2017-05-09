@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Justin McCully", 
+    "weight": "240", 
+    "hometown": "Washington, DC USA", 
+    "age": "41", 
+    "fights": [], 
+    "weight_kg": "109", 
+    "strikes": {
+        "successful": 74, 
+        "attempted": 195, 
+        "clinch": 23, 
+        "ground": 18, 
+        "standing": 33
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "187", 
+    "fullname": "Justin McCully", 
+    "summary": [
+        "good technique and striking", 
+        "submissions"
+    ], 
+    "nickname": "The Nsane1", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 9, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 2
+    }
+}

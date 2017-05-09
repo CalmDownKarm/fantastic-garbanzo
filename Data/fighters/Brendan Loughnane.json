@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Brendan Loughnane", 
+    "weight": "155", 
+    "hometown": "Manchester England", 
+    "age": "27", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 75, 
+        "attempted": 119, 
+        "clinch": 8, 
+        "ground": null, 
+        "standing": 67
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Manchester England", 
+    "height_cm": "177", 
+    "fullname": "Brendan Loughnane", 
+    "summary": [
+        "Cardio and heart"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 2, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

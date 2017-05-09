@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Lance Gibson", 
+    "weight": "185", 
+    "hometown": "Toronto, Canada USA", 
+    "age": "46", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 6, 
+        "attempted": 8, 
+        "clinch": 4, 
+        "ground": 1, 
+        "standing": 1
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "175", 
+    "fullname": "Lance Gibson", 
+    "summary": [
+        "Adapts well to opponent\u2019s style"
+    ], 
+    "nickname": "Fearless", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

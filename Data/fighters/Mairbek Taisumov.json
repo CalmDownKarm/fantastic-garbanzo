@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Mairbek Taisumov", 
+    "weight": "155", 
+    "hometown": "Grozny, Chechen Republic Russia", 
+    "age": "28", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 153, 
+        "attempted": 349, 
+        "clinch": 12, 
+        "ground": 23, 
+        "standing": 118
+    }, 
+    "height": "5' 9\"", 
+    "record": "25-5-0", 
+    "college": "", 
+    "location": "Vienna Austria", 
+    "height_cm": "175", 
+    "fullname": "Mairbek Taisumov", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "Beckan", 
+    "takedowns": {
+        "successful": 7, 
+        "attempted": 9, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Max Griffin", 
+    "weight": "170", 
+    "hometown": "Santa Barbara, California USA", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 28, 
+        "attempted": 65, 
+        "clinch": 1, 
+        "ground": 12, 
+        "standing": 15
+    }, 
+    "height": "5' 11\"", 
+    "record": "13-3-0", 
+    "college": "", 
+    "location": "Sacramento, California USA", 
+    "height_cm": "180", 
+    "fullname": "Max Griffin", 
+    "summary": [
+        "Unorthodox striker", 
+        "finisher"
+    ], 
+    "nickname": "Pain", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 1, 
+        "sweeps": 1, 
+        "passes": 0
+    }
+}

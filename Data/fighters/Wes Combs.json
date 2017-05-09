@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Wes Combs", 
+    "weight": "205", 
+    "hometown": "Roanoke, Virginia", 
+    "age": "43", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 14, 
+        "attempted": 29, 
+        "clinch": 2, 
+        "ground": null, 
+        "standing": 12
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "187", 
+    "fullname": "Wes Combs", 
+    "summary": [
+        "All around"
+    ], 
+    "nickname": "The Soldier", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

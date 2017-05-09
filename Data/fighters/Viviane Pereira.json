@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Viviane Pereira", 
+    "weight": "115", 
+    "hometown": "Taua, Ceara Brazil", 
+    "age": "23", 
+    "fights": [], 
+    "weight_kg": "52", 
+    "strikes": {
+        "successful": 25, 
+        "attempted": 97, 
+        "clinch": 4, 
+        "ground": 1, 
+        "standing": 20
+    }, 
+    "height": "5' 0\"", 
+    "record": "12-0-0", 
+    "college": "", 
+    "location": "Fortaleza, Ceara Brazil", 
+    "height_cm": "152", 
+    "fullname": "Viviane Pereira", 
+    "summary": [
+        "Striking power"
+    ], 
+    "nickname": "Sucuri", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

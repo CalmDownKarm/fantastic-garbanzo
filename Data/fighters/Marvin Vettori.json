@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Marvin Vettori", 
+    "weight": "185", 
+    "hometown": "Trento Italy", 
+    "age": "23", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 39, 
+        "attempted": 84, 
+        "clinch": 2, 
+        "ground": 24, 
+        "standing": 13
+    }, 
+    "height": "6' 0\"", 
+    "record": "11-3-0", 
+    "college": "", 
+    "location": "Mezzocorona Italy", 
+    "height_cm": "182", 
+    "fullname": "Marvin Vettori", 
+    "summary": [
+        "Complete fighter"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 2, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

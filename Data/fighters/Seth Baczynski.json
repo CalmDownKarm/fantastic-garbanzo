@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Seth Baczynski", 
+    "weight": "170", 
+    "hometown": "Kauai, Hawaii USA", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 310, 
+        "attempted": 982, 
+        "clinch": 65, 
+        "ground": 36, 
+        "standing": 209
+    }, 
+    "height": "6' 3\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Apache Junction, Arizona USA", 
+    "height_cm": "190", 
+    "fullname": "Seth \"Polish Pistola\" Baczynski", 
+    "summary": [
+        "Striking", 
+        "grappling"
+    ], 
+    "nickname": "Polish Pistola", 
+    "takedowns": {
+        "successful": 6, 
+        "attempted": 36, 
+        "submissions": 5, 
+        "sweeps": 0, 
+        "passes": 4
+    }
+}

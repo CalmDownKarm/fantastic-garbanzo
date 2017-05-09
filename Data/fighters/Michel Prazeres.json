@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Michel Prazeres", 
+    "weight": "155", 
+    "hometown": "Belem, Para Brazil", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 276, 
+        "attempted": 595, 
+        "clinch": 29, 
+        "ground": 26, 
+        "standing": 221
+    }, 
+    "height": "5' 6\"", 
+    "record": "22-2-0", 
+    "college": "", 
+    "location": "Belem, Para Brazil", 
+    "height_cm": "167", 
+    "fullname": "Michel Prazeres", 
+    "summary": [
+        "Ground game"
+    ], 
+    "nickname": "Tractor", 
+    "takedowns": {
+        "successful": 31, 
+        "attempted": 85, 
+        "submissions": 2, 
+        "sweeps": 1, 
+        "passes": 22
+    }
+}

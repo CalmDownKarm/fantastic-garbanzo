@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Daiju Takase", 
+    "weight": "169", 
+    "hometown": "Saitama, Japan USA", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "76", 
+    "strikes": {
+        "successful": 0, 
+        "attempted": 2, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": null
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "182", 
+    "fullname": "Daiju Takase", 
+    "summary": [
+        "Stand up skills and guard passing"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

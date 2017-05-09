@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Doug Evans", 
+    "weight": "155", 
+    "hometown": "Dover, Delaware USA", 
+    "age": "36", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 42, 
+        "attempted": 117, 
+        "clinch": 18, 
+        "ground": 2, 
+        "standing": 22
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "175", 
+    "fullname": "Doug Evans", 
+    "summary": [
+        "Wrestling", 
+        "Ground and Pound"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 6, 
+        "submissions": 1, 
+        "sweeps": 1, 
+        "passes": 2
+    }
+}

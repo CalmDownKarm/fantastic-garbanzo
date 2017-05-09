@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Jimmie Rivera", 
+    "weight": "135", 
+    "hometown": "Passaic, New Jersey USA", 
+    "age": "27", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 210, 
+        "attempted": 522, 
+        "clinch": 16, 
+        "ground": 1, 
+        "standing": 193
+    }, 
+    "height": "5' 4\"", 
+    "record": "20-1-0", 
+    "college": "", 
+    "location": "Ramsey, New Jersey USA", 
+    "height_cm": "162", 
+    "fullname": "Jimmie Rivera", 
+    "summary": [
+        "Striking", 
+        "wrestling and grappling"
+    ], 
+    "nickname": "El Terror", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 9, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

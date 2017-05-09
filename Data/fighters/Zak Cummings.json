@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Zak Cummings", 
+    "weight": "170", 
+    "hometown": "Irving, TX USA", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 180, 
+        "attempted": 589, 
+        "clinch": 30, 
+        "ground": 18, 
+        "standing": 132
+    }, 
+    "height": "6' 0\"", 
+    "record": "20-5-0", 
+    "college": "", 
+    "location": "Kansas City, MO USA", 
+    "height_cm": "182", 
+    "fullname": "Zak Cummings", 
+    "summary": [
+        "Well-rounded"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 7, 
+        "attempted": 15, 
+        "submissions": 4, 
+        "sweeps": 1, 
+        "passes": 9
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Elvis Mutapcic", 
+    "weight": "185", 
+    "hometown": "Sarajevo Bosnia", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 131, 
+        "attempted": 322, 
+        "clinch": 38, 
+        "ground": 27, 
+        "standing": 66
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Des Moines, Iowa USA", 
+    "height_cm": "182", 
+    "fullname": "Elvis Mutapcic", 
+    "summary": [
+        "Inflicts damage bell-to-bell", 
+        "takedown defense", 
+        "takedown by KO"
+    ], 
+    "nickname": "The King", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Alexander Yakovlev", 
+    "weight": "170", 
+    "hometown": "Great Novgorod Russia", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 138, 
+        "attempted": 296, 
+        "clinch": 16, 
+        "ground": 13, 
+        "standing": 109
+    }, 
+    "height": "6' 3\"", 
+    "record": "23-8-1", 
+    "college": "", 
+    "location": "Fairfield, New Jersey USA", 
+    "height_cm": "190", 
+    "fullname": "Alexander Yakovlev", 
+    "summary": [
+        "Intellectual fighter"
+    ], 
+    "nickname": "Thunder Of The North", 
+    "takedowns": {
+        "successful": 6, 
+        "attempted": 20, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 7
+    }
+}

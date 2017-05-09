@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Sean McCorkle", 
+    "weight": "265", 
+    "hometown": "Indianapolis, IN", 
+    "age": "", 
+    "fights": [], 
+    "weight_kg": "120", 
+    "strikes": {
+        "successful": 12, 
+        "attempted": 27, 
+        "clinch": 7, 
+        "ground": null, 
+        "standing": 5
+    }, 
+    "height": "6' 7\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Indianapolis, IN USA", 
+    "height_cm": "200", 
+    "fullname": "Sean McCorkle", 
+    "summary": [
+        "Size", 
+        "strength", 
+        "very internet savvy "
+    ], 
+    "nickname": "Big Sexy", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 5, 
+        "submissions": 4, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

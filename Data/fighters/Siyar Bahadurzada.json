@@ -1,0 +1,35 @@
+{
+    "degree": "International Business and Languages", 
+    "name": "Siyar Bahadurzada", 
+    "weight": "170", 
+    "hometown": "Kabul Afghanistan", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 136, 
+        "attempted": 286, 
+        "clinch": 41, 
+        "ground": 48, 
+        "standing": 47
+    }, 
+    "height": "5' 11\"", 
+    "record": "22-6-1", 
+    "college": "Arnhem University", 
+    "location": "Boca Raton, FL USA", 
+    "height_cm": "180", 
+    "fullname": "Siyar \"The Great\" Bahadurzada", 
+    "summary": [
+        "Willpower", 
+        "determination", 
+        "one-punch knockout power"
+    ], 
+    "nickname": "The Great", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 5, 
+        "submissions": 1, 
+        "sweeps": 1, 
+        "passes": 4
+    }
+}

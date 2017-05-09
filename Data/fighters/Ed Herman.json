@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Ed Herman", 
+    "weight": "205", 
+    "hometown": "Vancouver, Washington USA", 
+    "age": "36", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 516, 
+        "attempted": 989, 
+        "clinch": 163, 
+        "ground": 173, 
+        "standing": 180
+    }, 
+    "height": "6' 1\"", 
+    "record": "24-12-0, 1NC", 
+    "college": "", 
+    "location": "Portland, Oregon USA", 
+    "height_cm": "185", 
+    "fullname": "Ed \"Short Fuse\" Herman", 
+    "summary": [
+        "Aggressive ground and pound", 
+        "clinch fighting", 
+        "wrestling"
+    ], 
+    "nickname": "Short Fuse", 
+    "takedowns": {
+        "successful": 31, 
+        "attempted": 60, 
+        "submissions": 13, 
+        "sweeps": 4, 
+        "passes": 33
+    }
+}

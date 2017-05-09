@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Dylan Andrews", 
+    "weight": "185", 
+    "hometown": "Wellington New Zealand", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 82, 
+        "attempted": 163, 
+        "clinch": 19, 
+        "ground": 18, 
+        "standing": 45
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Gold Coast, Queensland Australia", 
+    "height_cm": "185", 
+    "fullname": "Dylan Andrews", 
+    "summary": [
+        "Wrestling", 
+        "boxing"
+    ], 
+    "nickname": "The Villain", 
+    "takedowns": {
+        "successful": 7, 
+        "attempted": 14, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 5
+    }
+}

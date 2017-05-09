@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Thales Leites", 
+    "weight": "185", 
+    "hometown": "Rio de Janeiro Brazil", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 413, 
+        "attempted": 1053, 
+        "clinch": 49, 
+        "ground": 115, 
+        "standing": 249
+    }, 
+    "height": "6' 1\"", 
+    "record": "26-7-0", 
+    "college": "", 
+    "location": "Rio de Janeiro Brazil", 
+    "height_cm": "185", 
+    "fullname": "Thales Leites", 
+    "summary": [
+        "World-class ground game"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 31, 
+        "attempted": 109, 
+        "submissions": 17, 
+        "sweeps": 0, 
+        "passes": 61
+    }
+}

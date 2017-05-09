@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Katsunori Kikuno", 
+    "weight": "145", 
+    "hometown": "Kagoshima Japan", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 79, 
+        "attempted": 175, 
+        "clinch": 5, 
+        "ground": 3, 
+        "standing": 71
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Tokyo Japan", 
+    "height_cm": "172", 
+    "fullname": "Katsunori Kikuno", 
+    "summary": [
+        "Striking - especially kicks to the body"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 5, 
+        "submissions": 1, 
+        "sweeps": 1, 
+        "passes": 9
+    }
+}

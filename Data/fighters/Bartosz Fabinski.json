@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Bartosz Fabinski", 
+    "weight": "185", 
+    "hometown": "Warsaw Poland", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 66, 
+        "attempted": 92, 
+        "clinch": 39, 
+        "ground": 13, 
+        "standing": 14
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Warsaw Poland", 
+    "height_cm": "182", 
+    "fullname": "Bartosz Fabinski", 
+    "summary": [
+        "Throws", 
+        "vicious elbows", 
+        "physical power"
+    ], 
+    "nickname": "The Butcher", 
+    "takedowns": {
+        "successful": 16, 
+        "attempted": 22, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 16
+    }
+}

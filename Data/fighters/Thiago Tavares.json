@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Thiago Tavares", 
+    "weight": "145", 
+    "hometown": "Florianopolis Brazil", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 329, 
+        "attempted": 820, 
+        "clinch": 30, 
+        "ground": 90, 
+        "standing": 209
+    }, 
+    "height": "5' 7\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Florianopolis Brazil", 
+    "height_cm": "170", 
+    "fullname": "Thiago Tavares", 
+    "summary": [
+        "Very strong", 
+        "good submissions", 
+        "dangerous Muay Thai"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 42, 
+        "attempted": 98, 
+        "submissions": 16, 
+        "sweeps": 5, 
+        "passes": 32
+    }
+}

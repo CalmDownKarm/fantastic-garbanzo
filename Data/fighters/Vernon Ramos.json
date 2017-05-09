@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Vernon Ramos", 
+    "weight": "168", 
+    "hometown": "Panama City Panama", 
+    "age": "24", 
+    "fights": [], 
+    "weight_kg": "76", 
+    "strikes": {
+        "successful": 2, 
+        "attempted": 8, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 2
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Panama City Panama", 
+    "height_cm": "175", 
+    "fullname": "Vernon Ramos", 
+    "summary": [
+        "Jiu-jitsu"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

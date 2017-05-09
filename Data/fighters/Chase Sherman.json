@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Chase Sherman", 
+    "weight": "250", 
+    "hometown": "D'Iberville, Mississippi USA", 
+    "age": "27", 
+    "fights": [], 
+    "weight_kg": "113", 
+    "strikes": {
+        "successful": 79, 
+        "attempted": 229, 
+        "clinch": 1, 
+        "ground": null, 
+        "standing": 78
+    }, 
+    "height": "6' 4\"", 
+    "record": "9-3-0", 
+    "college": "", 
+    "location": "D'Iberville, Mississippi USA", 
+    "height_cm": "193", 
+    "fullname": "Chase Sherman", 
+    "summary": [
+        "Dynamic style", 
+        "athleticism"
+    ], 
+    "nickname": "The Vanilla Gorilla", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

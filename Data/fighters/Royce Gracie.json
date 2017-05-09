@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Royce Gracie", 
+    "weight": "180", 
+    "hometown": "Rio de Janeiro, Rio de Janeiro Brazil", 
+    "age": "50", 
+    "fights": [], 
+    "weight_kg": "81", 
+    "strikes": {
+        "successful": 7, 
+        "attempted": 11, 
+        "clinch": 2, 
+        "ground": null, 
+        "standing": 5
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "185", 
+    "fullname": "Royce Gracie", 
+    "summary": [
+        "One of the best grapplers in the world"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Rocky Lee", 
+    "weight": "145", 
+    "hometown": "Taipei Taiwan", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 37, 
+        "attempted": 72, 
+        "clinch": 10, 
+        "ground": 1, 
+        "standing": 26
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Taipei Taiwan", 
+    "height_cm": "175", 
+    "fullname": "Rocky Lee", 
+    "summary": [
+        "Grappling"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 10, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

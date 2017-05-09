@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Joe Gigliotti", 
+    "weight": "185", 
+    "hometown": "Cleveland, Ohio USA", 
+    "age": "23", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 20, 
+        "attempted": 51, 
+        "clinch": 8, 
+        "ground": 1, 
+        "standing": 11
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Cleveland, Ohio USA", 
+    "height_cm": "180", 
+    "fullname": "Joe Gigliotti", 
+    "summary": [
+        "Wrestling", 
+        "heart", 
+        "athleticism"
+    ], 
+    "nickname": "Capo", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 2, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

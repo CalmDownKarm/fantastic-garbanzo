@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Ulka Sasaki", 
+    "weight": "125", 
+    "hometown": "Shizuoka Japan", 
+    "age": "27", 
+    "fights": [], 
+    "weight_kg": "56", 
+    "strikes": {
+        "successful": 70, 
+        "attempted": 196, 
+        "clinch": 4, 
+        "ground": 11, 
+        "standing": 55
+    }, 
+    "height": "5' 10\"", 
+    "record": "19-4-2", 
+    "college": "", 
+    "location": "Shizuoka Japan", 
+    "height_cm": "177", 
+    "fullname": "Ulka Sasaki", 
+    "summary": [
+        "Grappling", 
+        "submissions"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 6, 
+        "attempted": 20, 
+        "submissions": 3, 
+        "sweeps": 2, 
+        "passes": 9
+    }
+}

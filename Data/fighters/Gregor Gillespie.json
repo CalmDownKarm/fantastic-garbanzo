@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Gregor Gillespie", 
+    "weight": "155", 
+    "hometown": "Rochester, New York United States", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 41, 
+        "attempted": 90, 
+        "clinch": 3, 
+        "ground": 15, 
+        "standing": 23
+    }, 
+    "height": "5' 9\"", 
+    "record": "8-0-0", 
+    "college": "", 
+    "location": "Long Island, New York United States", 
+    "height_cm": "175", 
+    "fullname": "Gregor Gillespie", 
+    "summary": [
+        "Wrestling"
+    ], 
+    "nickname": "The Gift", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 19, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 8
+    }
+}

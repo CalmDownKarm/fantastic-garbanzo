@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "Daniel Spohn", 
+    "weight": "205", 
+    "hometown": "New Concord, Ohio USA", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 24, 
+        "attempted": 51, 
+        "clinch": 6, 
+        "ground": 1, 
+        "standing": 17
+    }, 
+    "height": "6' 4\"", 
+    "record": "8-4-0", 
+    "college": "", 
+    "location": "Columbus, Ohio USA", 
+    "height_cm": "193", 
+    "fullname": "Daniel Spohn", 
+    "summary": [], 
+    "nickname": "Dragon", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

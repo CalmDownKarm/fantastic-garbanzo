@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Tyler Toner", 
+    "weight": "145", 
+    "hometown": "Denver, CO US", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 67, 
+        "attempted": 146, 
+        "clinch": 5, 
+        "ground": 21, 
+        "standing": 41
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "172", 
+    "fullname": "Tyler Toner", 
+    "summary": [
+        "Good power", 
+        "training partners", 
+        "conditioning"
+    ], 
+    "nickname": "Thunder", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

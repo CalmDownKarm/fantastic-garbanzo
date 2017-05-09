@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Josh Clopton", 
+    "weight": "145", 
+    "hometown": "Columbus, MS USA", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 48, 
+        "attempted": 75, 
+        "clinch": 20, 
+        "ground": 8, 
+        "standing": 20
+    }, 
+    "height": "5' 6\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Pacifica, CA USA", 
+    "height_cm": "167", 
+    "fullname": "Josh \"The Gentleman\" Clopton", 
+    "summary": [
+        "Well-Rounded"
+    ], 
+    "nickname": "The Gentleman", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 6, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

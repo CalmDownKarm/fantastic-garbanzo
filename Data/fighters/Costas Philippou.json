@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Costas Philippou", 
+    "weight": "185", 
+    "hometown": "Limassol Cyprus", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 244, 
+        "attempted": 695, 
+        "clinch": 30, 
+        "ground": 38, 
+        "standing": 176
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Long Island , New York USA", 
+    "height_cm": "180", 
+    "fullname": "Costas Philippou", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 7, 
+        "submissions": 2, 
+        "sweeps": 1, 
+        "passes": 2
+    }
+}

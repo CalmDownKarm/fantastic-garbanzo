@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Colin Robinson", 
+    "weight": "242", 
+    "hometown": "Ballymena, Co. Antrim Northern Ireland", 
+    "age": "48", 
+    "fights": [], 
+    "weight_kg": "109", 
+    "strikes": {
+        "successful": 36, 
+        "attempted": 52, 
+        "clinch": 20, 
+        "ground": null, 
+        "standing": 16
+    }, 
+    "height": "6' 4\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "193", 
+    "fullname": "Colin Robinson", 
+    "summary": [
+        "Good striker", 
+        "ground n pound"
+    ], 
+    "nickname": "Big C", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 1, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

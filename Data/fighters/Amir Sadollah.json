@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Amir Sadollah", 
+    "weight": "170", 
+    "hometown": "Brooklyn, New York USA", 
+    "age": "36", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 621, 
+        "attempted": 1336, 
+        "clinch": 149, 
+        "ground": 52, 
+        "standing": 420
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Richmond, VA USA", 
+    "height_cm": "180", 
+    "fullname": "Amir Sadollah", 
+    "summary": [
+        "Well-rounded", 
+        "heart."
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 18, 
+        "submissions": 3, 
+        "sweeps": 0, 
+        "passes": 7
+    }
+}

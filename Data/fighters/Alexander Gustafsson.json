@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Alexander Gustafsson", 
+    "weight": "205", 
+    "hometown": "Arboga Sweden", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 544, 
+        "attempted": 1356, 
+        "clinch": 49, 
+        "ground": 95, 
+        "standing": 400
+    }, 
+    "height": "6' 5\"", 
+    "record": "17-4-0", 
+    "college": "", 
+    "location": "Stockholm Sweden", 
+    "height_cm": "195", 
+    "fullname": "Alexander Gustafsson", 
+    "summary": [
+        "Aggressiveness", 
+        "good standup"
+    ], 
+    "nickname": "The Mauler", 
+    "takedowns": {
+        "successful": 17, 
+        "attempted": 42, 
+        "submissions": 5, 
+        "sweeps": 0, 
+        "passes": 15
+    }
+}

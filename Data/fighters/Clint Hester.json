@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Clint Hester", 
+    "weight": "205", 
+    "hometown": "Hattiesburg, MS USA", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 248, 
+        "attempted": 579, 
+        "clinch": 23, 
+        "ground": 34, 
+        "standing": 191
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Atlanta, GA USA", 
+    "height_cm": "187", 
+    "fullname": "Clint Hester", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "Headbussa", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 14, 
+        "submissions": 0, 
+        "sweeps": 2, 
+        "passes": 6
+    }
+}

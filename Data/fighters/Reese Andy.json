@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Reese Andy", 
+    "weight": "205", 
+    "hometown": "Minot, North Dakota USA", 
+    "age": "43", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 64, 
+        "attempted": 126, 
+        "clinch": 16, 
+        "ground": 1, 
+        "standing": 47
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "177", 
+    "fullname": "Reese Andy", 
+    "summary": [
+        "Wrestling"
+    ], 
+    "nickname": "Riptide", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 5, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

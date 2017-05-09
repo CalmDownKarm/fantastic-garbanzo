@@ -1,0 +1,34 @@
+{
+    "degree": "German", 
+    "name": "Randy Couture", 
+    "weight": "205", 
+    "hometown": "Everett, Washington USA", 
+    "age": "53", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 708, 
+        "attempted": 1221, 
+        "clinch": 213, 
+        "ground": 289, 
+        "standing": 206
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "Oklahoma State University", 
+    "location": "Las Vegas, Nevada USA", 
+    "height_cm": "187", 
+    "fullname": "Randy \"The Natural\" Couture", 
+    "summary": [
+        "World class wrestler", 
+        "great clinch"
+    ], 
+    "nickname": "The Natural", 
+    "takedowns": {
+        "successful": 46, 
+        "attempted": 98, 
+        "submissions": 8, 
+        "sweeps": 2, 
+        "passes": 34
+    }
+}

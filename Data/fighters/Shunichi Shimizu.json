@@ -1,0 +1,34 @@
+{
+    "degree": "Economy", 
+    "name": "Shunichi Shimizu", 
+    "weight": "135", 
+    "hometown": "Okinoerabujima, Kagoshima Prefecture Japan", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 2, 
+        "attempted": 6, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 2
+    }, 
+    "height": "5' 5\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Okinoerabujima, Kagoshima Prefecture Japan", 
+    "height_cm": "165", 
+    "fullname": "Shunichi Shimizu", 
+    "summary": [
+        "Experience", 
+        "submissions"
+    ], 
+    "nickname": "RollingStar", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 6, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 0
+    }
+}

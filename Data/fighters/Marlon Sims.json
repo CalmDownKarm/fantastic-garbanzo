@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Marlon Sims", 
+    "weight": "155", 
+    "hometown": "Sonoma, CA USA", 
+    "age": "43", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": null, 
+        "attempted": null, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": null
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "180", 
+    "fullname": "Marlon Sims", 
+    "summary": [
+        "Striking", 
+        "Physical Strength", 
+        "Stamina and the Clinch"
+    ], 
+    "nickname": "Mr. Indestructible", 
+    "takedowns": {
+        "successful": null, 
+        "attempted": null, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

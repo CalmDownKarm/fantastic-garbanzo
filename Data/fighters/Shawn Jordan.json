@@ -1,0 +1,35 @@
+{
+    "degree": "Kinesiology", 
+    "name": "Shawn Jordan", 
+    "weight": "260", 
+    "hometown": "El Paso, Texas USA", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "118", 
+    "strikes": {
+        "successful": 235, 
+        "attempted": 472, 
+        "clinch": 47, 
+        "ground": 70, 
+        "standing": 118
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "Louisiana State University", 
+    "location": "Baton Rouge, Louisiana USA", 
+    "height_cm": "182", 
+    "fullname": "Shawn \"The Savage\" Jordan", 
+    "summary": [
+        "Athleticism", 
+        "power", 
+        "toughness"
+    ], 
+    "nickname": "The Savage", 
+    "takedowns": {
+        "successful": 9, 
+        "attempted": 26, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 14
+    }
+}

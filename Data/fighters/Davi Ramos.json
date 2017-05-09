@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Davi Ramos", 
+    "weight": "170", 
+    "hometown": "Rio de Janeiro Brazil", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 35, 
+        "attempted": 122, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 35
+    }, 
+    "height": "5' 8\"", 
+    "record": "6-2-0", 
+    "college": "", 
+    "location": "Rio de Janeiro Brazil", 
+    "height_cm": "172", 
+    "fullname": "Davi Ramos", 
+    "summary": [
+        "Jiu-Jitsu"
+    ], 
+    "nickname": "Tasmanian Devil", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

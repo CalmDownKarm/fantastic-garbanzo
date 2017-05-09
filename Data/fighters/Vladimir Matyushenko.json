@@ -1,0 +1,34 @@
+{
+    "degree": "Physical Education and Health", 
+    "name": "Vladimir Matyushenko", 
+    "weight": "205", 
+    "hometown": "Retchisa, Belarus Belarus", 
+    "age": "46", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 193, 
+        "attempted": 420, 
+        "clinch": 28, 
+        "ground": 70, 
+        "standing": 95
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "University of Nevada - Reno", 
+    "location": "El Segundo, California USA", 
+    "height_cm": "182", 
+    "fullname": "Vladimir Matyushenko", 
+    "summary": [
+        "Physical strength", 
+        "experience"
+    ], 
+    "nickname": "The Janitor", 
+    "takedowns": {
+        "successful": 19, 
+        "attempted": 47, 
+        "submissions": 1, 
+        "sweeps": 1, 
+        "passes": 17
+    }
+}

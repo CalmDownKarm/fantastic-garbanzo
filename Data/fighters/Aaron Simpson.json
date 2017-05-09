@@ -1,0 +1,33 @@
+{
+    "degree": "Journalism", 
+    "name": "Aaron Simpson", 
+    "weight": "170", 
+    "hometown": "Gunnison, Colorado USA", 
+    "age": "42", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 457, 
+        "attempted": 867, 
+        "clinch": 184, 
+        "ground": 108, 
+        "standing": 165
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "Arizona State University", 
+    "location": "Phoenix, AZ USA", 
+    "height_cm": "182", 
+    "fullname": "Aaron \"A-Train\" Simpson", 
+    "summary": [
+        "World-class wrestler"
+    ], 
+    "nickname": "A-Train", 
+    "takedowns": {
+        "successful": 32, 
+        "attempted": 92, 
+        "submissions": 4, 
+        "sweeps": 0, 
+        "passes": 12
+    }
+}

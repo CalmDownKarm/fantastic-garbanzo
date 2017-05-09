@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Eric Wisely", 
+    "weight": "145", 
+    "hometown": "East Moline, Illinois USA", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 38, 
+        "attempted": 73, 
+        "clinch": 3, 
+        "ground": null, 
+        "standing": 35
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Clinton, Iowa USA", 
+    "height_cm": "172", 
+    "fullname": "Eric \"Little Lee\" Wisely", 
+    "summary": [
+        "Conditioning", 
+        "speed", 
+        "heart"
+    ], 
+    "nickname": "Little Lee", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

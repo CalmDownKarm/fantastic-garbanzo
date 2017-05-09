@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Cheick Kongo", 
+    "weight": "240", 
+    "hometown": "Paris France", 
+    "age": "41", 
+    "fights": [], 
+    "weight_kg": "109", 
+    "strikes": {
+        "successful": 574, 
+        "attempted": 987, 
+        "clinch": 216, 
+        "ground": 145, 
+        "standing": 213
+    }, 
+    "height": "6' 4\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "193", 
+    "fullname": "Cheick Kongo", 
+    "summary": [
+        "training since 5 years old", 
+        "focus and dedication"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 24, 
+        "attempted": 38, 
+        "submissions": 3, 
+        "sweeps": 3, 
+        "passes": 12
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Mario Miranda", 
+    "weight": "185", 
+    "hometown": "Niteroi, Rio de Janeiro Brazil", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 86, 
+        "attempted": 159, 
+        "clinch": 17, 
+        "ground": 43, 
+        "standing": 26
+    }, 
+    "height": "6' 4\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Kirkland, WA USA", 
+    "height_cm": "193", 
+    "fullname": "Mario Miranda", 
+    "summary": [
+        "Wrestling / grappling"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 5, 
+        "submissions": 0, 
+        "sweeps": 2, 
+        "passes": 5
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Alan Patrick", 
+    "weight": "155", 
+    "hometown": "Amazonas Brazil", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 105, 
+        "attempted": 258, 
+        "clinch": 13, 
+        "ground": 27, 
+        "standing": 65
+    }, 
+    "height": "5' 11\"", 
+    "record": "14-1-0", 
+    "college": "", 
+    "location": "Rio de Janeiro Brazil", 
+    "height_cm": "180", 
+    "fullname": "Alan Patrick", 
+    "summary": [
+        "Jiu-jitsu"
+    ], 
+    "nickname": "Nuguette", 
+    "takedowns": {
+        "successful": 13, 
+        "attempted": 35, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 16
+    }
+}

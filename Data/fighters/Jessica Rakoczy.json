@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Jessica Rakoczy", 
+    "weight": "115", 
+    "hometown": "Hamilton Canada", 
+    "age": "39", 
+    "fights": [], 
+    "weight_kg": "52", 
+    "strikes": {
+        "successful": 50, 
+        "attempted": 112, 
+        "clinch": 13, 
+        "ground": 6, 
+        "standing": 31
+    }, 
+    "height": "5' 7\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Las Vegas, NV USA", 
+    "height_cm": "170", 
+    "fullname": "Jessica Rakoczy", 
+    "summary": [
+        "14 years of boxing experience"
+    ], 
+    "nickname": "Ragin", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 5, 
+        "submissions": 1, 
+        "sweeps": 1, 
+        "passes": 2
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Alvaro Herrera", 
+    "weight": "170", 
+    "hometown": "Guadalajara, Jalisco Mexico", 
+    "age": "26", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 16, 
+        "attempted": 35, 
+        "clinch": 3, 
+        "ground": 1, 
+        "standing": 12
+    }, 
+    "height": "6' 0\"", 
+    "record": "9-4-0", 
+    "college": "", 
+    "location": "Guadalajara Mexico", 
+    "height_cm": "182", 
+    "fullname": "Alvaro Herrera", 
+    "summary": [
+        "Good hands", 
+        "strong heart and mind"
+    ], 
+    "nickname": "Chango", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Chris Dempsey", 
+    "weight": "185", 
+    "hometown": "Ambridge, Pennsylvania USA", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 51, 
+        "attempted": 157, 
+        "clinch": 12, 
+        "ground": 6, 
+        "standing": 33
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Lower Burrell, Pennsylvania USA", 
+    "height_cm": "177", 
+    "fullname": "Chris Dempsey", 
+    "summary": [
+        "Wrestling and jiu-jitsu"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 17, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 3
+    }
+}

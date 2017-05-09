@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Matt Lindland", 
+    "weight": "185", 
+    "hometown": "Milwaukie, OR - USA USA", 
+    "age": "46", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 288, 
+        "attempted": 554, 
+        "clinch": 105, 
+        "ground": 143, 
+        "standing": 40
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "182", 
+    "fullname": "Matt Lindland", 
+    "summary": [
+        "World class wrestler", 
+        "trains with some of the best fighters in the world."
+    ], 
+    "nickname": "The Law", 
+    "takedowns": {
+        "successful": 27, 
+        "attempted": 54, 
+        "submissions": 9, 
+        "sweeps": 5, 
+        "passes": 25
+    }
+}

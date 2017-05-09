@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Gilbert Burns", 
+    "weight": "155", 
+    "hometown": "Niteroi, Rio de Janeiro Brasil", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 155, 
+        "attempted": 426, 
+        "clinch": 29, 
+        "ground": 11, 
+        "standing": 115
+    }, 
+    "height": "5' 10\"", 
+    "record": "11-2-0", 
+    "college": "", 
+    "location": "Boca Raton, Florida USA", 
+    "height_cm": "177", 
+    "fullname": "Gilbert Burns", 
+    "summary": [
+        "Submissions", 
+        "takedowns", 
+        "knockout power"
+    ], 
+    "nickname": "Durinho", 
+    "takedowns": {
+        "successful": 9, 
+        "attempted": 30, 
+        "submissions": 5, 
+        "sweeps": 0, 
+        "passes": 10
+    }
+}

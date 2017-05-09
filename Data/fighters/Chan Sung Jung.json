@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Chan Sung Jung", 
+    "weight": "145", 
+    "hometown": "Po-Hang South Korea", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 254, 
+        "attempted": 665, 
+        "clinch": 37, 
+        "ground": 32, 
+        "standing": 185
+    }, 
+    "height": "5' 7\"", 
+    "record": "14-4-0", 
+    "college": "", 
+    "location": "Seoul South Korea", 
+    "height_cm": "170", 
+    "fullname": "Chan Sung Jung", 
+    "summary": [
+        "Punching power", 
+        "granite jaw", 
+        "aggressiveness"
+    ], 
+    "nickname": "The Korean Zombie", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 7, 
+        "submissions": 4, 
+        "sweeps": 0, 
+        "passes": 8
+    }
+}

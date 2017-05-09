@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Rony Jason", 
+    "weight": "145", 
+    "hometown": "Quixada, Ceara Brazil", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 155, 
+        "attempted": 350, 
+        "clinch": 13, 
+        "ground": 29, 
+        "standing": 113
+    }, 
+    "height": "5' 7\"", 
+    "record": "15-7-0, 1NC", 
+    "college": "", 
+    "location": "Quixada, Ceara Brazil", 
+    "height_cm": "170", 
+    "fullname": "Rony Jason", 
+    "summary": [
+        "Jiu-jitsu", 
+        "striking"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 10, 
+        "submissions": 4, 
+        "sweeps": 0, 
+        "passes": 3
+    }
+}

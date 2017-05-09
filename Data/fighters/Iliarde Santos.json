@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Iliarde Santos", 
+    "weight": "125", 
+    "hometown": "Escada, Pernambuco Brazil", 
+    "age": "36", 
+    "fights": [], 
+    "weight_kg": "56", 
+    "strikes": {
+        "successful": 81, 
+        "attempted": 270, 
+        "clinch": 6, 
+        "ground": 4, 
+        "standing": 71
+    }, 
+    "height": "5' 5\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Belem, Para Brazil", 
+    "height_cm": "165", 
+    "fullname": "Iliarde Santos", 
+    "summary": [
+        "Jiu-Jitsu"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 13, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

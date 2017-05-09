@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Jimy Hettes", 
+    "weight": "145", 
+    "hometown": "Kingston, Pennsylvania USA", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 220, 
+        "attempted": 384, 
+        "clinch": 43, 
+        "ground": 68, 
+        "standing": 109
+    }, 
+    "height": "5' 9\"", 
+    "record": "11-3-0", 
+    "college": "", 
+    "location": "Swoyersville, Pennsylvania USA", 
+    "height_cm": "175", 
+    "fullname": "Jimy \"The Kid\" Hettes", 
+    "summary": [
+        "Submissions", 
+        "agility", 
+        "cardio"
+    ], 
+    "nickname": "The Kid", 
+    "takedowns": {
+        "successful": 22, 
+        "attempted": 49, 
+        "submissions": 6, 
+        "sweeps": 2, 
+        "passes": 24
+    }
+}

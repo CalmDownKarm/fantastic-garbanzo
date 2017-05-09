@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Jeremy Kennedy", 
+    "weight": "145", 
+    "hometown": "Surrey, British Columbia Canada", 
+    "age": "24", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 73, 
+        "attempted": 145, 
+        "clinch": 13, 
+        "ground": 32, 
+        "standing": 28
+    }, 
+    "height": "5' 11\"", 
+    "record": "10-0-0", 
+    "college": "", 
+    "location": "Surrey, British Columbia Canada", 
+    "height_cm": "180", 
+    "fullname": "Jeremy Kennedy", 
+    "summary": [
+        "conditioning", 
+        "speed", 
+        "grappling"
+    ], 
+    "nickname": "JBC", 
+    "takedowns": {
+        "successful": 13, 
+        "attempted": 23, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Kazuki Tokudome", 
+    "weight": "155", 
+    "hometown": "Tokyo Japan", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 119, 
+        "attempted": 289, 
+        "clinch": 20, 
+        "ground": 23, 
+        "standing": 76
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Tokyo Japan", 
+    "height_cm": "180", 
+    "fullname": "Kazuki Tokudome", 
+    "summary": [
+        "Body clinch game"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 7, 
+        "attempted": 18, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 8
+    }
+}

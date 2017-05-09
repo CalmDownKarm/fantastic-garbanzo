@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Todd Duffee", 
+    "weight": "260", 
+    "hometown": "Evansville, Indiana USA", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "118", 
+    "strikes": {
+        "successful": 92, 
+        "attempted": 258, 
+        "clinch": 12, 
+        "ground": 5, 
+        "standing": 75
+    }, 
+    "height": "6' 3\"", 
+    "record": "9-3-0", 
+    "college": "", 
+    "location": "Boca Raton, Florida USA", 
+    "height_cm": "190", 
+    "fullname": "Todd Duffee", 
+    "summary": [
+        "Heart and athleticism"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

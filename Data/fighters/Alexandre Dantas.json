@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Alexandre Dantas", 
+    "weight": "238", 
+    "hometown": "Rio de Janeiro, Brazil USA", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "108", 
+    "strikes": {
+        "successful": 1, 
+        "attempted": 4, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 1
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "187", 
+    "fullname": "Alexandre Dantas", 
+    "summary": [
+        "Brazilian Jiu Jitsu black belt", 
+        "great submissions"
+    ], 
+    "nickname": "Cafe", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 7, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

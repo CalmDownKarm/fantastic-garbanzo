@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Jake Shields", 
+    "weight": "170", 
+    "hometown": "Summertown , TN USA", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 349, 
+        "attempted": 1103, 
+        "clinch": 73, 
+        "ground": 28, 
+        "standing": 248
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "San Francisco, CA USA", 
+    "height_cm": "182", 
+    "fullname": "Jake Shields", 
+    "summary": [
+        "Highly competitive", 
+        "great grappling/jiu jitsu and good striking skills", 
+        "a Cesar Gracie BJJ black belt and an All-American wrestler.  Exceptional conditioning allows him to put non-stop pressure on his opponents."
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 10, 
+        "attempted": 81, 
+        "submissions": 1, 
+        "sweeps": 1, 
+        "passes": 23
+    }
+}

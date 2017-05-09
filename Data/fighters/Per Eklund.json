@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Per Eklund", 
+    "weight": "155", 
+    "hometown": "Stockholm Sweden", 
+    "age": "36", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 60, 
+        "attempted": 98, 
+        "clinch": 25, 
+        "ground": 10, 
+        "standing": 25
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "177", 
+    "fullname": "Per Eklund", 
+    "summary": [
+        "Well rounded and mentally strong"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 36, 
+        "submissions": 7, 
+        "sweeps": 0, 
+        "passes": 3
+    }
+}

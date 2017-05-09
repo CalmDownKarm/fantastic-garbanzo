@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Mark Scanlon", 
+    "weight": "170", 
+    "hometown": "Liverpool England", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 33, 
+        "attempted": 94, 
+        "clinch": 3, 
+        "ground": 4, 
+        "standing": 26
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Liverpool England", 
+    "height_cm": "175", 
+    "fullname": "Mark Scanlon", 
+    "summary": [
+        "Strong", 
+        "athletic"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 4, 
+        "submissions": 2, 
+        "sweeps": 1, 
+        "passes": 0
+    }
+}

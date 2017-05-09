@@ -1,0 +1,31 @@
+{
+    "degree": "Math", 
+    "name": "Ryan Couture", 
+    "weight": "155", 
+    "hometown": "Seattle, WA USA", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 74, 
+        "attempted": 232, 
+        "clinch": 21, 
+        "ground": null, 
+        "standing": 53
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "Western Washington University", 
+    "location": "Las Vegas, NV USA", 
+    "height_cm": "177", 
+    "fullname": "Ryan Couture", 
+    "summary": [], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 13, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

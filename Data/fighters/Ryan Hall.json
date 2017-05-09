@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Ryan Hall", 
+    "weight": "145", 
+    "hometown": "Arlington, Virginia United States", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 69, 
+        "attempted": 158, 
+        "clinch": 2, 
+        "ground": 15, 
+        "standing": 52
+    }, 
+    "height": "5' 10\"", 
+    "record": "6-1-0", 
+    "college": "", 
+    "location": "Falls Church, Virginia United States", 
+    "height_cm": "177", 
+    "fullname": "Ryan Hall", 
+    "summary": [
+        "Creativity", 
+        "calm", 
+        "jiu-jitsu"
+    ], 
+    "nickname": "The Wizard", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 5, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

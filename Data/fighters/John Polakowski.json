@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "John Polakowski", 
+    "weight": "155", 
+    "hometown": "Seattle, Washington USA", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 1, 
+        "attempted": 23, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 1
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "177", 
+    "fullname": "John Polakowski", 
+    "summary": [
+        "Striking", 
+        "good chin", 
+        "very tough"
+    ], 
+    "nickname": "Buckets of Blood", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

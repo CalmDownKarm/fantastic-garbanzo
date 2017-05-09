@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Pete Spratt", 
+    "weight": "170", 
+    "hometown": "Denison, TX USA", 
+    "age": "46", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 61, 
+        "attempted": 106, 
+        "clinch": 18, 
+        "ground": 19, 
+        "standing": 24
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "175", 
+    "fullname": "Pete Spratt", 
+    "summary": [
+        "Left Kick", 
+        "Straight right hand", 
+        "athletic"
+    ], 
+    "nickname": "The Secret Weapon", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 1, 
+        "submissions": 1, 
+        "sweeps": 3, 
+        "passes": 6
+    }
+}

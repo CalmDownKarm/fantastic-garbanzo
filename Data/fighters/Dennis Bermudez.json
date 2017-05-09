@@ -1,0 +1,35 @@
+{
+    "degree": "Anthropology", 
+    "name": "Dennis Bermudez", 
+    "weight": "145", 
+    "hometown": "Saugerties, NY United States", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 593, 
+        "attempted": 1289, 
+        "clinch": 117, 
+        "ground": 209, 
+        "standing": 267
+    }, 
+    "height": "5' 6\"", 
+    "record": "17-6-0", 
+    "college": "Bloomsburg University", 
+    "location": "Lindenhurst, New York United States", 
+    "height_cm": "167", 
+    "fullname": "Dennis Bermudez", 
+    "summary": [
+        "Takedowns", 
+        "Ground-and-Pound", 
+        "Great Cardio"
+    ], 
+    "nickname": "The Menace", 
+    "takedowns": {
+        "successful": 38, 
+        "attempted": 87, 
+        "submissions": 12, 
+        "sweeps": 3, 
+        "passes": 29
+    }
+}

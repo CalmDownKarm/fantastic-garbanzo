@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Pedro Rizzo", 
+    "weight": "228", 
+    "hometown": "Rio de Janeiro, Rio de Janeiro Brazil", 
+    "age": "42", 
+    "fights": [], 
+    "weight_kg": "103", 
+    "strikes": {
+        "successful": 209, 
+        "attempted": 557, 
+        "clinch": 32, 
+        "ground": 35, 
+        "standing": 142
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "185", 
+    "fullname": "Pedro Rizzo", 
+    "summary": [
+        "KO Power"
+    ], 
+    "nickname": "The Rock", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 7, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

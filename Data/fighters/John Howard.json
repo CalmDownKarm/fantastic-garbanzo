@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "John Howard", 
+    "weight": "170", 
+    "hometown": "Boston, Massachusetts USA", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 369, 
+        "attempted": 727, 
+        "clinch": 99, 
+        "ground": 48, 
+        "standing": 222
+    }, 
+    "height": "5' 7\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Boston, Massachusetts USA", 
+    "height_cm": "170", 
+    "fullname": "John Howard", 
+    "summary": [
+        "Boxing", 
+        "heart"
+    ], 
+    "nickname": "Doomsday", 
+    "takedowns": {
+        "successful": 31, 
+        "attempted": 63, 
+        "submissions": 5, 
+        "sweeps": 3, 
+        "passes": 19
+    }
+}

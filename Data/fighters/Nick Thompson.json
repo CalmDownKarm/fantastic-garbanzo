@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Nick Thompson", 
+    "weight": "170", 
+    "hometown": "Newport News, VA. USA", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 50, 
+        "attempted": 114, 
+        "clinch": 7, 
+        "ground": 29, 
+        "standing": 14
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "185", 
+    "fullname": "Nick Thompson", 
+    "summary": [
+        "Unorthodox"
+    ], 
+    "nickname": "The Goat", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 2, 
+        "submissions": 3, 
+        "sweeps": 3, 
+        "passes": 7
+    }
+}

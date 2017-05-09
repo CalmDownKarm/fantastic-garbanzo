@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Matt Van Buren", 
+    "weight": "205", 
+    "hometown": "Chesapeake, Virginia USA", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 102, 
+        "attempted": 222, 
+        "clinch": 28, 
+        "ground": null, 
+        "standing": 74
+    }, 
+    "height": "6' 5\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Chula Vista, California USA", 
+    "height_cm": "195", 
+    "fullname": "Matt Van Buren", 
+    "summary": [
+        "Striking", 
+        "ground and pound"
+    ], 
+    "nickname": "Gutter", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

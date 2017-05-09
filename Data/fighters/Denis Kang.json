@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Denis Kang", 
+    "weight": "185", 
+    "hometown": "St. Pierre & Miquelon France", 
+    "age": "39", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 68, 
+        "attempted": 173, 
+        "clinch": 6, 
+        "ground": 31, 
+        "standing": 31
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "180", 
+    "fullname": "Denis Kang", 
+    "summary": [
+        "Striking", 
+        "world-class experience", 
+        "well-rounded"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 8, 
+        "attempted": 12, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 18
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Francimar Barroso", 
+    "weight": "205", 
+    "hometown": "Xapuri, Acre Brazil", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 220, 
+        "attempted": 420, 
+        "clinch": 77, 
+        "ground": 13, 
+        "standing": 130
+    }, 
+    "height": "6' 1\"", 
+    "record": "19-5-0, 1NC", 
+    "college": "", 
+    "location": "Rio de Janeiro Brazil", 
+    "height_cm": "185", 
+    "fullname": "Francimar Barroso", 
+    "summary": [
+        "Knockout power", 
+        "ground and pound"
+    ], 
+    "nickname": "Bodao", 
+    "takedowns": {
+        "successful": 15, 
+        "attempted": 56, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

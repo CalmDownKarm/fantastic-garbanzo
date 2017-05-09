@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Akbarh Arreola", 
+    "weight": "155", 
+    "hometown": "Tijuana, Baja California Mexico", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 97, 
+        "attempted": 214, 
+        "clinch": 4, 
+        "ground": 23, 
+        "standing": 70
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Tijuana, Baja California Mexico", 
+    "height_cm": "177", 
+    "fullname": "Akbarh Arreola", 
+    "summary": [
+        "Perseverance"
+    ], 
+    "nickname": "El Caballero", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 3, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 5
+    }
+}

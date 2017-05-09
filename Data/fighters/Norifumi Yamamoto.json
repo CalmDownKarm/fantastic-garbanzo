@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Norifumi Yamamoto", 
+    "weight": "135", 
+    "hometown": "Kanagawa Japan", 
+    "age": "40", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 71, 
+        "attempted": 191, 
+        "clinch": 11, 
+        "ground": 2, 
+        "standing": 58
+    }, 
+    "height": "5' 4\"", 
+    "record": "18-6-0, 2NC", 
+    "college": "", 
+    "location": "Tokyo Japan", 
+    "height_cm": "162", 
+    "fullname": "Norifumi \"Kid\" Yamamoto", 
+    "summary": [
+        "Wrestling", 
+        "knockout power"
+    ], 
+    "nickname": "Kid", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 8, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 0
+    }
+}

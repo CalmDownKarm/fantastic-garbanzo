@@ -1,0 +1,36 @@
+{
+    "degree": "", 
+    "name": "Clay Guida", 
+    "weight": "145", 
+    "hometown": "Round Lake, Illinois USA", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 661, 
+        "attempted": 2119, 
+        "clinch": 103, 
+        "ground": 176, 
+        "standing": 382
+    }, 
+    "height": "5' 7\"", 
+    "record": "32-14-0", 
+    "college": "", 
+    "location": "Johnsburg, Illinois USA", 
+    "height_cm": "170", 
+    "fullname": "Clay Guida", 
+    "summary": [
+        "Wrestling", 
+        "solid chin", 
+        "great flexibility and endurance", 
+        "quality training partners"
+    ], 
+    "nickname": "The Carpenter", 
+    "takedowns": {
+        "successful": 61, 
+        "attempted": 164, 
+        "submissions": 14, 
+        "sweeps": 1, 
+        "passes": 47
+    }
+}

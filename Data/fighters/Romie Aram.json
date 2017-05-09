@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "Romie Aram", 
+    "weight": "170", 
+    "hometown": "Kabul, Afghanistan USA", 
+    "age": "39", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 24, 
+        "attempted": 70, 
+        "clinch": 11, 
+        "ground": 3, 
+        "standing": 10
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "175", 
+    "fullname": "Romie Aram", 
+    "summary": [], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 4, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

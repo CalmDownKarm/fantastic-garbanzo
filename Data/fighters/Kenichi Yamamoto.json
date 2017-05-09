@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "Kenichi Yamamoto", 
+    "weight": "", 
+    "hometown": "USA", 
+    "age": "", 
+    "fights": [], 
+    "weight_kg": "", 
+    "strikes": {
+        "successful": 3, 
+        "attempted": 7, 
+        "clinch": 1, 
+        "ground": null, 
+        "standing": 2
+    }, 
+    "height": "", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "", 
+    "fullname": "Kenichi Yamamoto", 
+    "summary": [], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 4, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

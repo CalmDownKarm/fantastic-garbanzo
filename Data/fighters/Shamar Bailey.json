@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Shamar Bailey", 
+    "weight": "155", 
+    "hometown": "Wilmington, DE USA", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 71, 
+        "attempted": 279, 
+        "clinch": 11, 
+        "ground": 7, 
+        "standing": 53
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Indianapolis, IN USA", 
+    "height_cm": "175", 
+    "fullname": "Shamar Bailey", 
+    "summary": [
+        "Wrestling", 
+        "Cardio", 
+        "Relentless"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 14, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 9
+    }
+}

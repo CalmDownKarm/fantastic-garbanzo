@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Joey Gambino", 
+    "weight": "145", 
+    "hometown": "Port Charlotte, Florida USA", 
+    "age": "28", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 44, 
+        "attempted": 124, 
+        "clinch": 3, 
+        "ground": 4, 
+        "standing": 37
+    }, 
+    "height": "5' 7\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Saugerties, New York USA", 
+    "height_cm": "170", 
+    "fullname": "Joey Gambino", 
+    "summary": [
+        "Wrestling"
+    ], 
+    "nickname": "The Raging Warrior", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 6, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

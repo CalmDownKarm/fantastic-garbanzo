@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Seth Petruzelli", 
+    "weight": "205", 
+    "hometown": "Cape Coral, FL USA", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 66, 
+        "attempted": 160, 
+        "clinch": 12, 
+        "ground": 12, 
+        "standing": 42
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Orlando, Florida USA", 
+    "height_cm": "182", 
+    "fullname": "Seth Petruzelli", 
+    "summary": [
+        "Stand up", 
+        "takedown defense", 
+        "submissions"
+    ], 
+    "nickname": "The Silverback", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 2, 
+        "submissions": 5, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

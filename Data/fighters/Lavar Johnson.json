@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Lavar Johnson", 
+    "weight": "240", 
+    "hometown": "Madera, California USA", 
+    "age": "39", 
+    "fights": [], 
+    "weight_kg": "109", 
+    "strikes": {
+        "successful": 144, 
+        "attempted": 222, 
+        "clinch": 68, 
+        "ground": 18, 
+        "standing": 58
+    }, 
+    "height": "6' 4\"", 
+    "record": "", 
+    "college": "", 
+    "location": "San Jose, California USA", 
+    "height_cm": "193", 
+    "fullname": "Lavar \"Big\" Johnson", 
+    "summary": [
+        "Knockout power", 
+        "big kicks", 
+        "strong knees"
+    ], 
+    "nickname": "Big", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

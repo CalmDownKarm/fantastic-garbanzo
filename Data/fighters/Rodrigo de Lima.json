@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Rodrigo de Lima", 
+    "weight": "155", 
+    "hometown": "Macapa, Amapa Brazil", 
+    "age": "26", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 29, 
+        "attempted": 86, 
+        "clinch": 1, 
+        "ground": 7, 
+        "standing": 21
+    }, 
+    "height": "5' 7\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Macapa, Amapa Brazil", 
+    "height_cm": "170", 
+    "fullname": "Rodrigo de Lima", 
+    "summary": [
+        "Jiu-Jitsu"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 11, 
+        "submissions": 2, 
+        "sweeps": 1, 
+        "passes": 6
+    }
+}

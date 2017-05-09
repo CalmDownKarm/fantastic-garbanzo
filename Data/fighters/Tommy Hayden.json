@@ -1,0 +1,35 @@
+{
+    "degree": "Psychology", 
+    "name": "Tommy Hayden", 
+    "weight": "145", 
+    "hometown": "Indianapolis, Indiana USA", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 13, 
+        "attempted": 48, 
+        "clinch": 1, 
+        "ground": 1, 
+        "standing": 11
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "Miami University", 
+    "location": "Cincinnati, Ohio USA", 
+    "height_cm": "175", 
+    "fullname": "Tommy \"Wild Card\" Hayden", 
+    "summary": [
+        "Wrestling", 
+        "boxing", 
+        "explosiveness"
+    ], 
+    "nickname": "Wild Card", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 6, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 3
+    }
+}

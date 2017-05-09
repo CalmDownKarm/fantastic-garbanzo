@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Anthony Johnson", 
+    "weight": "205", 
+    "hometown": "Dublin, Georgia USA", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 359, 
+        "attempted": 764, 
+        "clinch": 57, 
+        "ground": 100, 
+        "standing": 202
+    }, 
+    "height": "6' 2\"", 
+    "record": "22-5-0", 
+    "college": "", 
+    "location": "Boca Raton, Florida USA", 
+    "height_cm": "187", 
+    "fullname": "Anthony \"Rumble\" Johnson", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "Rumble", 
+    "takedowns": {
+        "successful": 18, 
+        "attempted": 30, 
+        "submissions": 5, 
+        "sweeps": 1, 
+        "passes": 10
+    }
+}

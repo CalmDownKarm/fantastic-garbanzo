@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Jamie Moyle", 
+    "weight": "115", 
+    "hometown": "Riverside, California  USA", 
+    "age": "", 
+    "fights": [], 
+    "weight_kg": "52", 
+    "strikes": {
+        "successful": 73, 
+        "attempted": 121, 
+        "clinch": 19, 
+        "ground": 8, 
+        "standing": 46
+    }, 
+    "height": "5' 1\"", 
+    "record": "4-1-0", 
+    "college": "", 
+    "location": "Las Vegas, NV USA", 
+    "height_cm": "154", 
+    "fullname": "Jamie Moyle", 
+    "summary": [
+        "Well rounded"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 10, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

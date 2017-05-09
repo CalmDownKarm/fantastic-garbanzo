@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Noad Lahat", 
+    "weight": "145", 
+    "hometown": "Alfei Menashe, Samaria Israel", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 106, 
+        "attempted": 226, 
+        "clinch": 30, 
+        "ground": 25, 
+        "standing": 51
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "San Jose, California USA", 
+    "height_cm": "175", 
+    "fullname": "Noad Lahat", 
+    "summary": [
+        "Judo"
+    ], 
+    "nickname": "Neo", 
+    "takedowns": {
+        "successful": 6, 
+        "attempted": 23, 
+        "submissions": 6, 
+        "sweeps": 4, 
+        "passes": 12
+    }
+}

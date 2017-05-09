@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Leandro Issa", 
+    "weight": "135", 
+    "hometown": "Ubatuba, Sao Paulo Brazil", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 131, 
+        "attempted": 346, 
+        "clinch": 12, 
+        "ground": 24, 
+        "standing": 95
+    }, 
+    "height": "5' 7\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Singapore", 
+    "height_cm": "170", 
+    "fullname": "Leandro Issa", 
+    "summary": [
+        "BJJ"
+    ], 
+    "nickname": "Brodinho", 
+    "takedowns": {
+        "successful": 10, 
+        "attempted": 45, 
+        "submissions": 5, 
+        "sweeps": 2, 
+        "passes": 16
+    }
+}

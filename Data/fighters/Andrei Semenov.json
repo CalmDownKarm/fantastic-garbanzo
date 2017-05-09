@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Andrei Semenov", 
+    "weight": "185", 
+    "hometown": "USA", 
+    "age": "39", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 10, 
+        "attempted": 75, 
+        "clinch": 1, 
+        "ground": 1, 
+        "standing": 8
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "182", 
+    "fullname": "Andrei Semenov", 
+    "summary": [
+        "Well-rounded.  Excellent physical conditioning."
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 2, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

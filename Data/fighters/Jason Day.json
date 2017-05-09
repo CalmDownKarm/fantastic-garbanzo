@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Jason Day", 
+    "weight": "185", 
+    "hometown": "Lethbridge, Alberta Canada", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 42, 
+        "attempted": 80, 
+        "clinch": 20, 
+        "ground": null, 
+        "standing": 22
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "185", 
+    "fullname": "Jason Day", 
+    "summary": [
+        "Submission Skills", 
+        "Conditioning", 
+        "Well Rounded"
+    ], 
+    "nickname": "Dooms", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

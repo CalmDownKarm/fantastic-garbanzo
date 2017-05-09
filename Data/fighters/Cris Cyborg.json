@@ -1,0 +1,36 @@
+{
+    "degree": "", 
+    "name": "Cris Cyborg", 
+    "weight": "140", 
+    "hometown": "Curitiba Brazil", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "63", 
+    "strikes": {
+        "successful": 110, 
+        "attempted": 167, 
+        "clinch": 31, 
+        "ground": 35, 
+        "standing": 44
+    }, 
+    "height": "5' 8\"", 
+    "record": "16-1-0, 1NC", 
+    "college": "", 
+    "location": "Huntington Beach, California USA", 
+    "height_cm": "172", 
+    "fullname": "Cris Cyborg", 
+    "summary": [
+        "Striking", 
+        "ground and pound", 
+        "endurance", 
+        "explosiveness"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 2, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 5
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Erick Silva", 
+    "weight": "170", 
+    "hometown": "Vila Velha, Espirito Santo Brazil", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 223, 
+        "attempted": 440, 
+        "clinch": 31, 
+        "ground": 62, 
+        "standing": 130
+    }, 
+    "height": "6' 0\"", 
+    "record": "19-7-0, 1NC", 
+    "college": "", 
+    "location": "Vila Velha, Espirito Santo Brazil", 
+    "height_cm": "182", 
+    "fullname": "Erick Silva", 
+    "summary": [
+        "Kicks", 
+        "takedowns"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 6, 
+        "attempted": 13, 
+        "submissions": 10, 
+        "sweeps": 1, 
+        "passes": 11
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Mike Van Arsdale", 
+    "weight": "205", 
+    "hometown": "Waterloo, Iowa USA", 
+    "age": "51", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 43, 
+        "attempted": 104, 
+        "clinch": 4, 
+        "ground": 31, 
+        "standing": 8
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "187", 
+    "fullname": "Mike Van Arsdale", 
+    "summary": [
+        "Good Wrester"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 14, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 4
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Mark Burch", 
+    "weight": "265", 
+    "hometown": "Gary, IN USA", 
+    "age": "48", 
+    "fights": [], 
+    "weight_kg": "120", 
+    "strikes": {
+        "successful": 0, 
+        "attempted": 0, 
+        "clinch": 0, 
+        "ground": 0, 
+        "standing": 0
+    }, 
+    "height": "6' 3\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "190", 
+    "fullname": "Mark Burch", 
+    "summary": [
+        "Heavy hands", 
+        "high pace", 
+        "Clinch"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

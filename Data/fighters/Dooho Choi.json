@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Dooho Choi", 
+    "weight": "145", 
+    "hometown": "Daegu South Korea", 
+    "age": "25", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 109, 
+        "attempted": 208, 
+        "clinch": 22, 
+        "ground": 14, 
+        "standing": 73
+    }, 
+    "height": "5' 10\"", 
+    "record": "14-2-0", 
+    "college": "", 
+    "location": "Busan South Korea", 
+    "height_cm": "177", 
+    "fullname": "Dooho Choi", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 5, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

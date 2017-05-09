@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Rafael Natal", 
+    "weight": "185", 
+    "hometown": "Belo Horizonte Brazil", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 642, 
+        "attempted": 1347, 
+        "clinch": 78, 
+        "ground": 145, 
+        "standing": 419
+    }, 
+    "height": "6' 0\"", 
+    "record": "21-8-1", 
+    "college": "", 
+    "location": "New York, New York USA", 
+    "height_cm": "182", 
+    "fullname": "Rafael Natal", 
+    "summary": [
+        "Ground game"
+    ], 
+    "nickname": "Sapo", 
+    "takedowns": {
+        "successful": 36, 
+        "attempted": 104, 
+        "submissions": 7, 
+        "sweeps": 1, 
+        "passes": 38
+    }
+}

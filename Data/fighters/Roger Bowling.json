@@ -1,0 +1,36 @@
+{
+    "degree": "", 
+    "name": "Roger Bowling", 
+    "weight": "155", 
+    "hometown": "Neville, OH USA", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 79, 
+        "attempted": 213, 
+        "clinch": 5, 
+        "ground": 7, 
+        "standing": 67
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Cincinnati, OH USA", 
+    "height_cm": "175", 
+    "fullname": "Roger Bowling", 
+    "summary": [
+        "Boxing", 
+        "kickboxing", 
+        "conditioning", 
+        "wrestling"
+    ], 
+    "nickname": "Relentless", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 7, 
+        "submissions": 3, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

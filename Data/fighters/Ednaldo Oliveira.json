@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Ednaldo Oliveira", 
+    "weight": "205", 
+    "hometown": "Salvador, Bahia Brazil", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 19, 
+        "attempted": 85, 
+        "clinch": 5, 
+        "ground": 5, 
+        "standing": 9
+    }, 
+    "height": "6' 5\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Salvador, Bahia Brazil", 
+    "height_cm": "195", 
+    "fullname": "Ednaldo \"Lula\" Oliveira", 
+    "summary": [
+        "Boxing"
+    ], 
+    "nickname": "Lula", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

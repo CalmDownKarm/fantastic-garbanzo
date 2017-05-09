@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "Alex Steibling", 
+    "weight": "", 
+    "hometown": "USA", 
+    "age": "", 
+    "fights": [], 
+    "weight_kg": "", 
+    "strikes": {
+        "successful": 4, 
+        "attempted": 7, 
+        "clinch": 3, 
+        "ground": null, 
+        "standing": 1
+    }, 
+    "height": "", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "", 
+    "fullname": "Alex Steibling", 
+    "summary": [], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

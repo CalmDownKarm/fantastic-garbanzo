@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Rick Glenn", 
+    "weight": "155", 
+    "hometown": "Marshalltown, Iowa United States", 
+    "age": "27", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 110, 
+        "attempted": 271, 
+        "clinch": 28, 
+        "ground": 4, 
+        "standing": 78
+    }, 
+    "height": "6' 0\"", 
+    "record": "19-4-1", 
+    "college": "", 
+    "location": "Milwuakee, Wisconsin United States", 
+    "height_cm": "182", 
+    "fullname": "Rick Glenn", 
+    "summary": [
+        "Good looking", 
+        "hard", 
+        "strong willed"
+    ], 
+    "nickname": "The Gladiator", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 14, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

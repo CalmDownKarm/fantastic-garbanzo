@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Nam Phan", 
+    "weight": "135", 
+    "hometown": "Orange County, CA USA", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 645, 
+        "attempted": 1755, 
+        "clinch": 18, 
+        "ground": 28, 
+        "standing": 599
+    }, 
+    "height": "5' 6\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Little Saigon, CA USA", 
+    "height_cm": "167", 
+    "fullname": "Nam Phan", 
+    "summary": [
+        "Well-rounded", 
+        "experience"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 6, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

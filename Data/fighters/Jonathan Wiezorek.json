@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Jonathan Wiezorek", 
+    "weight": "250", 
+    "hometown": "Topeka, Kansas USA", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "113", 
+    "strikes": {
+        "successful": 10, 
+        "attempted": 10, 
+        "clinch": 8, 
+        "ground": null, 
+        "standing": 2
+    }, 
+    "height": "6' 3\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "190", 
+    "fullname": "Jonathan Wiezorek", 
+    "summary": [
+        "Ground and pound", 
+        "Submissions", 
+        "Takedowns"
+    ], 
+    "nickname": "Lock N Load", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 4, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

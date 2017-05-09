@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Nico Musoke", 
+    "weight": "170", 
+    "hometown": "Botkyrka, Stockholm Sweden", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 228, 
+        "attempted": 601, 
+        "clinch": 33, 
+        "ground": 12, 
+        "standing": 183
+    }, 
+    "height": "6' 0\"", 
+    "record": "13-4-0, 1NC", 
+    "college": "", 
+    "location": "Stockholm Sweden", 
+    "height_cm": "182", 
+    "fullname": "Nico Musoke", 
+    "summary": [
+        "Well-rounded", 
+        "versatile", 
+        "finishing ability"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 26, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 3
+    }
+}

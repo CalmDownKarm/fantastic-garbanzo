@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "George Roop", 
+    "weight": "135", 
+    "hometown": "Tucson, AZ USA", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 589, 
+        "attempted": 1728, 
+        "clinch": 89, 
+        "ground": 114, 
+        "standing": 386
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Tucson, AZ USA", 
+    "height_cm": "180", 
+    "fullname": "George Roop", 
+    "summary": [
+        "Stand-up", 
+        "size", 
+        "power"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 12, 
+        "attempted": 21, 
+        "submissions": 1, 
+        "sweeps": 1, 
+        "passes": 4
+    }
+}

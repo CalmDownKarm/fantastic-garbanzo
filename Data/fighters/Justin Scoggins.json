@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Justin Scoggins", 
+    "weight": "135", 
+    "hometown": "Spartanburg, South Carolina USA", 
+    "age": "24", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 290, 
+        "attempted": 545, 
+        "clinch": 34, 
+        "ground": 78, 
+        "standing": 178
+    }, 
+    "height": "5' 7\"", 
+    "record": "11-3-0", 
+    "college": "", 
+    "location": "Spartanburg, South Carolina USA", 
+    "height_cm": "170", 
+    "fullname": "Justin Scoggins", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 22, 
+        "attempted": 33, 
+        "submissions": 3, 
+        "sweeps": 0, 
+        "passes": 31
+    }
+}

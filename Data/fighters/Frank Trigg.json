@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Frank Trigg", 
+    "weight": "170", 
+    "hometown": "Rochester, New York USA", 
+    "age": "44", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 74, 
+        "attempted": 157, 
+        "clinch": 15, 
+        "ground": 45, 
+        "standing": 14
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "172", 
+    "fullname": "Frank Trigg", 
+    "summary": [
+        "Cardio", 
+        "wrestling", 
+        "experience"
+    ], 
+    "nickname": "Twinkle Toes", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 3, 
+        "submissions": 2, 
+        "sweeps": 1, 
+        "passes": 4
+    }
+}

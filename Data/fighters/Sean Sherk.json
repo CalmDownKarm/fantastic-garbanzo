@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Sean Sherk", 
+    "weight": "155", 
+    "hometown": "Minneapolis, MN USA", 
+    "age": "43", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 415, 
+        "attempted": 1196, 
+        "clinch": 65, 
+        "ground": 130, 
+        "standing": 220
+    }, 
+    "height": "5' 6\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Oak Grove, MN", 
+    "height_cm": "167", 
+    "fullname": "Sean Sherk", 
+    "summary": [
+        "Excellent wrestler", 
+        "great conditioning", 
+        "very strong."
+    ], 
+    "nickname": "Muscle Shark", 
+    "takedowns": {
+        "successful": 50, 
+        "attempted": 113, 
+        "submissions": 4, 
+        "sweeps": 3, 
+        "passes": 47
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Jon Koppenhaver", 
+    "weight": "170", 
+    "hometown": "Simi Valley, California USA", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 30, 
+        "attempted": 50, 
+        "clinch": 26, 
+        "ground": null, 
+        "standing": 4
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "180", 
+    "fullname": "Jon Koppenhaver", 
+    "summary": [
+        "Aggressive", 
+        "explosive", 
+        "well versed in submissions"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 2, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 1
+    }
+}

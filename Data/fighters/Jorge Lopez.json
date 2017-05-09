@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Jorge Lopez", 
+    "weight": "170", 
+    "hometown": "San Diego, California USA", 
+    "age": "28", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 74, 
+        "attempted": 124, 
+        "clinch": 17, 
+        "ground": 22, 
+        "standing": 35
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Las Vegas, Nevada USA", 
+    "height_cm": "177", 
+    "fullname": "Jorge Lopez", 
+    "summary": [
+        "Speed", 
+        "strength", 
+        "and good cardio"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 7, 
+        "attempted": 17, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 6
+    }
+}

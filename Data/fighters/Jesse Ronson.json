@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Jesse Ronson", 
+    "weight": "155", 
+    "hometown": "London, Ontario Canada", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 139, 
+        "attempted": 299, 
+        "clinch": 13, 
+        "ground": 8, 
+        "standing": 118
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "London, Ontario Canada", 
+    "height_cm": "177", 
+    "fullname": "Jesse Ronson", 
+    "summary": [
+        "Striking", 
+        "power", 
+        "wrestling"
+    ], 
+    "nickname": "The Body Snatcher", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 5, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

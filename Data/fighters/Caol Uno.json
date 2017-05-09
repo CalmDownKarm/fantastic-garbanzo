@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Caol Uno", 
+    "weight": "155", 
+    "hometown": "Kanagawa Japan", 
+    "age": "41", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 266, 
+        "attempted": 487, 
+        "clinch": 58, 
+        "ground": 92, 
+        "standing": 116
+    }, 
+    "height": "5' 7\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "170", 
+    "fullname": "Caol Uno", 
+    "summary": [
+        "Grappling"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 20, 
+        "attempted": 64, 
+        "submissions": 2, 
+        "sweeps": 6, 
+        "passes": 18
+    }
+}

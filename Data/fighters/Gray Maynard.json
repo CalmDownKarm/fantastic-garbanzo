@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Gray Maynard", 
+    "weight": "145", 
+    "hometown": "Phoenix, Arizona USA", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 464, 
+        "attempted": 1464, 
+        "clinch": 68, 
+        "ground": 88, 
+        "standing": 308
+    }, 
+    "height": "5' 8\"", 
+    "record": "13-7-1, 1NC", 
+    "college": "Michigan State University", 
+    "location": "Las Vegas, Nevada USA", 
+    "height_cm": "172", 
+    "fullname": "Gray Maynard", 
+    "summary": [
+        "Wrestling", 
+        "conditioning", 
+        "striking"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 39, 
+        "attempted": 94, 
+        "submissions": 10, 
+        "sweeps": 4, 
+        "passes": 33
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Frank Mir", 
+    "weight": "264", 
+    "hometown": "Las Vegas, Nevada USA", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "119", 
+    "strikes": {
+        "successful": 339, 
+        "attempted": 721, 
+        "clinch": 113, 
+        "ground": 83, 
+        "standing": 143
+    }, 
+    "height": "6' 3\"", 
+    "record": "18-11-0", 
+    "college": "", 
+    "location": "Las Vegas, Nevada USA", 
+    "height_cm": "190", 
+    "fullname": "Frank Mir", 
+    "summary": [
+        "Great submissions", 
+        "improved striking", 
+        "two-time heavyweight champion"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 21, 
+        "attempted": 52, 
+        "submissions": 21, 
+        "sweeps": 1, 
+        "passes": 24
+    }
+}

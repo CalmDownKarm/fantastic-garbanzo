@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Dustin Ortiz", 
+    "weight": "125", 
+    "hometown": "Goshen, Indiana USA", 
+    "age": "28", 
+    "fights": [], 
+    "weight_kg": "56", 
+    "strikes": {
+        "successful": 396, 
+        "attempted": 869, 
+        "clinch": 105, 
+        "ground": 151, 
+        "standing": 140
+    }, 
+    "height": "5' 5\"", 
+    "record": "16-6-0", 
+    "college": "", 
+    "location": "Franklin, Tennessee USA", 
+    "height_cm": "165", 
+    "fullname": "Dustin Ortiz", 
+    "summary": [
+        "Unmatched pace"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 21, 
+        "attempted": 67, 
+        "submissions": 1, 
+        "sweeps": 7, 
+        "passes": 28
+    }
+}

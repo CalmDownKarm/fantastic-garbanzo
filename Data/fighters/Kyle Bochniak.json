@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Kyle Bochniak", 
+    "weight": "145", 
+    "hometown": "Gloucester, Massachusetts USA", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 93, 
+        "attempted": 270, 
+        "clinch": 7, 
+        "ground": 2, 
+        "standing": 84
+    }, 
+    "height": "5' 7\"", 
+    "record": "7-1-0", 
+    "college": "", 
+    "location": "Boston, Massachusetts USA", 
+    "height_cm": "170", 
+    "fullname": "Kyle Bochniak", 
+    "summary": [
+        "Tenacity", 
+        "cardio", 
+        "the will to do harm"
+    ], 
+    "nickname": "Crash", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 8, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

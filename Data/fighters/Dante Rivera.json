@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Dante Rivera", 
+    "weight": "185", 
+    "hometown": "New York, New York USA", 
+    "age": "42", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 34, 
+        "attempted": 64, 
+        "clinch": 24, 
+        "ground": 1, 
+        "standing": 9
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "182", 
+    "fullname": "Dante Rivera", 
+    "summary": [
+        "Jiu-Jitsu"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 5, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

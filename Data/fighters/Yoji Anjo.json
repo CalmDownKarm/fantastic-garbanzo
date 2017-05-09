@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Yoji Anjo", 
+    "weight": "198", 
+    "hometown": "Suginami Tokyo, Japan USA", 
+    "age": "49", 
+    "fights": [], 
+    "weight_kg": "89", 
+    "strikes": {
+        "successful": 0, 
+        "attempted": 1, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": null
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "180", 
+    "fullname": "Yoji Anjo", 
+    "summary": [
+        "Groundwork", 
+        "striking"
+    ], 
+    "nickname": "Mr. 200%", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

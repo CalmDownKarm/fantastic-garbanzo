@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Nandor Guelmino", 
+    "weight": "230", 
+    "hometown": "Vienna Austria", 
+    "age": "41", 
+    "fights": [], 
+    "weight_kg": "104", 
+    "strikes": {
+        "successful": 56, 
+        "attempted": 99, 
+        "clinch": 17, 
+        "ground": 10, 
+        "standing": 29
+    }, 
+    "height": "6' 3\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Vienna Austria", 
+    "height_cm": "190", 
+    "fullname": "Nandor Guelmino", 
+    "summary": [
+        "Striking", 
+        "grappling"
+    ], 
+    "nickname": "The Hun", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 3, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

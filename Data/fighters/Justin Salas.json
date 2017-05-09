@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Justin Salas", 
+    "weight": "155", 
+    "hometown": "Green River, WY USA", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 169, 
+        "attempted": 391, 
+        "clinch": 35, 
+        "ground": 21, 
+        "standing": 113
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Green River, WY USA", 
+    "height_cm": "172", 
+    "fullname": "Justin \"J-Bomb\" Salas", 
+    "summary": [
+        "Striking", 
+        "wrestling", 
+        "stamina\r\n\r\n"
+    ], 
+    "nickname": "J-Bomb", 
+    "takedowns": {
+        "successful": 8, 
+        "attempted": 39, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

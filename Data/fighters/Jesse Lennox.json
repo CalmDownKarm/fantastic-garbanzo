@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Jesse Lennox", 
+    "weight": "170", 
+    "hometown": "Cedar Rapids, IA USA", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 132, 
+        "attempted": 412, 
+        "clinch": 28, 
+        "ground": 17, 
+        "standing": 87
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "175", 
+    "fullname": "Jesse Lennox", 
+    "summary": [
+        "Wrestling"
+    ], 
+    "nickname": "The Ox", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 6, 
+        "submissions": 1, 
+        "sweeps": 1, 
+        "passes": 5
+    }
+}

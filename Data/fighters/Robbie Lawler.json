@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Robbie Lawler", 
+    "weight": "170", 
+    "hometown": "San Diego, California USA", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 821, 
+        "attempted": 1779, 
+        "clinch": 143, 
+        "ground": 97, 
+        "standing": 581
+    }, 
+    "height": "5' 11\"", 
+    "record": "27-11-0, 1NC", 
+    "college": "", 
+    "location": "Coconut Creek, Florida USA", 
+    "height_cm": "180", 
+    "fullname": "Robbie Lawler", 
+    "summary": [
+        "Power", 
+        "hand speed", 
+        "takedown defense"
+    ], 
+    "nickname": "Ruthless", 
+    "takedowns": {
+        "successful": 16, 
+        "attempted": 20, 
+        "submissions": 0, 
+        "sweeps": 3, 
+        "passes": 11
+    }
+}

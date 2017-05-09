@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Dan Evensen", 
+    "weight": "250", 
+    "hometown": "Arendal Norway", 
+    "age": "42", 
+    "fights": [], 
+    "weight_kg": "113", 
+    "strikes": {
+        "successful": 2, 
+        "attempted": 19, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 2
+    }, 
+    "height": "6' 3\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "190", 
+    "fullname": "Dan Evensen", 
+    "summary": [
+        "Strong and agile"
+    ], 
+    "nickname": "The Viking", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

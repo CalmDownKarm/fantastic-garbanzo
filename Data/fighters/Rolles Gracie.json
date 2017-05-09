@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Rolles Gracie", 
+    "weight": "240", 
+    "hometown": "Rio de Janeiro Brazil", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "109", 
+    "strikes": {
+        "successful": 15, 
+        "attempted": 46, 
+        "clinch": 5, 
+        "ground": 1, 
+        "standing": 9
+    }, 
+    "height": "6' 4\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "193", 
+    "fullname": "Rolles Gracie", 
+    "summary": [
+        "BJJ"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 10, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

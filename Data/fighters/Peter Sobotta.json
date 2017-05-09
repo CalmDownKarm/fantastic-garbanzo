@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Peter Sobotta", 
+    "weight": "170", 
+    "hometown": "Zabrze Poland", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 160, 
+        "attempted": 418, 
+        "clinch": 12, 
+        "ground": 26, 
+        "standing": 122
+    }, 
+    "height": "6' 0\"", 
+    "record": "16-5-1", 
+    "college": "", 
+    "location": "Au, Balingen Germany", 
+    "height_cm": "182", 
+    "fullname": "Peter Sobotta", 
+    "summary": [
+        "Well-rounded", 
+        "well-conditioned", 
+        "big heart"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 11, 
+        "attempted": 30, 
+        "submissions": 4, 
+        "sweeps": 1, 
+        "passes": 15
+    }
+}

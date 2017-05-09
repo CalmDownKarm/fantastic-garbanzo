@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Che Mills", 
+    "weight": "170", 
+    "hometown": "Gloucester England", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 53, 
+        "attempted": 101, 
+        "clinch": 16, 
+        "ground": 15, 
+        "standing": 22
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Gloucester England", 
+    "height_cm": "185", 
+    "fullname": "Che Mills", 
+    "summary": [
+        "Speed", 
+        "Striking"
+    ], 
+    "nickname": "Beautiful", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 3, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 3
+    }
+}

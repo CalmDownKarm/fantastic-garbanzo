@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Karlos Vemola", 
+    "weight": "185", 
+    "hometown": "Prague Czech Republic", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 91, 
+        "attempted": 206, 
+        "clinch": 15, 
+        "ground": 49, 
+        "standing": 27
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "London England", 
+    "height_cm": "182", 
+    "fullname": "Karlos Vemola", 
+    "summary": [
+        "Ground and pound"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 7, 
+        "attempted": 27, 
+        "submissions": 6, 
+        "sweeps": 1, 
+        "passes": 4
+    }
+}

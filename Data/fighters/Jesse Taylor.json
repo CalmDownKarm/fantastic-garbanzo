@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Jesse Taylor", 
+    "weight": "185", 
+    "hometown": "San Diego, California USA", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 4, 
+        "attempted": 13, 
+        "clinch": 1, 
+        "ground": null, 
+        "standing": 3
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "185", 
+    "fullname": "Jesse Taylor", 
+    "summary": [
+        "Scrappy", 
+        "strong", 
+        "real athletic"
+    ], 
+    "nickname": "JT Money", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 3, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

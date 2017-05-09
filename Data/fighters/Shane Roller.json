@@ -1,0 +1,35 @@
+{
+    "degree": "Psychology", 
+    "name": "Shane Roller", 
+    "weight": "155", 
+    "hometown": "Tulsa, Oklahoma USA", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 224, 
+        "attempted": 655, 
+        "clinch": 17, 
+        "ground": 85, 
+        "standing": 122
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "Oklahoma State University", 
+    "location": "Dallas , TX USA", 
+    "height_cm": "177", 
+    "fullname": "Shane Roller", 
+    "summary": [
+        "Exceptional Wrestler", 
+        "Knockout Power", 
+        "Conditioning"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 18, 
+        "attempted": 53, 
+        "submissions": 14, 
+        "sweeps": 3, 
+        "passes": 21
+    }
+}

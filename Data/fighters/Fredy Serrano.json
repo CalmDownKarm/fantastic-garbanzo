@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Fredy Serrano", 
+    "weight": "125", 
+    "hometown": "Bogot\u00e1 Colombia", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "56", 
+    "strikes": {
+        "successful": 67, 
+        "attempted": 250, 
+        "clinch": 8, 
+        "ground": 2, 
+        "standing": 57
+    }, 
+    "height": "5' 5\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Cundinamarca Colombia", 
+    "height_cm": "165", 
+    "fullname": "Fredy Serrano", 
+    "summary": [
+        "Grappling"
+    ], 
+    "nickname": "El Profe", 
+    "takedowns": {
+        "successful": 8, 
+        "attempted": 32, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 6
+    }
+}

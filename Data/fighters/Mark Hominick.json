@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Mark Hominick", 
+    "weight": "145", 
+    "hometown": "Thamesford, Ontario Canada", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 461, 
+        "attempted": 1064, 
+        "clinch": 20, 
+        "ground": 57, 
+        "standing": 384
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Thamesford, Ontario Canada", 
+    "height_cm": "172", 
+    "fullname": "Mark \"The Machine\" Hominick", 
+    "summary": [
+        "Excellent striker", 
+        "very quick"
+    ], 
+    "nickname": "The Machine", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 3, 
+        "submissions": 3, 
+        "sweeps": 1, 
+        "passes": 2
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "BA Communications", 
+    "name": "Kenny Florian", 
+    "weight": "145", 
+    "hometown": "Westwood, Massachusetts USA", 
+    "age": "40", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 454, 
+        "attempted": 1135, 
+        "clinch": 81, 
+        "ground": 154, 
+        "standing": 219
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "Boston College", 
+    "location": "Brookline, Massachusetts USA", 
+    "height_cm": "177", 
+    "fullname": "Kenny \"KenFlo\" Florian", 
+    "summary": [
+        "Great jiu-jitsu. Dangerous elbows"
+    ], 
+    "nickname": "KenFlo", 
+    "takedowns": {
+        "successful": 26, 
+        "attempted": 81, 
+        "submissions": 13, 
+        "sweeps": 1, 
+        "passes": 40
+    }
+}

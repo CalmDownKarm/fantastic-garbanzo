@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Luis Henrique", 
+    "weight": "243", 
+    "hometown": "Rio de Janeiro Brazil", 
+    "age": "23", 
+    "fights": [], 
+    "weight_kg": "110", 
+    "strikes": {
+        "successful": 70, 
+        "attempted": 130, 
+        "clinch": 19, 
+        "ground": 33, 
+        "standing": 18
+    }, 
+    "height": "6' 2\"", 
+    "record": "10-3-0, 1NC", 
+    "college": "", 
+    "location": "Rio de Janerio Brazil", 
+    "height_cm": "187", 
+    "fullname": "Luis Henrique", 
+    "summary": [
+        "Toughness", 
+        "grappling technique", 
+        "well-rounded"
+    ], 
+    "nickname": "KLB", 
+    "takedowns": {
+        "successful": 11, 
+        "attempted": 30, 
+        "submissions": 4, 
+        "sweeps": 0, 
+        "passes": 8
+    }
+}

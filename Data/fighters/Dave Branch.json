@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Dave Branch", 
+    "weight": "185", 
+    "hometown": "Bronx, New York USA", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 57, 
+        "attempted": 120, 
+        "clinch": 28, 
+        "ground": 11, 
+        "standing": 18
+    }, 
+    "height": "6' 1\"", 
+    "record": "20-3-0", 
+    "college": "", 
+    "location": "Brooklyn, NY USA", 
+    "height_cm": "185", 
+    "fullname": "Dave Branch", 
+    "summary": [
+        "Determination", 
+        "technique", 
+        "power "
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 8, 
+        "attempted": 23, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 10
+    }
+}

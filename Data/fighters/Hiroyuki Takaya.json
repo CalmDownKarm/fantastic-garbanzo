@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Hiroyuki Takaya", 
+    "weight": "145", 
+    "hometown": "Chiba Japan", 
+    "age": "39", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 41, 
+        "attempted": 120, 
+        "clinch": 8, 
+        "ground": 3, 
+        "standing": 30
+    }, 
+    "height": "5' 6\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "167", 
+    "fullname": "Hiroyuki Takaya", 
+    "summary": [
+        "punching power", 
+        "standup"
+    ], 
+    "nickname": "Evil Fist", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 2, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

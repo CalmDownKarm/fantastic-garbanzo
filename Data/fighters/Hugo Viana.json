@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Hugo Viana", 
+    "weight": "135", 
+    "hometown": "Maua, Sao Paulo Brazil", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 205, 
+        "attempted": 532, 
+        "clinch": 14, 
+        "ground": 12, 
+        "standing": 179
+    }, 
+    "height": "5' 6\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Salvador, Bahia Brazil", 
+    "height_cm": "167", 
+    "fullname": "Hugo Viana", 
+    "summary": [
+        "Good boxing", 
+        "evasive"
+    ], 
+    "nickname": "Wolverine", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 15, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

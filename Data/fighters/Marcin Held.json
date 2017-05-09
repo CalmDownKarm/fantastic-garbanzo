@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Marcin Held", 
+    "weight": "155", 
+    "hometown": "Tychy Poland", 
+    "age": "25", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 53, 
+        "attempted": 160, 
+        "clinch": 6, 
+        "ground": 4, 
+        "standing": 43
+    }, 
+    "height": "5' 9\"", 
+    "record": "22-6-0", 
+    "college": "", 
+    "location": "Tychy Poland", 
+    "height_cm": "175", 
+    "fullname": "Marcin Held", 
+    "summary": [
+        "Leg Locks"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 7, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 4
+    }
+}

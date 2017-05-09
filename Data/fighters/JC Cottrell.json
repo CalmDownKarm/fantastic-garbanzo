@@ -1,0 +1,36 @@
+{
+    "degree": "", 
+    "name": "J.C. Cottrell", 
+    "weight": "155", 
+    "hometown": "Oklahoma City, Oklahoma United States", 
+    "age": "27", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 15, 
+        "attempted": 59, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 15
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Oklahoma City, Oklahoma United States", 
+    "height_cm": "175", 
+    "fullname": "J.C. Cottrell", 
+    "summary": [
+        "Well rounded", 
+        "BJJ", 
+        "Muay Thai", 
+        "wrestling"
+    ], 
+    "nickname": "Superstar", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 3
+    }
+}

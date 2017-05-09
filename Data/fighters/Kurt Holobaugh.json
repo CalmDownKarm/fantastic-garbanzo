@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Kurt Holobaugh", 
+    "weight": "155", 
+    "hometown": "Independence Louisiana", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 41, 
+        "attempted": 92, 
+        "clinch": 16, 
+        "ground": 10, 
+        "standing": 15
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Hammond, Louisiana USA", 
+    "height_cm": "180", 
+    "fullname": "Kurt Holobaugh", 
+    "summary": [
+        "Striking and non-stop cardio"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 2, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

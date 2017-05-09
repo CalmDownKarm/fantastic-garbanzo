@@ -1,0 +1,33 @@
+{
+    "degree": "Interdisciplinary Studies", 
+    "name": "CB Dollaway", 
+    "weight": "205", 
+    "hometown": "Mt. Gilead, Ohio USA", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 365, 
+        "attempted": 808, 
+        "clinch": 51, 
+        "ground": 97, 
+        "standing": 217
+    }, 
+    "height": "6' 2\"", 
+    "record": "16-9-0", 
+    "college": "Arizona State University", 
+    "location": "Tempe, Arizona USA", 
+    "height_cm": "187", 
+    "fullname": "CB Dollaway", 
+    "summary": [
+        "Wrestling"
+    ], 
+    "nickname": "The Doberman", 
+    "takedowns": {
+        "successful": 31, 
+        "attempted": 62, 
+        "submissions": 9, 
+        "sweeps": 5, 
+        "passes": 32
+    }
+}

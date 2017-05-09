@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Rob Whiteford", 
+    "weight": "145", 
+    "hometown": "Fauldhouse Scotland", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 129, 
+        "attempted": 277, 
+        "clinch": 16, 
+        "ground": 10, 
+        "standing": 103
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Glasgow Scotland", 
+    "height_cm": "175", 
+    "fullname": "Rob Whiteford", 
+    "summary": [
+        "Chin of granite", 
+        "hits like a train"
+    ], 
+    "nickname": "The Hammer", 
+    "takedowns": {
+        "successful": 7, 
+        "attempted": 23, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 6
+    }
+}

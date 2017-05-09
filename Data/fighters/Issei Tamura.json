@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Issei Tamura", 
+    "weight": "135", 
+    "hometown": "Tokyo Japan", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 31, 
+        "attempted": 58, 
+        "clinch": 7, 
+        "ground": 8, 
+        "standing": 16
+    }, 
+    "height": "5' 5\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Tokyo Japan", 
+    "height_cm": "165", 
+    "fullname": "Issei Tamura", 
+    "summary": [
+        "Durability", 
+        "ground game", 
+        "cardio"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 4, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

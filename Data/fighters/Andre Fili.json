@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Andre Fili", 
+    "weight": "145", 
+    "hometown": "Federal Way, Washington USA", 
+    "age": "26", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 214, 
+        "attempted": 549, 
+        "clinch": 27, 
+        "ground": 44, 
+        "standing": 143
+    }, 
+    "height": "5' 10\"", 
+    "record": "16-4-0", 
+    "college": "", 
+    "location": "Sacramento, California USA", 
+    "height_cm": "177", 
+    "fullname": "Andre Fili", 
+    "summary": [
+        "Well-rounded", 
+        "dangerous everywhere"
+    ], 
+    "nickname": "Touchy", 
+    "takedowns": {
+        "successful": 12, 
+        "attempted": 26, 
+        "submissions": 1, 
+        "sweeps": 3, 
+        "passes": 7
+    }
+}

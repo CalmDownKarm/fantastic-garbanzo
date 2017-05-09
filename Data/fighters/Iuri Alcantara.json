@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Iuri Alcantara", 
+    "weight": "135", 
+    "hometown": "Marajo Brazil", 
+    "age": "36", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 407, 
+        "attempted": 876, 
+        "clinch": 41, 
+        "ground": 120, 
+        "standing": 246
+    }, 
+    "height": "5' 9\"", 
+    "record": "34-7-0, 1NC", 
+    "college": "", 
+    "location": "Soure, Para Brazil", 
+    "height_cm": "175", 
+    "fullname": "Iuri Alcantara", 
+    "summary": [
+        "Ground fighting", 
+        "experience"
+    ], 
+    "nickname": "Marajo", 
+    "takedowns": {
+        "successful": 15, 
+        "attempted": 22, 
+        "submissions": 8, 
+        "sweeps": 1, 
+        "passes": 38
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Manny Tapia", 
+    "weight": "135", 
+    "hometown": "Riverside, California USA", 
+    "age": "36", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 165, 
+        "attempted": 783, 
+        "clinch": 20, 
+        "ground": 28, 
+        "standing": 117
+    }, 
+    "height": "5' 5\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "165", 
+    "fullname": "Manny Tapia", 
+    "summary": [
+        "Training partners", 
+        "toughness"
+    ], 
+    "nickname": "The Mangler", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 5, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 3
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Chris Saunders", 
+    "weight": "155", 
+    "hometown": "Long Beach, California USA", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 6, 
+        "attempted": 27, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 6
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Long Beach, California USA", 
+    "height_cm": "172", 
+    "fullname": "Chris Saunders", 
+    "summary": [
+        "Leg kicks", 
+        "head kicks", 
+        "elbows"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

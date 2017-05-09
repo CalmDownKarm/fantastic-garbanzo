@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Brad Tavares", 
+    "weight": "185", 
+    "hometown": "Kailua, Hawaii USA", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 509, 
+        "attempted": 1227, 
+        "clinch": 82, 
+        "ground": 23, 
+        "standing": 404
+    }, 
+    "height": "6' 1\"", 
+    "record": "14-4-0", 
+    "college": "", 
+    "location": "Las Vegas, Nevada USA", 
+    "height_cm": "185", 
+    "fullname": "Brad Tavares", 
+    "summary": [
+        "Striking", 
+        "toughness"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 14, 
+        "attempted": 43, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 6
+    }
+}

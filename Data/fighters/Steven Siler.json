@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Steven Siler", 
+    "weight": "145", 
+    "hometown": "Anaheim, CA USA", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 305, 
+        "attempted": 734, 
+        "clinch": 99, 
+        "ground": 27, 
+        "standing": 179
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Ogden, UT USA", 
+    "height_cm": "180", 
+    "fullname": "Steven Siler", 
+    "summary": [
+        "Ground game", 
+        "long reach"
+    ], 
+    "nickname": "Super", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 14, 
+        "submissions": 10, 
+        "sweeps": 1, 
+        "passes": 8
+    }
+}

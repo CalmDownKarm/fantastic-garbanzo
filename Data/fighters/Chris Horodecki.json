@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Chris Horodecki", 
+    "weight": "155", 
+    "hometown": "London, Ontario Canada", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 153, 
+        "attempted": 400, 
+        "clinch": 25, 
+        "ground": 9, 
+        "standing": 119
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "London, Ontario Canada", 
+    "height_cm": "172", 
+    "fullname": "Chris Horodecki", 
+    "summary": [
+        "Good standup", 
+        "Well rounded"
+    ], 
+    "nickname": "The Polish Hammer", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 9, 
+        "submissions": 3, 
+        "sweeps": 0, 
+        "passes": 6
+    }
+}

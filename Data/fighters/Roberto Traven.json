@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Roberto Traven", 
+    "weight": "216", 
+    "hometown": "Rio de Janeiro, Brazil USA", 
+    "age": "48", 
+    "fights": [], 
+    "weight_kg": "98", 
+    "strikes": {
+        "successful": 1, 
+        "attempted": 2, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 1
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "187", 
+    "fullname": "Roberto Traven", 
+    "summary": [
+        "Good guard", 
+        "dangerous submissions", 
+        "comfortable sta"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Kamaru Usman", 
+    "weight": "170", 
+    "hometown": "Auchi Nigeria", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 175, 
+        "attempted": 323, 
+        "clinch": 20, 
+        "ground": 81, 
+        "standing": 74
+    }, 
+    "height": "6' 0\"", 
+    "record": "9-1-0", 
+    "college": "", 
+    "location": "Boca Raton, Florida USA", 
+    "height_cm": "182", 
+    "fullname": "Kamaru Usman", 
+    "summary": [
+        "Striking", 
+        "grappling \r\n"
+    ], 
+    "nickname": "Nigerian Nightmare", 
+    "takedowns": {
+        "successful": 18, 
+        "attempted": 32, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 18
+    }
+}

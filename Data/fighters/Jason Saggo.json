@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Jason Saggo", 
+    "weight": "155", 
+    "hometown": "Toronto Canada", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 126, 
+        "attempted": 313, 
+        "clinch": 4, 
+        "ground": 50, 
+        "standing": 72
+    }, 
+    "height": "5' 11\"", 
+    "record": "12-3-0", 
+    "college": "", 
+    "location": "Charlottetown, Prince Edward Island Canada", 
+    "height_cm": "180", 
+    "fullname": "Jason Saggo", 
+    "summary": [
+        "Grappling"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 9, 
+        "attempted": 23, 
+        "submissions": 0, 
+        "sweeps": 2, 
+        "passes": 20
+    }
+}

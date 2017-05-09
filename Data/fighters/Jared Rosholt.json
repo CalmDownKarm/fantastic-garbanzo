@@ -1,0 +1,33 @@
+{
+    "degree": "Education", 
+    "name": "Jared Rosholt", 
+    "weight": "265", 
+    "hometown": "Sandpoint, Idaho USA", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "120", 
+    "strikes": {
+        "successful": 222, 
+        "attempted": 482, 
+        "clinch": 53, 
+        "ground": 76, 
+        "standing": 93
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "Oklahoma State", 
+    "location": "Arlington, Texas USA", 
+    "height_cm": "187", 
+    "fullname": "Jared Rosholt", 
+    "summary": [
+        "Wrestling and power"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 13, 
+        "attempted": 31, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 22
+    }
+}

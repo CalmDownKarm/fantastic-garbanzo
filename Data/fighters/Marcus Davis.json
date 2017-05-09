@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Marcus Davis", 
+    "weight": "155", 
+    "hometown": "Houlton, Maine USA", 
+    "age": "43", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 356, 
+        "attempted": 896, 
+        "clinch": 67, 
+        "ground": 47, 
+        "standing": 242
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Bangor, Maine USA", 
+    "height_cm": "177", 
+    "fullname": "Marcus Davis", 
+    "summary": [
+        "Boxing", 
+        "Quickness"
+    ], 
+    "nickname": "The Irish Hand Grenade", 
+    "takedowns": {
+        "successful": 14, 
+        "attempted": 29, 
+        "submissions": 12, 
+        "sweeps": 0, 
+        "passes": 17
+    }
+}

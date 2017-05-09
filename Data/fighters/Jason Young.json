@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Jason Young", 
+    "weight": "145", 
+    "hometown": "Lewisham England", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 135, 
+        "attempted": 364, 
+        "clinch": 23, 
+        "ground": 24, 
+        "standing": 88
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "South East London England", 
+    "height_cm": "175", 
+    "fullname": "Jason \"Shotgun\" Young", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "Shotgun", 
+    "takedowns": {
+        "successful": 6, 
+        "attempted": 9, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Konstantin Erokhin", 
+    "weight": "230", 
+    "hometown": "Magadan Russia", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "104", 
+    "strikes": {
+        "successful": 32, 
+        "attempted": 87, 
+        "clinch": 7, 
+        "ground": null, 
+        "standing": 25
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Moscow Russia", 
+    "height_cm": "180", 
+    "fullname": "Konstantin Erokhin", 
+    "summary": [
+        "Punching power"
+    ], 
+    "nickname": "The Russian Bear", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

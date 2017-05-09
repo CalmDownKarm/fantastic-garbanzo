@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Scott Junk", 
+    "weight": "265", 
+    "hometown": "Hilo, Hawaii USA", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "120", 
+    "strikes": {
+        "successful": 17, 
+        "attempted": 28, 
+        "clinch": 12, 
+        "ground": null, 
+        "standing": 5
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "185", 
+    "fullname": "Scott Junk", 
+    "summary": [
+        "Heart"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

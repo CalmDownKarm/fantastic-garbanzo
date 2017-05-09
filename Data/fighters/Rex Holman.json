@@ -1,0 +1,37 @@
+{
+    "degree": "", 
+    "name": "Rex Holman", 
+    "weight": "205", 
+    "hometown": "Columbus, OH USA", 
+    "age": "47", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 11, 
+        "attempted": 32, 
+        "clinch": 1, 
+        "ground": null, 
+        "standing": 10
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "187", 
+    "fullname": "Rex Holman", 
+    "summary": [
+        "Takedowns", 
+        "GNP", 
+        "Horsepower", 
+        "Mat awareness", 
+        "Discipline"
+    ], 
+    "nickname": "Big Dog", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 4, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

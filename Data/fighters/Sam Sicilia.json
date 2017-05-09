@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Sam Sicilia", 
+    "weight": "145", 
+    "hometown": "Spokane, Washington United States", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 255, 
+        "attempted": 761, 
+        "clinch": 32, 
+        "ground": 55, 
+        "standing": 168
+    }, 
+    "height": "5' 8\"", 
+    "record": "15-8-0", 
+    "college": "", 
+    "location": "Spokane, Washington United States", 
+    "height_cm": "172", 
+    "fullname": "Sam Sicilia", 
+    "summary": [
+        "Striking", 
+        "one punch knockout power"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 10, 
+        "attempted": 23, 
+        "submissions": 6, 
+        "sweeps": 1, 
+        "passes": 10
+    }
+}

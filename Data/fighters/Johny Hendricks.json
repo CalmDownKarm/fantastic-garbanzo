@@ -1,0 +1,34 @@
+{
+    "degree": "Bachelors in Secondary Education", 
+    "name": "Johny Hendricks", 
+    "weight": "185", 
+    "hometown": "Ada, Oklahoma United States", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 905, 
+        "attempted": 1964, 
+        "clinch": 236, 
+        "ground": 87, 
+        "standing": 582
+    }, 
+    "height": "5' 9\"", 
+    "record": "18-6-0", 
+    "college": "Oklahoma State University", 
+    "location": "Fort Worth, Texas United States", 
+    "height_cm": "175", 
+    "fullname": "Johny Hendricks", 
+    "summary": [
+        "Elite Wrestler", 
+        "Power"
+    ], 
+    "nickname": "Bigg Rigg", 
+    "takedowns": {
+        "successful": 69, 
+        "attempted": 143, 
+        "submissions": 6, 
+        "sweeps": 0, 
+        "passes": 22
+    }
+}

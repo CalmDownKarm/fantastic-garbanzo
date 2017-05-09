@@ -1,0 +1,37 @@
+{
+    "degree": "", 
+    "name": "Chad Griggs", 
+    "weight": "205", 
+    "hometown": "Tucson, Arizona USA", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 2, 
+        "attempted": 6, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 2
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Tucson, Arizona USA", 
+    "height_cm": "185", 
+    "fullname": "Chad \"The Grave Digger\" Griggs", 
+    "summary": [
+        "Quick", 
+        "heavy hands", 
+        "agility", 
+        "aggressive", 
+        "able to finish the fight if opponent shows weakness"
+    ], 
+    "nickname": "The Grave Digger", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 2, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

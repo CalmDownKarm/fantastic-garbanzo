@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Daniel Kelly", 
+    "weight": "185", 
+    "hometown": "Melbourne, Victoria Australia", 
+    "age": "39", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 301, 
+        "attempted": 750, 
+        "clinch": 36, 
+        "ground": 55, 
+        "standing": 210
+    }, 
+    "height": "6' 0\"", 
+    "record": "13-1-0", 
+    "college": "", 
+    "location": "Melbourne, Victoria Australia", 
+    "height_cm": "182", 
+    "fullname": "Daniel Kelly", 
+    "summary": [
+        "Judo"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 10, 
+        "attempted": 28, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 15
+    }
+}

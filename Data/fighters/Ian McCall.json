@@ -1,0 +1,36 @@
+{
+    "degree": "", 
+    "name": "Ian McCall", 
+    "weight": "125", 
+    "hometown": "Newport Beach, California United States", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "56", 
+    "strikes": {
+        "successful": 441, 
+        "attempted": 1124, 
+        "clinch": 87, 
+        "ground": 70, 
+        "standing": 284
+    }, 
+    "height": "5' 5\"", 
+    "record": "13-5-1", 
+    "college": "", 
+    "location": "Irvine, California United States", 
+    "height_cm": "165", 
+    "fullname": "Ian \"Uncle Creepy\" McCall", 
+    "summary": [
+        "Sets a fast pace", 
+        "explosiveness", 
+        "ground and pound", 
+        "winning"
+    ], 
+    "nickname": "Uncle Creepy", 
+    "takedowns": {
+        "successful": 17, 
+        "attempted": 56, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 25
+    }
+}

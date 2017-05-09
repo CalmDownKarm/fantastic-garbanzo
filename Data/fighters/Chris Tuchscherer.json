@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Chris Tuchscherer", 
+    "weight": "260", 
+    "hometown": "Rugby, ND USA", 
+    "age": "41", 
+    "fights": [], 
+    "weight_kg": "118", 
+    "strikes": {
+        "successful": 34, 
+        "attempted": 107, 
+        "clinch": 8, 
+        "ground": 1, 
+        "standing": 25
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Fargo, ND USA", 
+    "height_cm": "185", 
+    "fullname": "Chris Tuchscherer", 
+    "summary": [
+        "Wrestling & Conditioning"
+    ], 
+    "nickname": "The Crowbar", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 11, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

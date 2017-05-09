@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Rose Namajunas", 
+    "weight": "115", 
+    "hometown": "Milwaukee, Wisconsin USA", 
+    "age": "24", 
+    "fights": [], 
+    "weight_kg": "52", 
+    "strikes": {
+        "successful": 214, 
+        "attempted": 506, 
+        "clinch": 31, 
+        "ground": 32, 
+        "standing": 151
+    }, 
+    "height": "5' 5\"", 
+    "record": "6-3-0", 
+    "college": "", 
+    "location": "Denver, Colorado USA", 
+    "height_cm": "165", 
+    "fullname": "Rose Namajunas", 
+    "summary": [
+        "Jiu-Jitsu", 
+        "Striking"
+    ], 
+    "nickname": "Thug", 
+    "takedowns": {
+        "successful": 14, 
+        "attempted": 24, 
+        "submissions": 5, 
+        "sweeps": 0, 
+        "passes": 17
+    }
+}

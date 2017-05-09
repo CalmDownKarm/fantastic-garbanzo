@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Jon Manley", 
+    "weight": "170", 
+    "hometown": "Adams, MA USA", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 17, 
+        "attempted": 85, 
+        "clinch": 5, 
+        "ground": null, 
+        "standing": 12
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Ludlow, MA USA", 
+    "height_cm": "185", 
+    "fullname": "Jon Manley", 
+    "summary": [
+        "Well-rounded", 
+        "good cardio", 
+        "heart"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 13, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

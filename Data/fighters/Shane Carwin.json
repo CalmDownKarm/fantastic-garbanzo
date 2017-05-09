@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Shane Carwin", 
+    "weight": "265", 
+    "hometown": "Greeley, Colorado USA", 
+    "age": "42", 
+    "fights": [], 
+    "weight_kg": "120", 
+    "strikes": {
+        "successful": 139, 
+        "attempted": 294, 
+        "clinch": 41, 
+        "ground": 69, 
+        "standing": 29
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Denver, Colorado USA", 
+    "height_cm": "187", 
+    "fullname": "Shane Carwin", 
+    "summary": [
+        "Heart and Determination"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 9, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 8
+    }
+}

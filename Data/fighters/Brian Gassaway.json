@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Brian Gassaway", 
+    "weight": "185", 
+    "hometown": "Urbana, Ohio USA", 
+    "age": "44", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 4, 
+        "attempted": 15, 
+        "clinch": 2, 
+        "ground": null, 
+        "standing": 2
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "185", 
+    "fullname": "Brian Gassaway", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "Mandingo", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

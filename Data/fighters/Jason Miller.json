@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Jason Miller", 
+    "weight": "185", 
+    "hometown": "Parts Unkown USA", 
+    "age": "36", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 85, 
+        "attempted": 255, 
+        "clinch": 11, 
+        "ground": 13, 
+        "standing": 61
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Orange County, California USA", 
+    "height_cm": "185", 
+    "fullname": "Jason \"Mayhem\" Miller", 
+    "summary": [
+        "Jiu Jitsu"
+    ], 
+    "nickname": "Mayhem", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 24, 
+        "submissions": 5, 
+        "sweeps": 2, 
+        "passes": 4
+    }
+}

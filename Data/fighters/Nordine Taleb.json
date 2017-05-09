@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Nordine Taleb", 
+    "weight": "170", 
+    "hometown": "St. Tropez France", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 241, 
+        "attempted": 459, 
+        "clinch": 25, 
+        "ground": 51, 
+        "standing": 165
+    }, 
+    "height": "6' 1\"", 
+    "record": "11-4-0", 
+    "college": "", 
+    "location": "Montreal, Quebec Canada", 
+    "height_cm": "185", 
+    "fullname": "Nordine Taleb", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 13, 
+        "attempted": 17, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 8
+    }
+}

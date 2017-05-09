@@ -1,0 +1,34 @@
+{
+    "degree": "History", 
+    "name": "Cody Gibson", 
+    "weight": "135", 
+    "hometown": "Blackwell, Oklahoma USA", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 100, 
+        "attempted": 316, 
+        "clinch": 32, 
+        "ground": 6, 
+        "standing": 62
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "Menlo College", 
+    "location": "Visalia, California USA", 
+    "height_cm": "177", 
+    "fullname": "Cody Gibson", 
+    "summary": [
+        "Well-rounded", 
+        "mentally strong"
+    ], 
+    "nickname": "The Renegade", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 13, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 3
+    }
+}

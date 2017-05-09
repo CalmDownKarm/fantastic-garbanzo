@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Charles McCarthy", 
+    "weight": "185", 
+    "hometown": "Mt. Kisco, New York USA", 
+    "age": "36", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 3, 
+        "attempted": 25, 
+        "clinch": 1, 
+        "ground": null, 
+        "standing": 2
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "182", 
+    "fullname": "Charles McCarthy", 
+    "summary": [
+        "Submission Skills and Punching Power"
+    ], 
+    "nickname": "Chainsaw", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 5, 
+        "submissions": 3, 
+        "sweeps": 0, 
+        "passes": 3
+    }
+}

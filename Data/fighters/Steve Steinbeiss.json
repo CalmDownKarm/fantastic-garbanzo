@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Steve Steinbeiss", 
+    "weight": "185", 
+    "hometown": "Ipswich England", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 133, 
+        "attempted": 239, 
+        "clinch": 67, 
+        "ground": 13, 
+        "standing": 53
+    }, 
+    "height": "6' 3\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "190", 
+    "fullname": "Steve Steinbeiss", 
+    "summary": [
+        "Speed", 
+        "power", 
+        "a durable fighter that loves to stand and bang"
+    ], 
+    "nickname": "The Hooligan", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 2, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

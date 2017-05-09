@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Martin Bravo", 
+    "weight": "155", 
+    "hometown": "Rosartio, Baja California Mexico", 
+    "age": "23", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 56, 
+        "attempted": 121, 
+        "clinch": 2, 
+        "ground": 2, 
+        "standing": 52
+    }, 
+    "height": "5' 8\"", 
+    "record": "12-0-0", 
+    "college": "", 
+    "location": "Rosartio, Baja California Mexico", 
+    "height_cm": "172", 
+    "fullname": "Martin Bravo", 
+    "summary": [
+        "Wrestling", 
+        "boxing"
+    ], 
+    "nickname": "El Toro", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Victor Valimaki", 
+    "weight": "205", 
+    "hometown": "Kingston Canada", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 66, 
+        "attempted": 219, 
+        "clinch": 8, 
+        "ground": 5, 
+        "standing": 53
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "182", 
+    "fullname": "Victor Valimaki", 
+    "summary": [
+        "Stand Up"
+    ], 
+    "nickname": "The Matrix", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 7, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

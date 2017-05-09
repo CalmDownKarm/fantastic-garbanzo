@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Ilir Latifi", 
+    "weight": "205", 
+    "hometown": "Malmo Sweden", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 84, 
+        "attempted": 244, 
+        "clinch": 10, 
+        "ground": 9, 
+        "standing": 65
+    }, 
+    "height": "5' 10\"", 
+    "record": "13-5-0, 1NC", 
+    "college": "", 
+    "location": "Malmo Sweden", 
+    "height_cm": "177", 
+    "fullname": "Ilir Latifi", 
+    "summary": [
+        "Well-rounded"
+    ], 
+    "nickname": "The Sledgehammer", 
+    "takedowns": {
+        "successful": 6, 
+        "attempted": 22, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

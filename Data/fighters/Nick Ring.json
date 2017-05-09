@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Nick Ring", 
+    "weight": "185", 
+    "hometown": "Cedar Falls, IA USA", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 312, 
+        "attempted": 731, 
+        "clinch": 36, 
+        "ground": 30, 
+        "standing": 246
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Calgary, Alberta Canada", 
+    "height_cm": "182", 
+    "fullname": "Nick \"The Promise\" Ring", 
+    "summary": [
+        "Striking", 
+        "experience", 
+        "submissions"
+    ], 
+    "nickname": "The Promise", 
+    "takedowns": {
+        "successful": 8, 
+        "attempted": 22, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 12
+    }
+}

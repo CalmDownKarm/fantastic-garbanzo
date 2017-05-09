@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Lina Lansberg", 
+    "weight": "140", 
+    "hometown": "Karlstad Sweden", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "63", 
+    "strikes": {
+        "successful": 94, 
+        "attempted": 167, 
+        "clinch": 43, 
+        "ground": 5, 
+        "standing": 46
+    }, 
+    "height": "5' 7\"", 
+    "record": "7-2-0", 
+    "college": "", 
+    "location": "Malmo Sweden", 
+    "height_cm": "170", 
+    "fullname": "Lina Lansberg", 
+    "summary": [
+        "Well-rounded"
+    ], 
+    "nickname": "Elbow Queen", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 8, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

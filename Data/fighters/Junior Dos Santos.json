@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Junior Dos Santos", 
+    "weight": "238", 
+    "hometown": "Santa Catarina Brazil", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "108", 
+    "strikes": {
+        "successful": 887, 
+        "attempted": 1812, 
+        "clinch": 88, 
+        "ground": 59, 
+        "standing": 740
+    }, 
+    "height": "6' 4\"", 
+    "record": "18-4-0", 
+    "college": "", 
+    "location": "Salvador, Bahia Brazil", 
+    "height_cm": "193", 
+    "fullname": "Junior Dos Santos", 
+    "summary": [
+        "Boxing", 
+        "strength", 
+        "KO power"
+    ], 
+    "nickname": "Cigano", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 8, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 3
+    }
+}

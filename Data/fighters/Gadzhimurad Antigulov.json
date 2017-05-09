@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Gadzhimurad Antigulov", 
+    "weight": "205", 
+    "hometown": "Dagestan Russia", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 0, 
+        "attempted": 4, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": null
+    }, 
+    "height": "5' 11\"", 
+    "record": "19-4-0", 
+    "college": "", 
+    "location": "Makhachkala Russia", 
+    "height_cm": "180", 
+    "fullname": "Gadzhimurad Antigulov", 
+    "summary": [
+        "Wrestling"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 1, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

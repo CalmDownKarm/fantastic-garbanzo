@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Ian Loveland", 
+    "weight": "135", 
+    "hometown": "Portland, Oregon USA", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 122, 
+        "attempted": 304, 
+        "clinch": 13, 
+        "ground": 18, 
+        "standing": 91
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Portland, Oregon USA", 
+    "height_cm": "172", 
+    "fullname": "Ian \"The Barn Owl\" Loveland", 
+    "summary": [
+        "Speed"
+    ], 
+    "nickname": "The Barn Owl", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 8, 
+        "submissions": 1, 
+        "sweeps": 1, 
+        "passes": 4
+    }
+}

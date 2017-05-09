@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Yosdenis Cedeno", 
+    "weight": "155", 
+    "hometown": "Havana Cuba", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 82, 
+        "attempted": 274, 
+        "clinch": 8, 
+        "ground": 11, 
+        "standing": 63
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Miami, FL USA", 
+    "height_cm": "172", 
+    "fullname": "Yosdenis Cedeno", 
+    "summary": [
+        "Striking and jiu-jitsu"
+    ], 
+    "nickname": "The Pink Panther", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 2, 
+        "submissions": 1, 
+        "sweeps": 5, 
+        "passes": 1
+    }
+}

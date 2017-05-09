@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Logan Clark", 
+    "weight": "185", 
+    "hometown": "Eyota, MN. USA", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 108, 
+        "attempted": 197, 
+        "clinch": 41, 
+        "ground": 53, 
+        "standing": 14
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "187", 
+    "fullname": "Logan Clark", 
+    "summary": [
+        "Excellent Conditioning", 
+        "Relaxed Nature"
+    ], 
+    "nickname": "The Pink Pounder", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 1, 
+        "submissions": 7, 
+        "sweeps": 2, 
+        "passes": 7
+    }
+}

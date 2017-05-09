@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Murilo Bustamante", 
+    "weight": "185", 
+    "hometown": "Rio De Janeiro, Brazil USA", 
+    "age": "50", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 41, 
+        "attempted": 82, 
+        "clinch": 4, 
+        "ground": 13, 
+        "standing": 24
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "185", 
+    "fullname": "Murilo Bustamante", 
+    "summary": [
+        "Excellent with submissions"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 6, 
+        "attempted": 29, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 4
+    }
+}

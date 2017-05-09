@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Dennis Siver", 
+    "weight": "145", 
+    "hometown": "Omsk Russia", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 766, 
+        "attempted": 2398, 
+        "clinch": 46, 
+        "ground": 86, 
+        "standing": 634
+    }, 
+    "height": "5' 7\"", 
+    "record": "22-11-0, 1NC", 
+    "college": "", 
+    "location": "Mannheim Germany", 
+    "height_cm": "170", 
+    "fullname": "Dennis Siver", 
+    "summary": [
+        "Punches", 
+        "takedowns"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 13, 
+        "attempted": 39, 
+        "submissions": 5, 
+        "sweeps": 5, 
+        "passes": 32
+    }
+}

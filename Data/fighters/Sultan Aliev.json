@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Sultan Aliev", 
+    "weight": "170", 
+    "hometown": "Dagestan Russia", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 23, 
+        "attempted": 40, 
+        "clinch": 4, 
+        "ground": 9, 
+        "standing": 10
+    }, 
+    "height": "6' 0\"", 
+    "record": "14-2-0", 
+    "college": "", 
+    "location": "Coconut Creek, Florida USA", 
+    "height_cm": "182", 
+    "fullname": "Sultan Aliev", 
+    "summary": [
+        "Wrestling", 
+        "sambo throws"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 3, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 3
+    }
+}

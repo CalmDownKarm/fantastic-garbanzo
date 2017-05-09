@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Jose Maria", 
+    "weight": "125", 
+    "hometown": "Limoeira do Norte Brazil", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "56", 
+    "strikes": {
+        "successful": 62, 
+        "attempted": 116, 
+        "clinch": 12, 
+        "ground": 3, 
+        "standing": 47
+    }, 
+    "height": "5' 5\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Rio de Janeiro Brazil", 
+    "height_cm": "165", 
+    "fullname": "Jose Maria", 
+    "summary": [
+        "Grappling"
+    ], 
+    "nickname": "No Chance", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 11, 
+        "submissions": 3, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

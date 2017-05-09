@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Michelle Waterson", 
+    "weight": "115", 
+    "hometown": "Aurora, CO USA", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "52", 
+    "strikes": {
+        "successful": 59, 
+        "attempted": 77, 
+        "clinch": 11, 
+        "ground": 13, 
+        "standing": 35
+    }, 
+    "height": "5' 3\"", 
+    "record": "14-4-0", 
+    "college": "", 
+    "location": "Albuquerque, NM USA", 
+    "height_cm": "160", 
+    "fullname": "Michelle Waterson", 
+    "summary": [
+        "Well-rounded", 
+        "flexibility", 
+        "speed"
+    ], 
+    "nickname": "The Karate Hottie", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 4, 
+        "submissions": 6, 
+        "sweeps": 0, 
+        "passes": 10
+    }
+}

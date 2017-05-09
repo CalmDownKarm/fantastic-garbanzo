@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Yasuhiro Urushitani", 
+    "weight": "125", 
+    "hometown": "Ehime Japan", 
+    "age": "40", 
+    "fights": [], 
+    "weight_kg": "56", 
+    "strikes": {
+        "successful": 70, 
+        "attempted": 176, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 70
+    }, 
+    "height": "5' 5\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Tokyo Japan", 
+    "height_cm": "165", 
+    "fullname": "Yaushiro Urushitani", 
+    "summary": [
+        "Striking and takedown defense"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

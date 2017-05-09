@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Don Frye", 
+    "weight": "210", 
+    "hometown": "Sierra Vista, Arizona - USA USA", 
+    "age": "51", 
+    "fights": [], 
+    "weight_kg": "95", 
+    "strikes": {
+        "successful": null, 
+        "attempted": null, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": null
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "185", 
+    "fullname": "Don Frye", 
+    "summary": [
+        "N/A"
+    ], 
+    "nickname": "The Predator", 
+    "takedowns": {
+        "successful": null, 
+        "attempted": null, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

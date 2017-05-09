@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Adlan Amagov", 
+    "weight": "170", 
+    "hometown": "Chechnya Russia", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 53, 
+        "attempted": 125, 
+        "clinch": 15, 
+        "ground": 9, 
+        "standing": 29
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Chechnya Russia", 
+    "height_cm": "187", 
+    "fullname": "Adlan Amagov", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "Borz", 
+    "takedowns": {
+        "successful": 6, 
+        "attempted": 11, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

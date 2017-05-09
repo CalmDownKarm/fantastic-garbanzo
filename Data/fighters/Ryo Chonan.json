@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Ryo Chonan", 
+    "weight": "170", 
+    "hometown": "Yamagata City Japan", 
+    "age": "40", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 152, 
+        "attempted": 401, 
+        "clinch": 20, 
+        "ground": 33, 
+        "standing": 99
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "175", 
+    "fullname": "Ryo Chonan", 
+    "summary": [
+        "Fighting Spirit"
+    ], 
+    "nickname": "Piranha", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 4, 
+        "submissions": 0, 
+        "sweeps": 4, 
+        "passes": 0
+    }
+}

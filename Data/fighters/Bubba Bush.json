@@ -1,0 +1,35 @@
+{
+    "degree": "BA Finance", 
+    "name": "Bubba Bush", 
+    "weight": "185", 
+    "hometown": "Meridian, Mississippi USA", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 10, 
+        "attempted": 18, 
+        "clinch": 1, 
+        "ground": 4, 
+        "standing": 5
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "Texas A&M", 
+    "location": "College Station, TX USA", 
+    "height_cm": "182", 
+    "fullname": "Bubba Bush", 
+    "summary": [
+        "Wrestling", 
+        "Jiu-Jitsu", 
+        "4 Gate All In"
+    ], 
+    "nickname": "The Fighting Texas Aggie", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 6, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 5
+    }
+}

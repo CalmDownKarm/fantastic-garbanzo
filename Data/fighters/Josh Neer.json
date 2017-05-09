@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Josh Neer", 
+    "weight": "170", 
+    "hometown": "Des Moines, IA USA", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 473, 
+        "attempted": 1059, 
+        "clinch": 139, 
+        "ground": 112, 
+        "standing": 222
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Des Moines, Iowa USA", 
+    "height_cm": "180", 
+    "fullname": "Josh \"The Dentist\" Neer", 
+    "summary": [
+        "Knockouts", 
+        "submissions", 
+        "toughness."
+    ], 
+    "nickname": "The Dentist", 
+    "takedowns": {
+        "successful": 10, 
+        "attempted": 24, 
+        "submissions": 13, 
+        "sweeps": 2, 
+        "passes": 5
+    }
+}

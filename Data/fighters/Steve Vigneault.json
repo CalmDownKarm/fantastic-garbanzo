@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Steve Vigneault", 
+    "weight": "185", 
+    "hometown": "\u00celes de la Madeleine, Quebec Canada", 
+    "age": "40", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 6, 
+        "attempted": 13, 
+        "clinch": 5, 
+        "ground": null, 
+        "standing": 1
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "177", 
+    "fullname": "Steve Vigneault", 
+    "summary": [
+        "KO Power"
+    ], 
+    "nickname": "Lion Heart", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

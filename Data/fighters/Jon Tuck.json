@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Jon Tuck", 
+    "weight": "155", 
+    "hometown": "Spokane, Washington USA", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 284, 
+        "attempted": 721, 
+        "clinch": 28, 
+        "ground": 29, 
+        "standing": 227
+    }, 
+    "height": "5' 11\"", 
+    "record": "9-4-0", 
+    "college": "", 
+    "location": "Hagatna Guam", 
+    "height_cm": "180", 
+    "fullname": "Jon Tuck", 
+    "summary": [
+        "All aspects of MMA"
+    ], 
+    "nickname": "The Super Saiyan", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 8, 
+        "submissions": 5, 
+        "sweeps": 1, 
+        "passes": 17
+    }
+}

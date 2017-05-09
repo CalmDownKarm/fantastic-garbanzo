@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Genki Sudo", 
+    "weight": "155", 
+    "hometown": "Tokyo, Japan Japan", 
+    "age": "39", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 39, 
+        "attempted": 100, 
+        "clinch": 6, 
+        "ground": 19, 
+        "standing": 14
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "175", 
+    "fullname": "Genki Sudo", 
+    "summary": [
+        "Unorthodox style", 
+        "solid strikes", 
+        "excellent grappling and submissions"
+    ], 
+    "nickname": "The Neo Samurai", 
+    "takedowns": {
+        "successful": 6, 
+        "attempted": 10, 
+        "submissions": 7, 
+        "sweeps": 0, 
+        "passes": 7
+    }
+}

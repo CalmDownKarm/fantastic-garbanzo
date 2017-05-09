@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Glover Teixeira", 
+    "weight": "205", 
+    "hometown": "Sobralia, Minas Gerais Brazil", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 460, 
+        "attempted": 1034, 
+        "clinch": 47, 
+        "ground": 195, 
+        "standing": 218
+    }, 
+    "height": "6' 2\"", 
+    "record": "26-5-0", 
+    "college": "", 
+    "location": "Danbury, Connecticut United States", 
+    "height_cm": "187", 
+    "fullname": "Glover Teixeira", 
+    "summary": [
+        "Strikings", 
+        "Jiu-Jitsu"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 20, 
+        "attempted": 37, 
+        "submissions": 6, 
+        "sweeps": 1, 
+        "passes": 40
+    }
+}

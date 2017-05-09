@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Angela Hill", 
+    "weight": "115", 
+    "hometown": "Clinton, Maryland United States", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "52", 
+    "strikes": {
+        "successful": 235, 
+        "attempted": 458, 
+        "clinch": 112, 
+        "ground": 11, 
+        "standing": 112
+    }, 
+    "height": "5' 3\"", 
+    "record": "6-3-0", 
+    "college": "", 
+    "location": "San Diego, California United States", 
+    "height_cm": "160", 
+    "fullname": "Angela Hill", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "Overkill", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 0
+    }
+}

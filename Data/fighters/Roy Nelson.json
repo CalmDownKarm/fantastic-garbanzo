@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Roy Nelson", 
+    "weight": "263", 
+    "hometown": "Las Vegas, Nevada USA", 
+    "age": "40", 
+    "fights": [], 
+    "weight_kg": "119", 
+    "strikes": {
+        "successful": 407, 
+        "attempted": 1109, 
+        "clinch": 77, 
+        "ground": 40, 
+        "standing": 290
+    }, 
+    "height": "6' 0\"", 
+    "record": "22-13-0", 
+    "college": "", 
+    "location": "Las Vegas, Nevada USA", 
+    "height_cm": "182", 
+    "fullname": "Roy Nelson", 
+    "summary": [
+        "Grappling", 
+        "world-class experience", 
+        "KO power"
+    ], 
+    "nickname": "Big Country", 
+    "takedowns": {
+        "successful": 15, 
+        "attempted": 46, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 12
+    }
+}

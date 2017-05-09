@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Erik Koch", 
+    "weight": "155", 
+    "hometown": "Cedar Rapids, IA USA", 
+    "age": "28", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 203, 
+        "attempted": 481, 
+        "clinch": 56, 
+        "ground": 46, 
+        "standing": 101
+    }, 
+    "height": "5' 10\"", 
+    "record": "15-4-0", 
+    "college": "", 
+    "location": "Milwaukee, WI USA", 
+    "height_cm": "177", 
+    "fullname": "Erik Koch", 
+    "summary": [
+        "Power", 
+        "striking", 
+        "toughness"
+    ], 
+    "nickname": "New Breed", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 9, 
+        "submissions": 9, 
+        "sweeps": 0, 
+        "passes": 11
+    }
+}

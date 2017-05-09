@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Johnny Rees", 
+    "weight": "170", 
+    "hometown": "Indianapolis, Indiana USA", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 43, 
+        "attempted": 67, 
+        "clinch": 27, 
+        "ground": 10, 
+        "standing": 6
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "182", 
+    "fullname": "Johnny Rees", 
+    "summary": [
+        "BJJ", 
+        "ground and pound"
+    ], 
+    "nickname": "The Hater Hurter", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 4, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

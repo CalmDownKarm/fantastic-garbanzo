@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Kailin Curran", 
+    "weight": "115", 
+    "hometown": "Ewa Beach, Hawaii USA", 
+    "age": "25", 
+    "fights": [], 
+    "weight_kg": "52", 
+    "strikes": {
+        "successful": 182, 
+        "attempted": 439, 
+        "clinch": 52, 
+        "ground": 20, 
+        "standing": 110
+    }, 
+    "height": "5' 4\"", 
+    "record": "4-4-0", 
+    "college": "", 
+    "location": "Ewa Beach, Hawaii USA", 
+    "height_cm": "162", 
+    "fullname": "Kailin Curran", 
+    "summary": [
+        "Kickboxing"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 8, 
+        "attempted": 10, 
+        "submissions": 3, 
+        "sweeps": 0, 
+        "passes": 7
+    }
+}

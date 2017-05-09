@@ -1,0 +1,36 @@
+{
+    "degree": "", 
+    "name": "Papy Abedi ", 
+    "weight": "185", 
+    "hometown": "Kinshasa Democratic Republic of Congo", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 97, 
+        "attempted": 176, 
+        "clinch": 34, 
+        "ground": 27, 
+        "standing": 36
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Stockholm Sweden", 
+    "height_cm": "180", 
+    "fullname": "Papy Abedi", 
+    "summary": [
+        "Hits hard", 
+        "strong", 
+        "always in good shape", 
+        "great takedowns"
+    ], 
+    "nickname": "Makambo", 
+    "takedowns": {
+        "successful": 8, 
+        "attempted": 14, 
+        "submissions": 3, 
+        "sweeps": 0, 
+        "passes": 7
+    }
+}

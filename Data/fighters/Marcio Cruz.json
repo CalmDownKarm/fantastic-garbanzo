@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Marcio Cruz", 
+    "weight": "246", 
+    "hometown": "Rio De Janeiro, Rio De Janeiro Brazil", 
+    "age": "39", 
+    "fights": [], 
+    "weight_kg": "111", 
+    "strikes": {
+        "successful": 83, 
+        "attempted": 180, 
+        "clinch": 7, 
+        "ground": 30, 
+        "standing": 46
+    }, 
+    "height": "6' 4\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "193", 
+    "fullname": "Marcio Cruz", 
+    "summary": [
+        "Submissions"
+    ], 
+    "nickname": "Pe De Pano", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 14, 
+        "submissions": 3, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

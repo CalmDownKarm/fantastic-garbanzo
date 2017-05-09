@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Josh Thomson", 
+    "weight": "155", 
+    "hometown": "San Jose, CA USA", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 197, 
+        "attempted": 457, 
+        "clinch": 37, 
+        "ground": 32, 
+        "standing": 128
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "North Idaho College", 
+    "location": "San Jose, CA USA", 
+    "height_cm": "177", 
+    "fullname": "Josh Thomson", 
+    "summary": [
+        "Cardio", 
+        "attitude"
+    ], 
+    "nickname": "The Punk", 
+    "takedowns": {
+        "successful": 11, 
+        "attempted": 30, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 5
+    }
+}

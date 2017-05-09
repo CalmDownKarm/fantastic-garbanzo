@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Sergio Gomez", 
+    "weight": "155", 
+    "hometown": "Racine, Wisconsin USA", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 35, 
+        "attempted": 82, 
+        "clinch": 14, 
+        "ground": 8, 
+        "standing": 13
+    }, 
+    "height": "5' 4\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "162", 
+    "fullname": "Sergio Gomez", 
+    "summary": [
+        "KO Power"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 6, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 3
+    }
+}

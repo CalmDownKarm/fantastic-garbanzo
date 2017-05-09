@@ -1,0 +1,36 @@
+{
+    "degree": "", 
+    "name": "Donny Walker", 
+    "weight": "135", 
+    "hometown": "Ashtabula, Ohio USA", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 0, 
+        "attempted": 0, 
+        "clinch": 0, 
+        "ground": 0, 
+        "standing": 0
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Mentor, Ohio USA", 
+    "height_cm": "175", 
+    "fullname": "Donny \"Eagle Eye\" Walker", 
+    "summary": [
+        "Heavy-handed", 
+        "hard-headed", 
+        "cardio", 
+        "will to win."
+    ], 
+    "nickname": "Eagle Eye", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

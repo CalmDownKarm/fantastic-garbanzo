@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Tateki Matsuda", 
+    "weight": "125", 
+    "hometown": "Tokyo Japan", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "56", 
+    "strikes": {
+        "successful": 96, 
+        "attempted": 278, 
+        "clinch": 8, 
+        "ground": 3, 
+        "standing": 85
+    }, 
+    "height": "5' 7\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Somerville, Massachusetts USA", 
+    "height_cm": "170", 
+    "fullname": "Tateki Matsuda", 
+    "summary": [
+        "Work ethic", 
+        "footwork"
+    ], 
+    "nickname": "Tech", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 2, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 1
+    }
+}

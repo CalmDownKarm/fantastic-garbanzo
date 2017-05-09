@@ -1,0 +1,34 @@
+{
+    "degree": "Sociology", 
+    "name": "Colby Covington", 
+    "weight": "170", 
+    "hometown": "Clovis, California USA", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 183, 
+        "attempted": 353, 
+        "clinch": 21, 
+        "ground": 65, 
+        "standing": 97
+    }, 
+    "height": "5' 11\"", 
+    "record": "11-1-0", 
+    "college": "Oregon State", 
+    "location": "Fort Lauderdale, Florida USA", 
+    "height_cm": "180", 
+    "fullname": "Colby Covington", 
+    "summary": [
+        "Wrestling", 
+        "cardio"
+    ], 
+    "nickname": "Chaos", 
+    "takedowns": {
+        "successful": 33, 
+        "attempted": 61, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 38
+    }
+}

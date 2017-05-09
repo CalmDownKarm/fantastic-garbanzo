@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Demetrious Johnson", 
+    "weight": "125", 
+    "hometown": "Madisonville, KY USA", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "56", 
+    "strikes": {
+        "successful": 1038, 
+        "attempted": 1961, 
+        "clinch": 375, 
+        "ground": 98, 
+        "standing": 565
+    }, 
+    "height": "5' 3\"", 
+    "record": "25-2-1", 
+    "college": "", 
+    "location": "Parkland, WA USA", 
+    "height_cm": "160", 
+    "fullname": "Demetrious \"Mighty Mouse\" Johnson", 
+    "summary": [
+        "Speed", 
+        "conditioning & technique"
+    ], 
+    "nickname": "Mighty Mouse", 
+    "takedowns": {
+        "successful": 74, 
+        "attempted": 137, 
+        "submissions": 10, 
+        "sweeps": 3, 
+        "passes": 50
+    }
+}

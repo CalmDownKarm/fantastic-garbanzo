@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Germaine de Randamie", 
+    "weight": "145", 
+    "hometown": "Utrecht The Netherlands", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 178, 
+        "attempted": 351, 
+        "clinch": 77, 
+        "ground": null, 
+        "standing": 101
+    }, 
+    "height": "5' 9\"", 
+    "record": "7-3-0", 
+    "college": "", 
+    "location": "Utrecht The Netherlands", 
+    "height_cm": "175", 
+    "fullname": "Germaine de Randamie", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "The Iron Lady", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

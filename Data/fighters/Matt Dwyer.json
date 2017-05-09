@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Matt Dwyer", 
+    "weight": "170", 
+    "hometown": "New Westminster, BC Canada", 
+    "age": "27", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 88, 
+        "attempted": 257, 
+        "clinch": 18, 
+        "ground": 5, 
+        "standing": 65
+    }, 
+    "height": "6' 4\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Kelowna, BC Canada", 
+    "height_cm": "193", 
+    "fullname": "Matt Dwyer", 
+    "summary": [
+        "Height and reach"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 10, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

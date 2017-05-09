@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Ken Stone", 
+    "weight": "135", 
+    "hometown": "Holliston, MA USA", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 93, 
+        "attempted": 188, 
+        "clinch": 24, 
+        "ground": 1, 
+        "standing": 68
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Coconut Creek, Florida USA", 
+    "height_cm": "172", 
+    "fullname": "Ken Stone", 
+    "summary": [
+        "Well-rounded"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 6, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

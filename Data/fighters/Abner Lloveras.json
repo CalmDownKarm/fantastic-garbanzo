@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Abner Lloveras", 
+    "weight": "155", 
+    "hometown": "Barcelona Spain", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 94, 
+        "attempted": 189, 
+        "clinch": 18, 
+        "ground": null, 
+        "standing": 76
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Barcelona Spain", 
+    "height_cm": "180", 
+    "fullname": "Abner Lloveras", 
+    "summary": [
+        "Boxing"
+    ], 
+    "nickname": "Skullman", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 10, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

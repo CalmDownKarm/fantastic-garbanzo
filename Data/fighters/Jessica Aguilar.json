@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "Jessica Aguilar", 
+    "weight": "115", 
+    "hometown": "", 
+    "age": "", 
+    "fights": [], 
+    "weight_kg": "52", 
+    "strikes": {
+        "successful": 70, 
+        "attempted": 189, 
+        "clinch": 7, 
+        "ground": null, 
+        "standing": 63
+    }, 
+    "height": "5' 4\"", 
+    "record": "19-5-0", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "162", 
+    "fullname": "Jessica Aguilar", 
+    "summary": [], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 3, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

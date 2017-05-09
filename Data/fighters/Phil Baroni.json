@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Phil Baroni", 
+    "weight": "185", 
+    "hometown": "Long Island, New York USA", 
+    "age": "40", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 253, 
+        "attempted": 512, 
+        "clinch": 94, 
+        "ground": 85, 
+        "standing": 74
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "Central Michigan University", 
+    "location": "", 
+    "height_cm": "175", 
+    "fullname": "Phil Baroni", 
+    "summary": [
+        "Good puncher", 
+        "good takedowns and takedown defense"
+    ], 
+    "nickname": "New York Bad Ass", 
+    "takedowns": {
+        "successful": 8, 
+        "attempted": 18, 
+        "submissions": 3, 
+        "sweeps": 2, 
+        "passes": 5
+    }
+}

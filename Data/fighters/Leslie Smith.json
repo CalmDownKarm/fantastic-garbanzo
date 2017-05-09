@@ -1,0 +1,33 @@
+{
+    "degree": "AA", 
+    "name": "Leslie Smith", 
+    "weight": "135", 
+    "hometown": "Santa Ana, CA USA", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 376, 
+        "attempted": 991, 
+        "clinch": 62, 
+        "ground": 6, 
+        "standing": 308
+    }, 
+    "height": "5' 9\"", 
+    "record": "9-7-1", 
+    "college": "Pikes Peak Community College", 
+    "location": "Pleasant Hill, California USA", 
+    "height_cm": "175", 
+    "fullname": "Leslie Smith", 
+    "summary": [
+        "Aggressive"
+    ], 
+    "nickname": "The Peacemaker", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 5, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

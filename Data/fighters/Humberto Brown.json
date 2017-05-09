@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Humberto Brown", 
+    "weight": "145", 
+    "hometown": "Panama City PAN", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 18, 
+        "attempted": 36, 
+        "clinch": 3, 
+        "ground": 7, 
+        "standing": 8
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Panama City PAN", 
+    "height_cm": "177", 
+    "fullname": "Humberto Brown", 
+    "summary": [
+        "Aggression", 
+        "power", 
+        "speed"
+    ], 
+    "nickname": "El Gato Negro", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 4, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

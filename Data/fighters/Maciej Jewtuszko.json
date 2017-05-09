@@ -1,0 +1,31 @@
+{
+    "degree": "Sociology", 
+    "name": "Maciej Jewtuszko", 
+    "weight": "155", 
+    "hometown": "Szczecin Poland", 
+    "age": "36", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 38, 
+        "attempted": 84, 
+        "clinch": 8, 
+        "ground": 1, 
+        "standing": 29
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Szczecin Poland", 
+    "height_cm": "182", 
+    "fullname": "Maciej Jewtuszko", 
+    "summary": [], 
+    "nickname": "Irokez", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

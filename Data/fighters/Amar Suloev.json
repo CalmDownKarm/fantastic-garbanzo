@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Amar Suloev", 
+    "weight": "200", 
+    "hometown": "Kalinin City, Armenia USA", 
+    "age": "40", 
+    "fights": [], 
+    "weight_kg": "90", 
+    "strikes": {
+        "successful": 35, 
+        "attempted": 84, 
+        "clinch": 2, 
+        "ground": null, 
+        "standing": 33
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "175", 
+    "fullname": "Amar Suloev", 
+    "summary": [
+        "Excellent physical conditioning."
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 1, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

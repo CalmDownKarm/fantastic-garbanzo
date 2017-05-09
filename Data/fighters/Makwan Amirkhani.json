@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Makwan Amirkhani", 
+    "weight": "145", 
+    "hometown": "Kurdistan", 
+    "age": "28", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 55, 
+        "attempted": 103, 
+        "clinch": 35, 
+        "ground": null, 
+        "standing": 20
+    }, 
+    "height": "5' 10\"", 
+    "record": "13-3-0", 
+    "college": "", 
+    "location": "Turku Finland", 
+    "height_cm": "177", 
+    "fullname": "Makwan Amirkhani", 
+    "summary": [
+        "Submission specialist"
+    ], 
+    "nickname": "Mr. Finland", 
+    "takedowns": {
+        "successful": 9, 
+        "attempted": 20, 
+        "submissions": 5, 
+        "sweeps": 4, 
+        "passes": 14
+    }
+}

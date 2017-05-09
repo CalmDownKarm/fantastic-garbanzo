@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Mike Easton", 
+    "weight": "135", 
+    "hometown": "Washington, DC USA", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 351, 
+        "attempted": 947, 
+        "clinch": 79, 
+        "ground": 13, 
+        "standing": 259
+    }, 
+    "height": "5' 6\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Camp Springs, MD USA", 
+    "height_cm": "167", 
+    "fullname": "Mike Easton", 
+    "summary": [
+        "Unbelievable standup", 
+        "excellent on the ground"
+    ], 
+    "nickname": "The Hulk", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 22, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 6
+    }
+}

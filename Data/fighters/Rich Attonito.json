@@ -1,0 +1,37 @@
+{
+    "degree": "Communications", 
+    "name": "Rich Attonito", 
+    "weight": "170", 
+    "hometown": "Elizabeth, New Jersey USA", 
+    "age": "39", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 138, 
+        "attempted": 288, 
+        "clinch": 12, 
+        "ground": 65, 
+        "standing": 61
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "Hofstra University", 
+    "location": "Coconut Creek, FL USA", 
+    "height_cm": "177", 
+    "fullname": "Rich \"Raging Bull\" Attonito", 
+    "summary": [
+        "Wrestling", 
+        "BJJ", 
+        "Boxing", 
+        "Strong", 
+        "Good conditioning"
+    ], 
+    "nickname": "The Raging Bull", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 8, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 5
+    }
+}

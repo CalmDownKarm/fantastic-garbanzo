@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Albert Morales", 
+    "weight": "135", 
+    "hometown": "Granada Hills, California United States", 
+    "age": "25", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 153, 
+        "attempted": 438, 
+        "clinch": 6, 
+        "ground": 7, 
+        "standing": 140
+    }, 
+    "height": "5' 9\"", 
+    "record": "7-1-1", 
+    "college": "", 
+    "location": "Reseda, California United States", 
+    "height_cm": "175", 
+    "fullname": "Albert Morales", 
+    "summary": [
+        "Well-rounded"
+    ], 
+    "nickname": "The Warrior", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 6, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

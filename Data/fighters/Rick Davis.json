@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Rick Davis", 
+    "weight": "155", 
+    "hometown": "Los Angeles, California USA", 
+    "age": "47", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 5, 
+        "attempted": 10, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 5
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "175", 
+    "fullname": "Rick Davis", 
+    "summary": [
+        "Good ground skills"
+    ], 
+    "nickname": "The Flying Squirrel", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

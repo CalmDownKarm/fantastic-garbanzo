@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Yancy Medeiros", 
+    "weight": "155", 
+    "hometown": "Makaha, Hawaii USA", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 246, 
+        "attempted": 735, 
+        "clinch": 16, 
+        "ground": 14, 
+        "standing": 216
+    }, 
+    "height": "5' 10\"", 
+    "record": "13-4-0, 1NC", 
+    "college": "", 
+    "location": "Makaha, Hawaii USA", 
+    "height_cm": "177", 
+    "fullname": "Yancy Medeiros", 
+    "summary": [
+        "Standup", 
+        "fighting instinct"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 2, 
+        "submissions": 4, 
+        "sweeps": 1, 
+        "passes": 3
+    }
+}

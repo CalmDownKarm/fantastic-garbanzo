@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Jorge de Oliveira", 
+    "weight": "170", 
+    "hometown": "Nilopolis, Rio de Janeiro Brazil", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 23, 
+        "attempted": 72, 
+        "clinch": 7, 
+        "ground": null, 
+        "standing": 16
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Rio de Janeiro Brazil", 
+    "height_cm": "172", 
+    "fullname": "Jorge de Oliveira", 
+    "summary": [
+        "Kickboxing"
+    ], 
+    "nickname": "Blade", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

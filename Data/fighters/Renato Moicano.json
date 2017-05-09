@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Renato Moicano", 
+    "weight": "145", 
+    "hometown": "Brasilia Brazil", 
+    "age": "27", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 92, 
+        "attempted": 240, 
+        "clinch": 2, 
+        "ground": 3, 
+        "standing": 87
+    }, 
+    "height": "5' 11\"", 
+    "record": "10-0-1", 
+    "college": "", 
+    "location": "Brasilia Brazil", 
+    "height_cm": "180", 
+    "fullname": "Renato Moicano", 
+    "summary": [
+        "Jiu-jitsu"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 2, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 4
+    }
+}

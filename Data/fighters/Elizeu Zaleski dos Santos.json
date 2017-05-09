@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Elizeu Zaleski dos Santos", 
+    "weight": "170", 
+    "hometown": "Francisco Beltrao, Parana Brazil", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 163, 
+        "attempted": 397, 
+        "clinch": 52, 
+        "ground": 7, 
+        "standing": 104
+    }, 
+    "height": "5' 11\"", 
+    "record": "16-5-0", 
+    "college": "", 
+    "location": "Francisco Beltrao, Parana Brazil", 
+    "height_cm": "180", 
+    "fullname": "Elizeu Zaleski dos Santos", 
+    "summary": [
+        "Stand up"
+    ], 
+    "nickname": "Capoeira", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 6, 
+        "submissions": 3, 
+        "sweeps": 2, 
+        "passes": 4
+    }
+}

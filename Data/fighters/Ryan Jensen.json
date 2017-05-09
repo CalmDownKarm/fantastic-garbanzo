@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Ryan Jensen", 
+    "weight": "185", 
+    "hometown": "Omaha, Nebraska USA", 
+    "age": "39", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 100, 
+        "attempted": 248, 
+        "clinch": 7, 
+        "ground": 36, 
+        "standing": 57
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "185", 
+    "fullname": "Ryan Jensen", 
+    "summary": [
+        "Standup", 
+        "well-rounded"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 8, 
+        "submissions": 5, 
+        "sweeps": 2, 
+        "passes": 3
+    }
+}

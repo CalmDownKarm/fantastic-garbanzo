@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Jorge Masvidal", 
+    "weight": "170", 
+    "hometown": "Miami, Florida USA", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 736, 
+        "attempted": 1498, 
+        "clinch": 130, 
+        "ground": 94, 
+        "standing": 512
+    }, 
+    "height": "5' 11\"", 
+    "record": "32-11-0", 
+    "college": "", 
+    "location": "Miami, Florida USA", 
+    "height_cm": "180", 
+    "fullname": "Jorge Masvidal", 
+    "summary": [
+        "Heart"
+    ], 
+    "nickname": "Gamebred", 
+    "takedowns": {
+        "successful": 15, 
+        "attempted": 27, 
+        "submissions": 7, 
+        "sweeps": 1, 
+        "passes": 12
+    }
+}

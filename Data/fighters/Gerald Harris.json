@@ -1,0 +1,34 @@
+{
+    "degree": "History", 
+    "name": "Gerald Harris", 
+    "weight": "185", 
+    "hometown": "Tulsa, Oklahoma USA", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 56, 
+        "attempted": 216, 
+        "clinch": 5, 
+        "ground": 13, 
+        "standing": 38
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "Cleveland State University", 
+    "location": "Tulsa, OK USA", 
+    "height_cm": "180", 
+    "fullname": "Gerald Harris", 
+    "summary": [
+        "Wrestling Background", 
+        "Powerful Slams"
+    ], 
+    "nickname": "Hurricane", 
+    "takedowns": {
+        "successful": 8, 
+        "attempted": 14, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 1
+    }
+}

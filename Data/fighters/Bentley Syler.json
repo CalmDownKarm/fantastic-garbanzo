@@ -1,0 +1,36 @@
+{
+    "degree": "", 
+    "name": "Bentley Syler", 
+    "weight": "125", 
+    "hometown": "Santa Cruz Bolivia", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "56", 
+    "strikes": {
+        "successful": 15, 
+        "attempted": 79, 
+        "clinch": 1, 
+        "ground": null, 
+        "standing": 14
+    }, 
+    "height": "5' 4\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Boca Raton, Florida USA", 
+    "height_cm": "162", 
+    "fullname": "Bentley Syler", 
+    "summary": [
+        "Striking", 
+        "grappling", 
+        "endurance", 
+        "fight IQ"
+    ], 
+    "nickname": "Dr. Bolivia", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

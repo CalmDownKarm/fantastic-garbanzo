@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Kelvin Gastelum", 
+    "weight": "185", 
+    "hometown": "San Jose, California United States", 
+    "age": "25", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 544, 
+        "attempted": 1239, 
+        "clinch": 61, 
+        "ground": 47, 
+        "standing": 436
+    }, 
+    "height": "5' 9\"", 
+    "record": "14-2-0", 
+    "college": "", 
+    "location": "Yuma, Arizona United States", 
+    "height_cm": "175", 
+    "fullname": "Kelvin Gastelum", 
+    "summary": [
+        "Heart"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 9, 
+        "attempted": 18, 
+        "submissions": 2, 
+        "sweeps": 5, 
+        "passes": 16
+    }
+}

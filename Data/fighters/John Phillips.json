@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "John Phillips", 
+    "weight": "205", 
+    "hometown": "", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": null, 
+        "attempted": null, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": null
+    }, 
+    "height": "5' 11\"", 
+    "record": "21-6-0, 1NC", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "180", 
+    "fullname": "John Phillips", 
+    "summary": [], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": null, 
+        "attempted": null, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Lyoto Machida", 
+    "weight": "185", 
+    "hometown": "Salvador Brazil", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 640, 
+        "attempted": 1240, 
+        "clinch": 83, 
+        "ground": 111, 
+        "standing": 446
+    }, 
+    "height": "6' 1\"", 
+    "record": "22-7-0", 
+    "college": "", 
+    "location": "Los Angeles, California USA", 
+    "height_cm": "185", 
+    "fullname": "Lyoto \"The Dragon\" Machida", 
+    "summary": [
+        "Karate", 
+        "unorthodox style", 
+        "speed"
+    ], 
+    "nickname": "The Dragon", 
+    "takedowns": {
+        "successful": 14, 
+        "attempted": 22, 
+        "submissions": 8, 
+        "sweeps": 2, 
+        "passes": 40
+    }
+}

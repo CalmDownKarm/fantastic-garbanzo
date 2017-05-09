@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Wilson Gouveia", 
+    "weight": "185", 
+    "hometown": "Fortaleza Brazil", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 201, 
+        "attempted": 503, 
+        "clinch": 15, 
+        "ground": 38, 
+        "standing": 148
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "185", 
+    "fullname": "Wilson Gouveia", 
+    "summary": [
+        "BJJ Black Belt", 
+        "Heavy Hands", 
+        "Likes to Strike"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 6, 
+        "submissions": 10, 
+        "sweeps": 0, 
+        "passes": 8
+    }
+}

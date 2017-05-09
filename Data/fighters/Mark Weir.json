@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Mark Weir", 
+    "weight": "178", 
+    "hometown": "Gloucester, England USA", 
+    "age": "49", 
+    "fights": [], 
+    "weight_kg": "80", 
+    "strikes": {
+        "successful": 25, 
+        "attempted": 39, 
+        "clinch": 1, 
+        "ground": 19, 
+        "standing": 5
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "187", 
+    "fullname": "Mark Weir", 
+    "summary": [
+        "Fast hands"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 3, 
+        "sweeps": 1, 
+        "passes": 1
+    }
+}

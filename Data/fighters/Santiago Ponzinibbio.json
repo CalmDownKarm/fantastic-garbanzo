@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Santiago Ponzinibbio", 
+    "weight": "170", 
+    "hometown": "La Plata Argentina", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 315, 
+        "attempted": 817, 
+        "clinch": 14, 
+        "ground": 12, 
+        "standing": 289
+    }, 
+    "height": "6' 0\"", 
+    "record": "24-3-0", 
+    "college": "", 
+    "location": "Coconut Creek, Florida United States", 
+    "height_cm": "182", 
+    "fullname": "Santiago Ponzinibbio", 
+    "summary": [
+        "Aggressiveness", 
+        "strength and movement"
+    ], 
+    "nickname": "Gente Boa", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 6, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

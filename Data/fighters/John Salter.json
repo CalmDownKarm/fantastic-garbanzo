@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "John Salter", 
+    "weight": "185", 
+    "hometown": "Birmingham, Alabama USA", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 31, 
+        "attempted": 131, 
+        "clinch": 5, 
+        "ground": 1, 
+        "standing": 25
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "185", 
+    "fullname": "John Salter", 
+    "summary": [
+        "Wrestling"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 10, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

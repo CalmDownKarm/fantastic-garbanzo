@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Ariel Gandulla", 
+    "weight": "205", 
+    "hometown": "Cienfuegos Cuba", 
+    "age": "48", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 31, 
+        "attempted": 133, 
+        "clinch": 11, 
+        "ground": 4, 
+        "standing": 16
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "180", 
+    "fullname": "Ariel Gandulla", 
+    "summary": [
+        "Wrestling", 
+        "Very Powerful and Explosive"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 3, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

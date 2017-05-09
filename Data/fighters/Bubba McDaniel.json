@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Bubba McDaniel", 
+    "weight": "185", 
+    "hometown": "Childress, TX USA", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 53, 
+        "attempted": 120, 
+        "clinch": 8, 
+        "ground": 13, 
+        "standing": 32
+    }, 
+    "height": "6' 3\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Wichita Falls, TX USA", 
+    "height_cm": "190", 
+    "fullname": "Bubba McDaniel", 
+    "summary": [
+        "Striking", 
+        "Grappling", 
+        "Ground and Pound"
+    ], 
+    "nickname": "The Menace", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 4, 
+        "submissions": 3, 
+        "sweeps": 2, 
+        "passes": 11
+    }
+}

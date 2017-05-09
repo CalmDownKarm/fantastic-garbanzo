@@ -1,0 +1,33 @@
+{
+    "degree": "English", 
+    "name": "Julie Kedzie", 
+    "weight": "135", 
+    "hometown": "Chicago, IL USA", 
+    "age": "36", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 82, 
+        "attempted": 262, 
+        "clinch": 16, 
+        "ground": null, 
+        "standing": 66
+    }, 
+    "height": "5' 5\"", 
+    "record": "", 
+    "college": "Indiana University", 
+    "location": "Albuquerque, NM USA", 
+    "height_cm": "165", 
+    "fullname": "Julie Kedzie", 
+    "summary": [
+        "Constant desire to improve"
+    ], 
+    "nickname": "Fireball", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 9, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

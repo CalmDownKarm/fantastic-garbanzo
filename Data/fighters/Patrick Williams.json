@@ -1,0 +1,33 @@
+{
+    "degree": "Bachelor's in Interdisciplinary Studies", 
+    "name": "Patrick Williams", 
+    "weight": "135", 
+    "hometown": "Miami, Florida USA", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 16, 
+        "attempted": 39, 
+        "clinch": 3, 
+        "ground": null, 
+        "standing": 13
+    }, 
+    "height": "5' 8\"", 
+    "record": "8-4-0", 
+    "college": "Arizona State University", 
+    "location": "Homestead, Florida USA", 
+    "height_cm": "172", 
+    "fullname": "Patrick Williams", 
+    "summary": [
+        "Wrestling & speed"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 3, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

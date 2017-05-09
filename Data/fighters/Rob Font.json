@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Rob Font", 
+    "weight": "135", 
+    "hometown": "Leominster, Massachusetts USA", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 130, 
+        "attempted": 280, 
+        "clinch": 17, 
+        "ground": 14, 
+        "standing": 99
+    }, 
+    "height": "5' 8\"", 
+    "record": "13-2-0", 
+    "college": "", 
+    "location": "Woburn, Massachusetts USA", 
+    "height_cm": "172", 
+    "fullname": "Rob Font", 
+    "summary": [
+        "Work ethic", 
+        "cardio", 
+        "footwork"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 9, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

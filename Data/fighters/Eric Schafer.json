@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Eric Schafer", 
+    "weight": "185", 
+    "hometown": "Fond du Lac, Wisconsin USA", 
+    "age": "39", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 141, 
+        "attempted": 409, 
+        "clinch": 25, 
+        "ground": 55, 
+        "standing": 61
+    }, 
+    "height": "6' 3\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Milwaukee, Wisconsin USA", 
+    "height_cm": "190", 
+    "fullname": "Eric \"Red\" Schafer", 
+    "summary": [
+        "Submissions"
+    ], 
+    "nickname": " Red", 
+    "takedowns": {
+        "successful": 9, 
+        "attempted": 25, 
+        "submissions": 9, 
+        "sweeps": 3, 
+        "passes": 16
+    }
+}

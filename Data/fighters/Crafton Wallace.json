@@ -1,0 +1,37 @@
+{
+    "degree": "", 
+    "name": "Crafton Wallace", 
+    "weight": "185", 
+    "hometown": "Baltimore, Maryland USA", 
+    "age": "44", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 5, 
+        "attempted": 27, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 5
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "182", 
+    "fullname": "Crafton Wallace", 
+    "summary": [
+        "Striking", 
+        "hands", 
+        "knees", 
+        "elbows", 
+        "conditioning"
+    ], 
+    "nickname": "Blaze", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

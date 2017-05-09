@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Juliana Lima", 
+    "weight": "115", 
+    "hometown": "Belo Horizonte, MG Brazil", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "52", 
+    "strikes": {
+        "successful": 162, 
+        "attempted": 354, 
+        "clinch": 50, 
+        "ground": 39, 
+        "standing": 73
+    }, 
+    "height": "5' 5\"", 
+    "record": "9-3-0", 
+    "college": "", 
+    "location": "Belo Horizonte, MG Brazil", 
+    "height_cm": "165", 
+    "fullname": "Juliana Lima", 
+    "summary": [
+        "Muay Thai", 
+        "ground and pound and takedowns"
+    ], 
+    "nickname": "Ju Thai", 
+    "takedowns": {
+        "successful": 9, 
+        "attempted": 30, 
+        "submissions": 0, 
+        "sweeps": 3, 
+        "passes": 4
+    }
+}

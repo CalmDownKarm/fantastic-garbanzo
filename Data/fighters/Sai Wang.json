@@ -1,0 +1,33 @@
+{
+    "degree": "Bachelors Degree", 
+    "name": "Wang Sai", 
+    "weight": "170", 
+    "hometown": "Shandong China", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 95, 
+        "attempted": 203, 
+        "clinch": 24, 
+        "ground": 21, 
+        "standing": 50
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "Nanjing Institute of Physical Education", 
+    "location": "Beijing China", 
+    "height_cm": "182", 
+    "fullname": "Wang Sai", 
+    "summary": [
+        "Muay thai"
+    ], 
+    "nickname": "The Fire Kylin", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 2, 
+        "submissions": 0, 
+        "sweeps": 2, 
+        "passes": 2
+    }
+}

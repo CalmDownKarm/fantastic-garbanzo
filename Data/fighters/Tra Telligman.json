@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Tra Telligman", 
+    "weight": "233", 
+    "hometown": "Fort Worth, Texas USA", 
+    "age": "52", 
+    "fights": [], 
+    "weight_kg": "105", 
+    "strikes": {
+        "successful": 47, 
+        "attempted": 107, 
+        "clinch": 9, 
+        "ground": 1, 
+        "standing": 37
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "187", 
+    "fullname": "Tra Telligman", 
+    "summary": [
+        "Hard puncher. Well-rounded fighter."
+    ], 
+    "nickname": "Trauma", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

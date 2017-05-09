@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Igor Pokrajac", 
+    "weight": "205", 
+    "hometown": "Zagreb Croatia", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 272, 
+        "attempted": 592, 
+        "clinch": 81, 
+        "ground": 38, 
+        "standing": 153
+    }, 
+    "height": "6' 0\"", 
+    "record": "25-13-0, 1NC", 
+    "college": "", 
+    "location": "Zagreb Croatia", 
+    "height_cm": "182", 
+    "fullname": "Igor Pokrajac", 
+    "summary": [
+        "All-around fighter", 
+        "durability"
+    ], 
+    "nickname": "The Duke", 
+    "takedowns": {
+        "successful": 7, 
+        "attempted": 24, 
+        "submissions": 2, 
+        "sweeps": 3, 
+        "passes": 9
+    }
+}

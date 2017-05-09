@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "Pearl Gonzalez", 
+    "weight": "115", 
+    "hometown": "", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "52", 
+    "strikes": {
+        "successful": null, 
+        "attempted": null, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": null
+    }, 
+    "height": "5' 4\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "162", 
+    "fullname": "Pearl Gonzalez", 
+    "summary": [], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": null, 
+        "attempted": null, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Paul Kelly", 
+    "weight": "155", 
+    "hometown": "Liverpool England", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 325, 
+        "attempted": 856, 
+        "clinch": 46, 
+        "ground": 167, 
+        "standing": 112
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "175", 
+    "fullname": "Paul Kelly", 
+    "summary": [
+        "Very tough and physically strong with good ground and pound"
+    ], 
+    "nickname": "Tellys", 
+    "takedowns": {
+        "successful": 9, 
+        "attempted": 15, 
+        "submissions": 10, 
+        "sweeps": 9, 
+        "passes": 17
+    }
+}

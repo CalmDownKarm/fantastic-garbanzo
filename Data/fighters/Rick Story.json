@@ -1,0 +1,36 @@
+{
+    "degree": "Health Education", 
+    "name": "Rick Story", 
+    "weight": "170", 
+    "hometown": "Tacoma, WA USA", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 901, 
+        "attempted": 2158, 
+        "clinch": 201, 
+        "ground": 152, 
+        "standing": 548
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "Southern Oregon University", 
+    "location": "Vancouver, Washington USA", 
+    "height_cm": "177", 
+    "fullname": "Rick \"The Horror\" Story", 
+    "summary": [
+        "Conditioning", 
+        "scrambling ability", 
+        "punching power", 
+        "elbows"
+    ], 
+    "nickname": "The Horror", 
+    "takedowns": {
+        "successful": 40, 
+        "attempted": 83, 
+        "submissions": 14, 
+        "sweeps": 5, 
+        "passes": 28
+    }
+}

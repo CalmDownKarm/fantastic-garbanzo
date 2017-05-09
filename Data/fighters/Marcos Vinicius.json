@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Marcos Vinicius", 
+    "weight": "125", 
+    "hometown": "San Jose dos Pinhais, Parana Brazil", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "56", 
+    "strikes": {
+        "successful": 59, 
+        "attempted": 120, 
+        "clinch": 14, 
+        "ground": 10, 
+        "standing": 35
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Curitiba Brazil", 
+    "height_cm": "175", 
+    "fullname": "Marcos Vinicius", 
+    "summary": [
+        "Ground fighting"
+    ], 
+    "nickname": "Vina", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 3
+    }
+}

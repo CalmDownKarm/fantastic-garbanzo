@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Wendell Oliveira", 
+    "weight": "170", 
+    "hometown": "Rio de Janeiro Brazil", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 30, 
+        "attempted": 63, 
+        "clinch": 18, 
+        "ground": null, 
+        "standing": 12
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Rio de Janeiro Brazil", 
+    "height_cm": "177", 
+    "fullname": "Wendell Oliveira", 
+    "summary": [
+        "Strength", 
+        "aggression", 
+        "takedowns"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 3, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Dominique Steele", 
+    "weight": "170", 
+    "hometown": "Cincinnati, Ohio USA", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 95, 
+        "attempted": 203, 
+        "clinch": 36, 
+        "ground": 24, 
+        "standing": 35
+    }, 
+    "height": "5' 10\"", 
+    "record": "14-8-0", 
+    "college": "", 
+    "location": "Cincinnati, Ohio USA", 
+    "height_cm": "177", 
+    "fullname": "Dominique Steele", 
+    "summary": [
+        "Ground-and-pound"
+    ], 
+    "nickname": "\u201cNon-Stop Action-Packed\u201d Dom T. Steele ", 
+    "takedowns": {
+        "successful": 10, 
+        "attempted": 19, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Luke Caudillo", 
+    "weight": "155", 
+    "hometown": "North Platte, NE USA", 
+    "age": "36", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 34, 
+        "attempted": 141, 
+        "clinch": 5, 
+        "ground": null, 
+        "standing": 29
+    }, 
+    "height": "5' 7\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "170", 
+    "fullname": "Luke Caudillo", 
+    "summary": [
+        "Wrestling", 
+        "striking", 
+        "and ground and pound"
+    ], 
+    "nickname": "Lil' Hulk", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 2, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

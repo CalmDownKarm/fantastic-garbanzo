@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Mark Bocek", 
+    "weight": "155", 
+    "hometown": "Toronto, Ontario Canada", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 347, 
+        "attempted": 795, 
+        "clinch": 107, 
+        "ground": 135, 
+        "standing": 105
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Woodbridge, Ontario Canada", 
+    "height_cm": "172", 
+    "fullname": "Mark Bocek", 
+    "summary": [
+        "Grappling", 
+        "takedowns", 
+        "heart"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 36, 
+        "attempted": 98, 
+        "submissions": 13, 
+        "sweeps": 3, 
+        "passes": 48
+    }
+}

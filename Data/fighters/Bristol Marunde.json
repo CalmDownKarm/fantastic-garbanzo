@@ -1,0 +1,33 @@
+{
+    "degree": "History", 
+    "name": "Bristol Marunde", 
+    "weight": "170", 
+    "hometown": "Fairbanks, AK USA", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 21, 
+        "attempted": 98, 
+        "clinch": 4, 
+        "ground": null, 
+        "standing": 17
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "Washington State University", 
+    "location": "Las Vegas, NV USA", 
+    "height_cm": "185", 
+    "fullname": "Bristol Marunde", 
+    "summary": [
+        "Good wrestling"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 9, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

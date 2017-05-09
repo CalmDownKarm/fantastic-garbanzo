@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "TJ Waldburger", 
+    "weight": "170", 
+    "hometown": "Temple, Texas USA", 
+    "age": "28", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 120, 
+        "attempted": 234, 
+        "clinch": 20, 
+        "ground": 41, 
+        "standing": 59
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Belton, Texas USA", 
+    "height_cm": "180", 
+    "fullname": "TJ Waldburger", 
+    "summary": [
+        "Well rounded", 
+        "BJJ brown belt"
+    ], 
+    "nickname": "The Modern Day Warrior", 
+    "takedowns": {
+        "successful": 12, 
+        "attempted": 26, 
+        "submissions": 19, 
+        "sweeps": 3, 
+        "passes": 17
+    }
+}

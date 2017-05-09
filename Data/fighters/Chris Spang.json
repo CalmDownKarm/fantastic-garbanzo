@@ -1,0 +1,33 @@
+{
+    "degree": "Economics", 
+    "name": "Chris Spang", 
+    "weight": "170", 
+    "hometown": "Vaxjo Sweden", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 5, 
+        "attempted": 57, 
+        "clinch": 1, 
+        "ground": null, 
+        "standing": 4
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Las Vegas, Nevada USA", 
+    "height_cm": "187", 
+    "fullname": "Chris Spang", 
+    "summary": [
+        "Punches"
+    ], 
+    "nickname": "The Kiss", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

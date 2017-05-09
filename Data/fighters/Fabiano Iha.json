@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Fabiano Iha", 
+    "weight": "154", 
+    "hometown": "Santa Catarina, Brazil USA", 
+    "age": "46", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 36, 
+        "attempted": 76, 
+        "clinch": 13, 
+        "ground": 12, 
+        "standing": 11
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "172", 
+    "fullname": "Fabiano Iha", 
+    "summary": [
+        "Groundwork. Submissions", 
+        "especially armbars"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 10, 
+        "submissions": 4, 
+        "sweeps": 0, 
+        "passes": 3
+    }
+}

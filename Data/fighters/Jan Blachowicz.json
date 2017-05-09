@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Jan Blachowicz", 
+    "weight": "205", 
+    "hometown": "Cieszyn Poland", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 203, 
+        "attempted": 412, 
+        "clinch": 46, 
+        "ground": 55, 
+        "standing": 102
+    }, 
+    "height": "6' 2\"", 
+    "record": "19-6-0", 
+    "college": "", 
+    "location": "Warsaw Poland", 
+    "height_cm": "187", 
+    "fullname": "Jan Blachowicz", 
+    "summary": [
+        "Well-rounded", 
+        "Jiu-Jitsu", 
+        "Muay Thai"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 9, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 5
+    }
+}

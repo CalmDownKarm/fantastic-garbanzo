@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Alexa Grasso", 
+    "weight": "115", 
+    "hometown": "Guadalajara, Jalisco Mexico", 
+    "age": "23", 
+    "fights": [], 
+    "weight_kg": "52", 
+    "strikes": {
+        "successful": 145, 
+        "attempted": 340, 
+        "clinch": 28, 
+        "ground": 4, 
+        "standing": 113
+    }, 
+    "height": "5' 5\"", 
+    "record": "9-1-0", 
+    "college": "", 
+    "location": "Guadalajara, Jalisco Mexico", 
+    "height_cm": "165", 
+    "fullname": "Alexa Grasso", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 2, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

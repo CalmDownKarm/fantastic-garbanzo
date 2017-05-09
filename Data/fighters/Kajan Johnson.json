@@ -1,0 +1,36 @@
+{
+    "degree": "", 
+    "name": "Kajan Johnson", 
+    "weight": "155", 
+    "hometown": "Burns Lake, British Columbia Canada", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 106, 
+        "attempted": 246, 
+        "clinch": 14, 
+        "ground": 34, 
+        "standing": 58
+    }, 
+    "height": "5' 11\"", 
+    "record": "21-12-1", 
+    "college": "", 
+    "location": "Montreal, Quebec Canada", 
+    "height_cm": "180", 
+    "fullname": "Kajan Johnson", 
+    "summary": [
+        "Work ethic", 
+        "length", 
+        "speed", 
+        "flexibility"
+    ], 
+    "nickname": "Ragin'", 
+    "takedowns": {
+        "successful": 7, 
+        "attempted": 20, 
+        "submissions": 1, 
+        "sweeps": 1, 
+        "passes": 4
+    }
+}

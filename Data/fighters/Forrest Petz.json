@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Forrest Petz", 
+    "weight": "170", 
+    "hometown": "Cleveland, Ohio USA", 
+    "age": "41", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 184, 
+        "attempted": 622, 
+        "clinch": 45, 
+        "ground": 16, 
+        "standing": 123
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Cleveland, OH USA", 
+    "height_cm": "177", 
+    "fullname": "Forrest Petz", 
+    "summary": [
+        "Punching power", 
+        "solid wrestling defense"
+    ], 
+    "nickname": "The Meat Cleaver", 
+    "takedowns": {
+        "successful": 7, 
+        "attempted": 7, 
+        "submissions": 0, 
+        "sweeps": 2, 
+        "passes": 4
+    }
+}

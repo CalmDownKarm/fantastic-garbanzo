@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Scott Adams", 
+    "weight": "225", 
+    "hometown": "Ventura, California USA", 
+    "age": "42", 
+    "fights": [], 
+    "weight_kg": "102", 
+    "strikes": {
+        "successful": null, 
+        "attempted": null, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": null
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "182", 
+    "fullname": "Scott Adams", 
+    "summary": [
+        "Submission Expert"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": null, 
+        "attempted": null, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

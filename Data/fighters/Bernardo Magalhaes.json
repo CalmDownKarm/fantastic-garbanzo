@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Bernardo Magalhaes", 
+    "weight": "155", 
+    "hometown": "Rio de Janeiro Brazil", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 54, 
+        "attempted": 200, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 54
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Sydney Australia", 
+    "height_cm": "175", 
+    "fullname": "Bernardo \"Trekko\" Magalhaes", 
+    "summary": [
+        "Ground and pound", 
+        "submissions"
+    ], 
+    "nickname": "Trekko", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 18, 
+        "submissions": 1, 
+        "sweeps": 1, 
+        "passes": 0
+    }
+}

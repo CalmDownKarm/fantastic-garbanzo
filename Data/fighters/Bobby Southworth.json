@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "Bobby Southworth", 
+    "weight": "205", 
+    "hometown": "Santa Cruz, California USA", 
+    "age": "47", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 21, 
+        "attempted": 84, 
+        "clinch": 1, 
+        "ground": 1, 
+        "standing": 19
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "187", 
+    "fullname": "Bobby Southworth", 
+    "summary": [], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 2, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

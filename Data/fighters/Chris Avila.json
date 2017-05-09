@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Chris Avila", 
+    "weight": "145", 
+    "hometown": "Stockton, California USA", 
+    "age": "24", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 71, 
+        "attempted": 233, 
+        "clinch": 9, 
+        "ground": 2, 
+        "standing": 60
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Stockton, California USA", 
+    "height_cm": "177", 
+    "fullname": "Chris Avila", 
+    "summary": [
+        "Jiu-Jitsu", 
+        "Boxing"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

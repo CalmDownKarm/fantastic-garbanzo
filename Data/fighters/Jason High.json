@@ -1,0 +1,35 @@
+{
+    "degree": "History", 
+    "name": "Jason High", 
+    "weight": "155", 
+    "hometown": "Kansas City, MO USA", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 42, 
+        "attempted": 119, 
+        "clinch": 8, 
+        "ground": 5, 
+        "standing": 29
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "University of Nebraska", 
+    "location": "Kansas City, MO USA", 
+    "height_cm": "172", 
+    "fullname": "Jason High", 
+    "summary": [
+        "Grappling", 
+        "poise", 
+        "temperament"
+    ], 
+    "nickname": "The Kansas City Bandit", 
+    "takedowns": {
+        "successful": 8, 
+        "attempted": 10, 
+        "submissions": 9, 
+        "sweeps": 2, 
+        "passes": 15
+    }
+}

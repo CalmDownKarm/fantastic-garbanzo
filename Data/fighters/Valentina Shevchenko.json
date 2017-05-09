@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Valentina Shevchenko", 
+    "weight": "135", 
+    "hometown": "Bishkek Kyrgyzstan", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 160, 
+        "attempted": 313, 
+        "clinch": 29, 
+        "ground": 19, 
+        "standing": 112
+    }, 
+    "height": "5' 5\"", 
+    "record": "14-2-0", 
+    "college": "", 
+    "location": "Lima Peru", 
+    "height_cm": "165", 
+    "fullname": "Valentina Shevchenko", 
+    "summary": [
+        "Muay Thai"
+    ], 
+    "nickname": "Bullet", 
+    "takedowns": {
+        "successful": 10, 
+        "attempted": 19, 
+        "submissions": 1, 
+        "sweeps": 1, 
+        "passes": 5
+    }
+}

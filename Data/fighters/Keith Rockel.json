@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Keith Rockel", 
+    "weight": "185", 
+    "hometown": "Marlboro, MA. USA", 
+    "age": "49", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 11, 
+        "attempted": 15, 
+        "clinch": 9, 
+        "ground": null, 
+        "standing": 2
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "182", 
+    "fullname": "Keith Rockel", 
+    "summary": [
+        "Well Rounded"
+    ], 
+    "nickname": "Rock", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 4, 
+        "submissions": 3, 
+        "sweeps": 0, 
+        "passes": 7
+    }
+}

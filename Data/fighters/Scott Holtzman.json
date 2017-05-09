@@ -1,0 +1,37 @@
+{
+    "degree": "", 
+    "name": "Scott Holtzman", 
+    "weight": "155", 
+    "hometown": "Knoxville , Tennessee USA", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 227, 
+        "attempted": 485, 
+        "clinch": 65, 
+        "ground": 26, 
+        "standing": 136
+    }, 
+    "height": "5' 9\"", 
+    "record": "9-2-0", 
+    "college": "", 
+    "location": "Knoxville , Tennessee USA", 
+    "height_cm": "175", 
+    "fullname": "Scott Holtzman", 
+    "summary": [
+        "Athleticism", 
+        "conditioning", 
+        "clinch", 
+        "elbows", 
+        "Gray area transitions."
+    ], 
+    "nickname": "Hot Sauce", 
+    "takedowns": {
+        "successful": 9, 
+        "attempted": 15, 
+        "submissions": 2, 
+        "sweeps": 1, 
+        "passes": 9
+    }
+}

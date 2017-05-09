@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "Zane Frazier", 
+    "weight": "230", 
+    "hometown": "North Hollywood, California USA", 
+    "age": "", 
+    "fights": [], 
+    "weight_kg": "104", 
+    "strikes": {
+        "successful": null, 
+        "attempted": null, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": null
+    }, 
+    "height": "6' 6\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "198", 
+    "fullname": "Zane Frazier", 
+    "summary": [], 
+    "nickname": "Nasty", 
+    "takedowns": {
+        "successful": null, 
+        "attempted": null, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

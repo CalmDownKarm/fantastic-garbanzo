@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Brad Imes", 
+    "weight": "260", 
+    "hometown": "Springfield, MO. USA", 
+    "age": "40", 
+    "fights": [], 
+    "weight_kg": "118", 
+    "strikes": {
+        "successful": 119, 
+        "attempted": 373, 
+        "clinch": 33, 
+        "ground": 18, 
+        "standing": 68
+    }, 
+    "height": "6' 7\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "200", 
+    "fullname": "Brad Imes", 
+    "summary": [
+        "Grappling"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 7, 
+        "submissions": 3, 
+        "sweeps": 1, 
+        "passes": 3
+    }
+}

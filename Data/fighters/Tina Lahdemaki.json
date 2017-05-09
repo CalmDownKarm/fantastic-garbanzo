@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Tina Lahdemaki", 
+    "weight": "115", 
+    "hometown": "Turku Finland", 
+    "age": "28", 
+    "fights": [], 
+    "weight_kg": "52", 
+    "strikes": {
+        "successful": 29, 
+        "attempted": 141, 
+        "clinch": 3, 
+        "ground": null, 
+        "standing": 26
+    }, 
+    "height": "5' 2\"", 
+    "record": "5-1-0", 
+    "college": "", 
+    "location": "Hyvinkaa Finland", 
+    "height_cm": "157", 
+    "fullname": "Tina Lahdemaki", 
+    "summary": [
+        "Versatility", 
+        "ruggedness", 
+        "pressure resistance"
+    ], 
+    "nickname": "Jelly Bean", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

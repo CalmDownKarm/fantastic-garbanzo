@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "John Alessio", 
+    "weight": "155", 
+    "hometown": "Vancouver, British Columbia Canada", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 210, 
+        "attempted": 595, 
+        "clinch": 41, 
+        "ground": 51, 
+        "standing": 118
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Las Vegas, Nevada USA", 
+    "height_cm": "177", 
+    "fullname": "John \"The Natural\" Alessio", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "The Natural", 
+    "takedowns": {
+        "successful": 14, 
+        "attempted": 37, 
+        "submissions": 8, 
+        "sweeps": 2, 
+        "passes": 13
+    }
+}

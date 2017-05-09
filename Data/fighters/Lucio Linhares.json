@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Lucio Linhares", 
+    "weight": "185", 
+    "hometown": "Ipatinga, MG Brazil", 
+    "age": "43", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 16, 
+        "attempted": 71, 
+        "clinch": 8, 
+        "ground": null, 
+        "standing": 8
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "187", 
+    "fullname": "Lucio Linhares", 
+    "summary": [
+        "BJJ"
+    ], 
+    "nickname": "The Spartan", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 4, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

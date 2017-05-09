@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Maximo Blanco", 
+    "weight": "145", 
+    "hometown": "Caracas Venezuela", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 331, 
+        "attempted": 742, 
+        "clinch": 51, 
+        "ground": 4, 
+        "standing": 276
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Tokyo Japan", 
+    "height_cm": "172", 
+    "fullname": "Maximo Blanco", 
+    "summary": [
+        "Wrestling"
+    ], 
+    "nickname": "Maxi", 
+    "takedowns": {
+        "successful": 11, 
+        "attempted": 30, 
+        "submissions": 2, 
+        "sweeps": 2, 
+        "passes": 5
+    }
+}

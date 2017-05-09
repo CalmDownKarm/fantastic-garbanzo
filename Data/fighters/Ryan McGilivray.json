@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Ryan McGilivray", 
+    "weight": "170", 
+    "hometown": "Duncan, BC Canada", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 19, 
+        "attempted": 91, 
+        "clinch": 1, 
+        "ground": null, 
+        "standing": 18
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Edmonton, AB Canada", 
+    "height_cm": "180", 
+    "fullname": "Ryan McGilivray", 
+    "summary": [
+        "BJJ and Boxing"
+    ], 
+    "nickname": "The Kid", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

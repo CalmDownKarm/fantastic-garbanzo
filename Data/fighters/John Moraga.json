@@ -1,0 +1,36 @@
+{
+    "degree": "", 
+    "name": "John Moraga", 
+    "weight": "125", 
+    "hometown": "Phoenix, Arizona USA", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "56", 
+    "strikes": {
+        "successful": 309, 
+        "attempted": 777, 
+        "clinch": 67, 
+        "ground": 52, 
+        "standing": 190
+    }, 
+    "height": "5' 6\"", 
+    "record": "16-6-0", 
+    "college": "Arizona State University", 
+    "location": "Phoenix, Arizona USA", 
+    "height_cm": "167", 
+    "fullname": "John Moraga", 
+    "summary": [
+        "I come from the hood \u2013 WS Maryvale", 
+        "Phoenix", 
+        "wrestling", 
+        "submisions"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 25, 
+        "submissions": 6, 
+        "sweeps": 1, 
+        "passes": 4
+    }
+}

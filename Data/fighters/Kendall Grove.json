@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Kendall Grove", 
+    "weight": "185", 
+    "hometown": "Maui, Hawaii USA", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 263, 
+        "attempted": 586, 
+        "clinch": 129, 
+        "ground": 49, 
+        "standing": 85
+    }, 
+    "height": "6' 6\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Maui, HI  USA", 
+    "height_cm": "198", 
+    "fullname": "Kendall Grove", 
+    "summary": [
+        "Height", 
+        "Heart", 
+        "and desire to never give up."
+    ], 
+    "nickname": "Da Spyder", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 8, 
+        "submissions": 17, 
+        "sweeps": 4, 
+        "passes": 8
+    }
+}

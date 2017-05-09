@@ -1,0 +1,36 @@
+{
+    "degree": "", 
+    "name": "Homer Moore", 
+    "weight": "205", 
+    "hometown": "Phoenix, AZ. USA", 
+    "age": "45", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 4, 
+        "attempted": 8, 
+        "clinch": 2, 
+        "ground": null, 
+        "standing": 2
+    }, 
+    "height": "5' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "154", 
+    "fullname": "Homer Moore", 
+    "summary": [
+        "Speed", 
+        "power", 
+        "quickness", 
+        "ground or standup fighter"
+    ], 
+    "nickname": "The Rock", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 3, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 3
+    }
+}

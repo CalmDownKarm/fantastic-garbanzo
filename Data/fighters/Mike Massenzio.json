@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Mike Massenzio", 
+    "weight": "185", 
+    "hometown": "Teaneck, NJ USA", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 114, 
+        "attempted": 253, 
+        "clinch": 11, 
+        "ground": 3, 
+        "standing": 100
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Patterson, NJ USA", 
+    "height_cm": "187", 
+    "fullname": "Mike Massenzio", 
+    "summary": [
+        "well-rounded"
+    ], 
+    "nickname": "The Master of Disaster", 
+    "takedowns": {
+        "successful": 10, 
+        "attempted": 41, 
+        "submissions": 5, 
+        "sweeps": 0, 
+        "passes": 9
+    }
+}

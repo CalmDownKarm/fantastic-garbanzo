@@ -1,0 +1,34 @@
+{
+    "degree": "Kinesiology-Exercise Science", 
+    "name": "Aaron Phillips", 
+    "weight": "145", 
+    "hometown": "Houston, TX USA", 
+    "age": "27", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 56, 
+        "attempted": 94, 
+        "clinch": 20, 
+        "ground": 13, 
+        "standing": 23
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "University of Louisiana at Lafayette", 
+    "location": "Lafayette, LA USA", 
+    "height_cm": "175", 
+    "fullname": "Aaron Phillips", 
+    "summary": [
+        "Powerful kicks", 
+        "accurate striking"
+    ], 
+    "nickname": "The Model", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 1, 
+        "sweeps": 1, 
+        "passes": 1
+    }
+}

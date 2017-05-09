@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Krzysztof Soszynski", 
+    "weight": "205", 
+    "hometown": "Stalowa Wola Poland", 
+    "age": "39", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 288, 
+        "attempted": 699, 
+        "clinch": 65, 
+        "ground": 60, 
+        "standing": 163
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Lake Forest, California USA", 
+    "height_cm": "185", 
+    "fullname": "Krzysztof Soszynski", 
+    "summary": [
+        "Conditioning", 
+        "kimura"
+    ], 
+    "nickname": "The Polish Experiment", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 11, 
+        "submissions": 6, 
+        "sweeps": 0, 
+        "passes": 10
+    }
+}

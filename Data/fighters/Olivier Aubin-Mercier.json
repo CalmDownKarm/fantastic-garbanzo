@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Olivier Aubin-Mercier", 
+    "weight": "155", 
+    "hometown": "Montreal, Quebec Canada", 
+    "age": "28", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 248, 
+        "attempted": 465, 
+        "clinch": 33, 
+        "ground": 29, 
+        "standing": 186
+    }, 
+    "height": "5' 9\"", 
+    "record": "10-2-0", 
+    "college": "", 
+    "location": "Montreal, Quebec Canada", 
+    "height_cm": "175", 
+    "fullname": "Olivier Aubin-Mercier", 
+    "summary": [
+        "Grappling"
+    ], 
+    "nickname": "The Quebec Kid", 
+    "takedowns": {
+        "successful": 17, 
+        "attempted": 52, 
+        "submissions": 4, 
+        "sweeps": 1, 
+        "passes": 16
+    }
+}

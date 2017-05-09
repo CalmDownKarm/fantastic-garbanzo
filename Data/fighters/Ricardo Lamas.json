@@ -1,0 +1,34 @@
+{
+    "degree": "Exercise Science", 
+    "name": "Ricardo Lamas", 
+    "weight": "145", 
+    "hometown": "Chicago, Illinois USA", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 462, 
+        "attempted": 1097, 
+        "clinch": 90, 
+        "ground": 76, 
+        "standing": 296
+    }, 
+    "height": "5' 8\"", 
+    "record": "17-5-0", 
+    "college": "Elmhurst College", 
+    "location": "Chicago, Illinois USA", 
+    "height_cm": "172", 
+    "fullname": "Ricardo Lamas", 
+    "summary": [
+        "Explosiveness", 
+        "power"
+    ], 
+    "nickname": "The Bully", 
+    "takedowns": {
+        "successful": 20, 
+        "attempted": 64, 
+        "submissions": 13, 
+        "sweeps": 6, 
+        "passes": 14
+    }
+}

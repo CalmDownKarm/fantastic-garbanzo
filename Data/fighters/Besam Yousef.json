@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Besam Yousef", 
+    "weight": "170", 
+    "hometown": "Al-Hassake Syria", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 71, 
+        "attempted": 133, 
+        "clinch": 45, 
+        "ground": 2, 
+        "standing": 24
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Gothenburg Sweden", 
+    "height_cm": "180", 
+    "fullname": "Besam Yousef", 
+    "summary": [
+        "Well-rounded", 
+        "aggressive striking"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 3, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

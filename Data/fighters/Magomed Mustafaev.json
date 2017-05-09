@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Magomed Mustafaev", 
+    "weight": "155", 
+    "hometown": "Dagestan Russia", 
+    "age": "28", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 56, 
+        "attempted": 102, 
+        "clinch": 16, 
+        "ground": 8, 
+        "standing": 32
+    }, 
+    "height": "5' 9\"", 
+    "record": "13-2-0", 
+    "college": "", 
+    "location": "Albuquerque, New Mexico USA", 
+    "height_cm": "175", 
+    "fullname": "Magomed Mustafaev- Official UFC\u00ae Fighter Profile", 
+    "summary": [
+        "Freestyle wrestling and grappling"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 5, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

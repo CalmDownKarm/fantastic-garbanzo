@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Stefan Struve", 
+    "weight": "265", 
+    "hometown": "Beverwijk The Netherlands", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "120", 
+    "strikes": {
+        "successful": 413, 
+        "attempted": 820, 
+        "clinch": 25, 
+        "ground": 58, 
+        "standing": 330
+    }, 
+    "height": "7' 0\"", 
+    "record": "32-8-0", 
+    "college": "", 
+    "location": "Beverwijk The Netherlands", 
+    "height_cm": "213", 
+    "fullname": "Stefan \"Skyscraper\" Struve", 
+    "summary": [
+        "Kickboxing", 
+        "submissions and size"
+    ], 
+    "nickname": "Skyscraper", 
+    "takedowns": {
+        "successful": 6, 
+        "attempted": 9, 
+        "submissions": 20, 
+        "sweeps": 5, 
+        "passes": 16
+    }
+}

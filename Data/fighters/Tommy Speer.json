@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Tommy Speer", 
+    "weight": "170", 
+    "hometown": "Rochester, Minnesota USA", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 19, 
+        "attempted": 37, 
+        "clinch": 5, 
+        "ground": null, 
+        "standing": 14
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "177", 
+    "fullname": "Tommy Speer", 
+    "summary": [
+        "Athletic; Strong; well-conditioned; mentally tough"
+    ], 
+    "nickname": "The Farmboy", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 3, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

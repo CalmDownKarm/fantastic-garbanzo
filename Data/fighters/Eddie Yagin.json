@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Eddie Yagin", 
+    "weight": "145", 
+    "hometown": "Hilo, Hawaii USA", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 94, 
+        "attempted": 310, 
+        "clinch": 1, 
+        "ground": 11, 
+        "standing": 82
+    }, 
+    "height": "5' 7\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Honolulu, Hawaii USA", 
+    "height_cm": "170", 
+    "fullname": "Eddie \"The Filipino Phenom\" Yagin", 
+    "summary": [
+        "Well-Rounded"
+    ], 
+    "nickname": "The Filipino Phenom", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

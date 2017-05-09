@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Steve Montgomery", 
+    "weight": "185", 
+    "hometown": "Florence, South Carolina USA", 
+    "age": "26", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 86, 
+        "attempted": 219, 
+        "clinch": 26, 
+        "ground": 2, 
+        "standing": 58
+    }, 
+    "height": "6' 4\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Coconut Creek, Florida United States", 
+    "height_cm": "193", 
+    "fullname": "Steve Montgomery", 
+    "summary": [
+        "I'm a finisher"
+    ], 
+    "nickname": "The Creepy Weasel", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

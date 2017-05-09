@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Robert Drysdale", 
+    "weight": "205", 
+    "hometown": "Provo, UT USA", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 0, 
+        "attempted": 5, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": null
+    }, 
+    "height": "6' 3\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Las Vegas, NV USA", 
+    "height_cm": "190", 
+    "fullname": "Robert Drysdale", 
+    "summary": [
+        "Ground game"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 1, 
+        "submissions": 3, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Allen Berube", 
+    "weight": "155", 
+    "hometown": "Biddeford, Maine USA", 
+    "age": "42", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 4, 
+        "attempted": 5, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 4
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "172", 
+    "fullname": "Allen Berube", 
+    "summary": [
+        "Strong 155-pounder", 
+        "eager to learn"
+    ], 
+    "nickname": "Monstah", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 2, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

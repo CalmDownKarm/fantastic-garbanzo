@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Matt Grice", 
+    "weight": "145", 
+    "hometown": "Midwest City, Oklahoma USA", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 252, 
+        "attempted": 472, 
+        "clinch": 59, 
+        "ground": 125, 
+        "standing": 68
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Harrah, Oklahoma USA", 
+    "height_cm": "172", 
+    "fullname": "Matt \"The Real One\" Grice", 
+    "summary": [
+        "Good wrestler", 
+        "well rounded"
+    ], 
+    "nickname": "The Real One", 
+    "takedowns": {
+        "successful": 9, 
+        "attempted": 24, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 21
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "Ron Faircloth", 
+    "weight": "", 
+    "hometown": "", 
+    "age": "", 
+    "fights": [], 
+    "weight_kg": "", 
+    "strikes": {
+        "successful": 2, 
+        "attempted": 5, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 2
+    }, 
+    "height": "", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "", 
+    "fullname": "Ron Faircloth", 
+    "summary": [], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Ion Cutelaba", 
+    "weight": "205", 
+    "hometown": "Chisinau Republic of Moldova", 
+    "age": "23", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 158, 
+        "attempted": 540, 
+        "clinch": 34, 
+        "ground": 11, 
+        "standing": 113
+    }, 
+    "height": "6' 1\"", 
+    "record": "12-3-0, 1NC", 
+    "college": "USM Moldova Juridic Department", 
+    "location": "Chisinau Republic of Moldova", 
+    "height_cm": "185", 
+    "fullname": "Ion \"The Hulk\" Cutelaba", 
+    "summary": [
+        "Wrestling", 
+        "striking", 
+        "sambo"
+    ], 
+    "nickname": "The Hulk", 
+    "takedowns": {
+        "successful": 6, 
+        "attempted": 9, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 3
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "degree": "", 
+    "name": "Lorenz Larkin", 
+    "weight": "170", 
+    "hometown": "Riverside, California USA", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 391, 
+        "attempted": 876, 
+        "clinch": 75, 
+        "ground": 23, 
+        "standing": 293
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Riverside, California USA", 
+    "height_cm": "180", 
+    "fullname": "Lorenz Larkin", 
+    "summary": [
+        "Agility", 
+        "creativity", 
+        "power", 
+        "finishing ability"
+    ], 
+    "nickname": "The Monsoon", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 4, 
+        "submissions": 0, 
+        "sweeps": 2, 
+        "passes": 2
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Joe Duffy", 
+    "weight": "155", 
+    "hometown": "Donegal Ireland", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 114, 
+        "attempted": 337, 
+        "clinch": 11, 
+        "ground": 12, 
+        "standing": 91
+    }, 
+    "height": "5' 10\"", 
+    "record": "16-2-0", 
+    "college": "", 
+    "location": "Donegal Ireland", 
+    "height_cm": "177", 
+    "fullname": "Joseph Duffy", 
+    "summary": [
+        "Well-rounded"
+    ], 
+    "nickname": "Irish", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 3, 
+        "sweeps": 1, 
+        "passes": 4
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Chris Wilson", 
+    "weight": "170", 
+    "hometown": "Portland, Oregon USA", 
+    "age": "39", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 133, 
+        "attempted": 261, 
+        "clinch": 26, 
+        "ground": 37, 
+        "standing": 70
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "185", 
+    "fullname": "Chris Wilson", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "The Professor", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 10, 
+        "submissions": 6, 
+        "sweeps": 1, 
+        "passes": 3
+    }
+}

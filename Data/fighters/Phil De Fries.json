@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Phil De Fries", 
+    "weight": "250", 
+    "hometown": "Sunderland England", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "113", 
+    "strikes": {
+        "successful": 63, 
+        "attempted": 133, 
+        "clinch": 21, 
+        "ground": 15, 
+        "standing": 27
+    }, 
+    "height": "6' 5\"", 
+    "record": "", 
+    "college": "", 
+    "location": "San Diego, California USA", 
+    "height_cm": "195", 
+    "fullname": "Phil De Fries", 
+    "summary": [
+        "Grappling"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 6, 
+        "attempted": 14, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 11
+    }
+}

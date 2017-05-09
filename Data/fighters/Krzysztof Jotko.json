@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Krzysztof Jotko", 
+    "weight": "185", 
+    "hometown": "Orneta Poland", 
+    "age": "27", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 249, 
+        "attempted": 533, 
+        "clinch": 87, 
+        "ground": 55, 
+        "standing": 107
+    }, 
+    "height": "6' 1\"", 
+    "record": "19-1-0", 
+    "college": "", 
+    "location": "Orneta Poland", 
+    "height_cm": "185", 
+    "fullname": "Krzysztof Jotko", 
+    "summary": [
+        "Unorthodox striking", 
+        "aggressive ground game"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 7, 
+        "attempted": 17, 
+        "submissions": 0, 
+        "sweeps": 3, 
+        "passes": 14
+    }
+}

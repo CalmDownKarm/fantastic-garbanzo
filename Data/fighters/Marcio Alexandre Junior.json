@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Marcio Alexandre", 
+    "weight": "170", 
+    "hometown": "Florianopolis Brazil", 
+    "age": "27", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 67, 
+        "attempted": 149, 
+        "clinch": 9, 
+        "ground": 8, 
+        "standing": 50
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Florianopolis Brazil", 
+    "height_cm": "182", 
+    "fullname": "Marcio Alexandre", 
+    "summary": [
+        "Left hand and chokes"
+    ], 
+    "nickname": "Lyoto", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 5, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

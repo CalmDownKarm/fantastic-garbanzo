@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Stevie Ray", 
+    "weight": "155", 
+    "hometown": "Fife Scotland", 
+    "age": "27", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 149, 
+        "attempted": 359, 
+        "clinch": 6, 
+        "ground": 31, 
+        "standing": 112
+    }, 
+    "height": "5' 10\"", 
+    "record": "20-6-0", 
+    "college": "", 
+    "location": "Fife Scotland", 
+    "height_cm": "177", 
+    "fullname": "Stevie Ray", 
+    "summary": [
+        "Strong", 
+        "athletic and good all-round"
+    ], 
+    "nickname": "Braveheart", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 4, 
+        "submissions": 3, 
+        "sweeps": 0, 
+        "passes": 7
+    }
+}

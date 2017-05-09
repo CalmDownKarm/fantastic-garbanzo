@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Chris Haseman", 
+    "weight": "205", 
+    "hometown": "Brisbane, Queensland Australia", 
+    "age": "47", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 14, 
+        "attempted": 20, 
+        "clinch": 5, 
+        "ground": 4, 
+        "standing": 5
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "182", 
+    "fullname": "Chris Haseman", 
+    "summary": [
+        "Experience", 
+        "strength", 
+        "well rounded"
+    ], 
+    "nickname": "The Hammer", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

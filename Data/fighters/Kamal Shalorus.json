@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Kamal Shalorus", 
+    "weight": "155", 
+    "hometown": "Heris Iran", 
+    "age": "44", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 222, 
+        "attempted": 685, 
+        "clinch": 10, 
+        "ground": 41, 
+        "standing": 171
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Austin, TX USA", 
+    "height_cm": "172", 
+    "fullname": "Kamal \"Prince of Persia\" Shalorus", 
+    "summary": [
+        "Wrestling", 
+        "Jiu-Jitsu"
+    ], 
+    "nickname": "Prince of Persia", 
+    "takedowns": {
+        "successful": 10, 
+        "attempted": 20, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 3
+    }
+}

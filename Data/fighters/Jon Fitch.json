@@ -1,0 +1,33 @@
+{
+    "degree": "Physical Education/History", 
+    "name": "Jon Fitch", 
+    "weight": "170", 
+    "hometown": "Ft. Wayne, Indiana USA", 
+    "age": "39", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 630, 
+        "attempted": 1225, 
+        "clinch": 136, 
+        "ground": 308, 
+        "standing": 186
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "Purdue University", 
+    "location": "San Jose, California USA", 
+    "height_cm": "182", 
+    "fullname": "Jon Fitch", 
+    "summary": [
+        "Wrestling"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 58, 
+        "attempted": 106, 
+        "submissions": 14, 
+        "sweeps": 3, 
+        "passes": 44
+    }
+}

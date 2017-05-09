@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Lee Murray", 
+    "weight": "185", 
+    "hometown": "London, London UK", 
+    "age": "39", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 0, 
+        "attempted": 1, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": null
+    }, 
+    "height": "6' 3\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "190", 
+    "fullname": "Lee Murray", 
+    "summary": [
+        "Great Submission", 
+        "Power Puncher"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

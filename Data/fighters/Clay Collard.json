@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Clay Collard", 
+    "weight": "145", 
+    "hometown": "Payson, Utah USA", 
+    "age": "24", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 248, 
+        "attempted": 770, 
+        "clinch": 39, 
+        "ground": 25, 
+        "standing": 184
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Castle Dale, Utah USA", 
+    "height_cm": "180", 
+    "fullname": "Clay Collard", 
+    "summary": [
+        "Striking", 
+        "wrestling"
+    ], 
+    "nickname": "Cassius", 
+    "takedowns": {
+        "successful": 11, 
+        "attempted": 28, 
+        "submissions": 2, 
+        "sweeps": 1, 
+        "passes": 3
+    }
+}

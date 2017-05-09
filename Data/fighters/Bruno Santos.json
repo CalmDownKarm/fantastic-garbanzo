@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Bruno Santos", 
+    "weight": "185", 
+    "hometown": "Bahia Brazil", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 53, 
+        "attempted": 115, 
+        "clinch": 25, 
+        "ground": 3, 
+        "standing": 25
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Bahia Brazil", 
+    "height_cm": "175", 
+    "fullname": "Bruno Santos", 
+    "summary": [
+        "Ground techniques"
+    ], 
+    "nickname": "Carioca", 
+    "takedowns": {
+        "successful": 9, 
+        "attempted": 24, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 13
+    }
+}

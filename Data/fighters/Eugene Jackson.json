@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Eugene Jackson", 
+    "weight": "184", 
+    "hometown": "East Paulo Alto, CA USA", 
+    "age": "50", 
+    "fights": [], 
+    "weight_kg": "83", 
+    "strikes": {
+        "successful": 2, 
+        "attempted": 8, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 2
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "172", 
+    "fullname": "Eugene Jackson", 
+    "summary": [
+        "Physical strength", 
+        "punching power"
+    ], 
+    "nickname": "The Wolf", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 3, 
+        "submissions": 3, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

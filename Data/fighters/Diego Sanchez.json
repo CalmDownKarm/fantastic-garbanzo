@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Diego Sanchez", 
+    "weight": "155", 
+    "hometown": "Albuquerque, New Mexico USA", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 883, 
+        "attempted": 2478, 
+        "clinch": 96, 
+        "ground": 246, 
+        "standing": 541
+    }, 
+    "height": "5' 10\"", 
+    "record": "29-9-0", 
+    "college": "", 
+    "location": "Albuquerque, New Mexico USA", 
+    "height_cm": "177", 
+    "fullname": "Diego Sanchez", 
+    "summary": [
+        "Excellent grappling skills", 
+        "conditioning", 
+        "aggression"
+    ], 
+    "nickname": "The Nightmare", 
+    "takedowns": {
+        "successful": 28, 
+        "attempted": 146, 
+        "submissions": 18, 
+        "sweeps": 3, 
+        "passes": 37
+    }
+}

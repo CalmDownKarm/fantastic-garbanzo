@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Rory Markham", 
+    "weight": "170", 
+    "hometown": "Chicago, Illinois USA", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 11, 
+        "attempted": 51, 
+        "clinch": 3, 
+        "ground": null, 
+        "standing": 8
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "180", 
+    "fullname": "Rory Markham", 
+    "summary": [
+        "KO power", 
+        "Conditioning", 
+        "Heart"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

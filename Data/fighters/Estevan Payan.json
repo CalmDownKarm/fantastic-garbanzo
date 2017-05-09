@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Estevan Payan", 
+    "weight": "145", 
+    "hometown": "Phoenix, AZ USA", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 67, 
+        "attempted": 182, 
+        "clinch": 25, 
+        "ground": 9, 
+        "standing": 33
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Tempe, AZ USA", 
+    "height_cm": "177", 
+    "fullname": "Estevan Payan", 
+    "summary": [
+        "Boxing"
+    ], 
+    "nickname": "El Terrible", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 1, 
+        "submissions": 1, 
+        "sweeps": 1, 
+        "passes": 2
+    }
+}

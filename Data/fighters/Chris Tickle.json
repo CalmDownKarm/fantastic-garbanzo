@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Chris Tickle", 
+    "weight": "155", 
+    "hometown": "Pontiac, Illinois USA", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 16, 
+        "attempted": 40, 
+        "clinch": 1, 
+        "ground": 4, 
+        "standing": 11
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Bloomington, Illinois USA", 
+    "height_cm": "175", 
+    "fullname": "Chris Tickle", 
+    "summary": [
+        "Speed", 
+        "power", 
+        "heavy kicks"
+    ], 
+    "nickname": "Bad Boy", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 4, 
+        "submissions": 2, 
+        "sweeps": 1, 
+        "passes": 3
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Mike Wilkinson", 
+    "weight": "145", 
+    "hometown": "Leigh, Lancashire England", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 77, 
+        "attempted": 201, 
+        "clinch": 8, 
+        "ground": 19, 
+        "standing": 50
+    }, 
+    "height": "5' 7\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Leigh, Lancashire England", 
+    "height_cm": "170", 
+    "fullname": "Mike Wilkinson", 
+    "summary": [
+        "Boxing", 
+        "wrestling", 
+        "aggression"
+    ], 
+    "nickname": "The Warrior", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 14, 
+        "submissions": 2, 
+        "sweeps": 1, 
+        "passes": 2
+    }
+}

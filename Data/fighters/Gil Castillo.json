@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Gil Castillo", 
+    "weight": "170", 
+    "hometown": "Pittsburgh, California USA", 
+    "age": "51", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 27, 
+        "attempted": 60, 
+        "clinch": 2, 
+        "ground": 12, 
+        "standing": 13
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "175", 
+    "fullname": "Gil Castillo", 
+    "summary": [
+        "Wrestling and submissions"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 10, 
+        "attempted": 22, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

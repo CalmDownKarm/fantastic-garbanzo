@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Liz Carmouche", 
+    "weight": "135", 
+    "hometown": "Lafayette, Louisiana United States", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 180, 
+        "attempted": 338, 
+        "clinch": 28, 
+        "ground": 52, 
+        "standing": 100
+    }, 
+    "height": "5' 6\"", 
+    "record": "10-5-0", 
+    "college": "", 
+    "location": "San Diego, California United States", 
+    "height_cm": "167", 
+    "fullname": "Liz Carmouche", 
+    "summary": [
+        "Strength", 
+        "takedowns", 
+        "ground and pound"
+    ], 
+    "nickname": "Girlrilla", 
+    "takedowns": {
+        "successful": 15, 
+        "attempted": 26, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 12
+    }
+}

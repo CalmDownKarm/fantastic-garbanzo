@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Jonavin Webb", 
+    "weight": "170", 
+    "hometown": "Marlton, NJ USA", 
+    "age": "27", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 44, 
+        "attempted": 144, 
+        "clinch": 9, 
+        "ground": 4, 
+        "standing": 31
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Marlton, NJ USA", 
+    "height_cm": "177", 
+    "fullname": "Jonavin Webb", 
+    "summary": [
+        "Submission game", 
+        "ground-and-pound"
+    ], 
+    "nickname": "The Spyder", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 16, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "Corporate Communications", 
+    "name": "Andrew Craig", 
+    "weight": "185", 
+    "hometown": "Houston, TX USA", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 205, 
+        "attempted": 512, 
+        "clinch": 26, 
+        "ground": 29, 
+        "standing": 150
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "University of Texas", 
+    "location": "Houston, TX USA", 
+    "height_cm": "185", 
+    "fullname": "Andrew Craig", 
+    "summary": [
+        "Composure"
+    ], 
+    "nickname": "Highlight", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 8, 
+        "submissions": 0, 
+        "sweeps": 2, 
+        "passes": 7
+    }
+}

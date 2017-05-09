@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Gleison Tibau", 
+    "weight": "155", 
+    "hometown": "Rio Grande Norte Brazil", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 571, 
+        "attempted": 1707, 
+        "clinch": 99, 
+        "ground": 119, 
+        "standing": 353
+    }, 
+    "height": "5' 10\"", 
+    "record": "41-11-0", 
+    "college": "", 
+    "location": "Coconut Creek, Florida USA", 
+    "height_cm": "177", 
+    "fullname": "Gleison Tibau", 
+    "summary": [
+        "BJJ"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 84, 
+        "attempted": 154, 
+        "submissions": 17, 
+        "sweeps": 1, 
+        "passes": 64
+    }
+}

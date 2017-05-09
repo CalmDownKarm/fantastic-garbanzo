@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Junior Hernandez", 
+    "weight": "135", 
+    "hometown": "Muscatine, IA USA", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 44, 
+        "attempted": 154, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 44
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Coconut Creek, FL USA", 
+    "height_cm": "175", 
+    "fullname": "Junior Hernandez", 
+    "summary": [
+        "Durability", 
+        "cardio", 
+        "striking"
+    ], 
+    "nickname": "Hot Handed", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

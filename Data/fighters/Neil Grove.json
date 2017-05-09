@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Neil Grove", 
+    "weight": "264", 
+    "hometown": "Klerksdorp South Africa", 
+    "age": "46", 
+    "fights": [], 
+    "weight_kg": "119", 
+    "strikes": {
+        "successful": 0, 
+        "attempted": 3, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": null
+    }, 
+    "height": "6' 6\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "198", 
+    "fullname": "Neil Grove", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "Goliath", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

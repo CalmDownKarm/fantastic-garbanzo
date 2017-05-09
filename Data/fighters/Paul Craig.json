@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Paul Craig", 
+    "weight": "205", 
+    "hometown": "Airdrie Scotland", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 43, 
+        "attempted": 73, 
+        "clinch": 20, 
+        "ground": 5, 
+        "standing": 18
+    }, 
+    "height": "6' 4\"", 
+    "record": "9-1-0", 
+    "college": "", 
+    "location": "Coatbridge Scotland", 
+    "height_cm": "193", 
+    "fullname": "Paul Craig", 
+    "summary": [
+        "BJJ", 
+        "Boxing "
+    ], 
+    "nickname": "BearJew", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 5, 
+        "submissions": 3, 
+        "sweeps": 0, 
+        "passes": 3
+    }
+}

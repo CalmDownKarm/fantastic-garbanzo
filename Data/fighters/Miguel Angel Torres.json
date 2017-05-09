@@ -1,0 +1,35 @@
+{
+    "degree": "Marketing", 
+    "name": "Miguel Angel Torres", 
+    "weight": "135", 
+    "hometown": "East Chicago, Indiana USA", 
+    "age": "36", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 486, 
+        "attempted": 1128, 
+        "clinch": 153, 
+        "ground": 30, 
+        "standing": 303
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "Purdue University", 
+    "location": "", 
+    "height_cm": "175", 
+    "fullname": "Miguel Angel Torres", 
+    "summary": [
+        "Striking", 
+        "submissions", 
+        "knees"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 5, 
+        "submissions": 13, 
+        "sweeps": 3, 
+        "passes": 9
+    }
+}

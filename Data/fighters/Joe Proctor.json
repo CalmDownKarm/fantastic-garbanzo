@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Joe Proctor", 
+    "weight": "155", 
+    "hometown": "Quincy, Massachusetts USA", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 214, 
+        "attempted": 585, 
+        "clinch": 30, 
+        "ground": 9, 
+        "standing": 175
+    }, 
+    "height": "5' 10\"", 
+    "record": "11-4-0", 
+    "college": "", 
+    "location": "Bridgewater, Massachusetts USA", 
+    "height_cm": "177", 
+    "fullname": "Joe Proctor", 
+    "summary": [
+        "Jiu-jitsu", 
+        "power", 
+        "takedown defense"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 8, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

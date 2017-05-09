@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Glaico Franca", 
+    "weight": "155", 
+    "hometown": "Curitibanos, Santa Catarina Brazil", 
+    "age": "26", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 105, 
+        "attempted": 247, 
+        "clinch": 32, 
+        "ground": 7, 
+        "standing": 66
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Balneario Camboriu, Santa Catarina Brazil", 
+    "height_cm": "182", 
+    "fullname": "Glaico \"Nego\" Franca", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "Nego", 
+    "takedowns": {
+        "successful": 8, 
+        "attempted": 19, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 6
+    }
+}

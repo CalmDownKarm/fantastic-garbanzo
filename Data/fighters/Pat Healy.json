@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Pat Healy", 
+    "weight": "155", 
+    "hometown": "Salem, OR USA", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 287, 
+        "attempted": 837, 
+        "clinch": 64, 
+        "ground": 44, 
+        "standing": 179
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Portland, OR USA", 
+    "height_cm": "182", 
+    "fullname": "Pat Healy", 
+    "summary": [
+        "Grappling"
+    ], 
+    "nickname": "Bam Bam", 
+    "takedowns": {
+        "successful": 16, 
+        "attempted": 58, 
+        "submissions": 3, 
+        "sweeps": 1, 
+        "passes": 5
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Troy Mandaloniz", 
+    "weight": "170", 
+    "hometown": "Hilo, Hawaii USA", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 68, 
+        "attempted": 120, 
+        "clinch": 21, 
+        "ground": 6, 
+        "standing": 41
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "175", 
+    "fullname": "Troy Mandaloniz", 
+    "summary": [
+        "Power Puncher", 
+        "Athleticism"
+    ], 
+    "nickname": "Rude Boy", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 6, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 5
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Fernando Gonzalez", 
+    "weight": "185", 
+    "hometown": "Escondido, California United States", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 21, 
+        "attempted": 91, 
+        "clinch": 10, 
+        "ground": null, 
+        "standing": 11
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "172", 
+    "fullname": "Fernando Gonzalez", 
+    "summary": [
+        "Great boxing", 
+        "Strong wrestler"
+    ], 
+    "nickname": "The Menifee Maniac", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 4, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

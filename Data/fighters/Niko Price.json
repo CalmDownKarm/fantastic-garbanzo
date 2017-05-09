@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Niko Price", 
+    "weight": "170", 
+    "hometown": "Cape Coral, Florida United States", 
+    "age": "27", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 29, 
+        "attempted": 133, 
+        "clinch": 4, 
+        "ground": 2, 
+        "standing": 23
+    }, 
+    "height": "6' 0\"", 
+    "record": "10-0-0", 
+    "college": "", 
+    "location": "Cape Coral, Florida United States", 
+    "height_cm": "182", 
+    "fullname": "Niko Price", 
+    "summary": [
+        "Heart"
+    ], 
+    "nickname": "The Hybrid", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 5, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "Chris Manuel", 
+    "weight": "", 
+    "hometown": "", 
+    "age": "", 
+    "fights": [], 
+    "weight_kg": "", 
+    "strikes": {
+        "successful": 38, 
+        "attempted": 93, 
+        "clinch": 12, 
+        "ground": 3, 
+        "standing": 23
+    }, 
+    "height": "", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "", 
+    "fullname": "Chris Manuel", 
+    "summary": [], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 5, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

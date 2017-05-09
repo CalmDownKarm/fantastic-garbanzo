@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Jason Novelli", 
+    "weight": "155", 
+    "hometown": "Anchorage, Alaska USA", 
+    "age": "37", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 37, 
+        "attempted": 154, 
+        "clinch": 1, 
+        "ground": 2, 
+        "standing": 34
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Portland, Oregon USA", 
+    "height_cm": "182", 
+    "fullname": "Jason Novelli", 
+    "summary": [
+        "Well-rounded", 
+        "cardio", 
+        "focus"
+    ], 
+    "nickname": "Pepsi", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 3, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 4
+    }
+}

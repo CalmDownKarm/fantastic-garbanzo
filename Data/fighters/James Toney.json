@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "James Toney", 
+    "weight": "", 
+    "hometown": "", 
+    "age": "", 
+    "fights": [], 
+    "weight_kg": "", 
+    "strikes": {
+        "successful": 0, 
+        "attempted": 0, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": null
+    }, 
+    "height": "", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "", 
+    "fullname": "James Toney", 
+    "summary": [], 
+    "nickname": "Lights Out", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

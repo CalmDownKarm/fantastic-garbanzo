@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Pete Williams", 
+    "weight": "235", 
+    "hometown": "San Lorenzo, California - USA USA", 
+    "age": "41", 
+    "fights": [], 
+    "weight_kg": "106", 
+    "strikes": {
+        "successful": 10, 
+        "attempted": 16, 
+        "clinch": 8, 
+        "ground": null, 
+        "standing": 2
+    }, 
+    "height": "6' 3\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "190", 
+    "fullname": "Pete Williams", 
+    "summary": [
+        "Versatility and size"
+    ], 
+    "nickname": "El Duro (The Hard One)", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 5, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

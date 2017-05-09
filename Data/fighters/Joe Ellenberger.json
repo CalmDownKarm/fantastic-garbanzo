@@ -1,0 +1,34 @@
+{
+    "degree": "Bachelor's in Industrial Distribution, Master's in Sports Administration", 
+    "name": "Joe Ellenberger", 
+    "weight": "155", 
+    "hometown": "Omaha, Nebraska USA", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 46, 
+        "attempted": 97, 
+        "clinch": 14, 
+        "ground": 14, 
+        "standing": 18
+    }, 
+    "height": "5' 9\"", 
+    "record": "15-2-0", 
+    "college": "University of Nebraska at Kearney", 
+    "location": "Omaha, Nebraska USA", 
+    "height_cm": "175", 
+    "fullname": "Joe Ellenberger", 
+    "summary": [
+        "Overcoming adversity", 
+        "being cerebral"
+    ], 
+    "nickname": "Excalibur", 
+    "takedowns": {
+        "successful": 6, 
+        "attempted": 15, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

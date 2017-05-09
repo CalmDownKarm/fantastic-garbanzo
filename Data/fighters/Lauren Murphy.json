@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Lauren Murphy", 
+    "weight": "135", 
+    "hometown": "Anchorage, Alaska USA", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 227, 
+        "attempted": 499, 
+        "clinch": 48, 
+        "ground": 76, 
+        "standing": 103
+    }, 
+    "height": "5' 7\"", 
+    "record": "9-3-0", 
+    "college": "", 
+    "location": "Glendale, Arizona USA", 
+    "height_cm": "170", 
+    "fullname": "Lauren Murphy", 
+    "summary": [
+        "Strong", 
+        "tough", 
+        "huge heart"
+    ], 
+    "nickname": "Lucky", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 16, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

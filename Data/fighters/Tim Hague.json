@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "Tim Hague", 
+    "weight": "265", 
+    "hometown": "Canada", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "120", 
+    "strikes": {
+        "successful": 97, 
+        "attempted": 204, 
+        "clinch": 24, 
+        "ground": 22, 
+        "standing": 51
+    }, 
+    "height": "6' 4\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Edmonton, Alberta Canada", 
+    "height_cm": "193", 
+    "fullname": "Tim  Hague", 
+    "summary": [], 
+    "nickname": "The Thrashing Machine", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 12, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 5
+    }
+}

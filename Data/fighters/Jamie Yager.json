@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Jamie Yager", 
+    "weight": "185", 
+    "hometown": "Pasadena, California USA", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 29, 
+        "attempted": 74, 
+        "clinch": 4, 
+        "ground": 1, 
+        "standing": 24
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "185", 
+    "fullname": "Jamie Yager", 
+    "summary": [
+        "Stand up"
+    ], 
+    "nickname": "chosyn-1", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

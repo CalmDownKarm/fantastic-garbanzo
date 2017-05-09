@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Alex Morono", 
+    "weight": "170", 
+    "hometown": "Houston, Texas United States", 
+    "age": "26", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 199, 
+        "attempted": 442, 
+        "clinch": 23, 
+        "ground": 7, 
+        "standing": 169
+    }, 
+    "height": "5' 11\"", 
+    "record": "13-4-0", 
+    "college": "", 
+    "location": "Houston, Texas United States", 
+    "height_cm": "180", 
+    "fullname": "Alex Morono", 
+    "summary": [
+        "Aggression", 
+        "striking", 
+        "grappling"
+    ], 
+    "nickname": "The Great White", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 3, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

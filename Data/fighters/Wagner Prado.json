@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Wagner Prado", 
+    "weight": "205", 
+    "hometown": "Campinas, Sao Paulo Brazil", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 32, 
+        "attempted": 80, 
+        "clinch": 4, 
+        "ground": null, 
+        "standing": 28
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Rio de Janeiro Brazil", 
+    "height_cm": "182", 
+    "fullname": "Wagner Prado", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "Caldeirao", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 1
+    }
+}

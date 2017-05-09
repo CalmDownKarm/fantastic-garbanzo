@@ -1,0 +1,35 @@
+{
+    "degree": "Media Arts", 
+    "name": "Cody Donovan", 
+    "weight": "205", 
+    "hometown": "Waterloo, IA USA", 
+    "age": "36", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 101, 
+        "attempted": 171, 
+        "clinch": 36, 
+        "ground": 6, 
+        "standing": 59
+    }, 
+    "height": "6' 3\"", 
+    "record": "", 
+    "college": "Art Institute of Colorado", 
+    "location": "Denver, CO USA", 
+    "height_cm": "190", 
+    "fullname": "Cody Donovan", 
+    "summary": [
+        "Ground game", 
+        "dirty boxing", 
+        "toughness"
+    ], 
+    "nickname": "Donnybrook", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 7, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 3
+    }
+}

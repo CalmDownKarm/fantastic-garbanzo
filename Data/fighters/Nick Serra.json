@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "Nick Serra", 
+    "weight": "", 
+    "hometown": "USA", 
+    "age": "", 
+    "fights": [], 
+    "weight_kg": "", 
+    "strikes": {
+        "successful": 0, 
+        "attempted": 8, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": null
+    }, 
+    "height": "", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "", 
+    "fullname": "Nick Serra", 
+    "summary": [], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 10, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

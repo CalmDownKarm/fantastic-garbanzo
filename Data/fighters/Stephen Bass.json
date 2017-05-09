@@ -1,0 +1,36 @@
+{
+    "degree": "", 
+    "name": "Stephen Bass", 
+    "weight": "145", 
+    "hometown": "Shreveport, Louisiana USA", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 73, 
+        "attempted": 140, 
+        "clinch": 13, 
+        "ground": 1, 
+        "standing": 59
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Savannah, Georgia USA", 
+    "height_cm": "175", 
+    "fullname": "Stephen \"Bigfish\" Bass", 
+    "summary": [
+        "Unbreakable Will", 
+        "Crafty", 
+        "Durable", 
+        "Well-rounded"
+    ], 
+    "nickname": "Bigfish", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 6, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

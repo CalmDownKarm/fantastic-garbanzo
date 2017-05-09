@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Alexander Volkanovski", 
+    "weight": "155", 
+    "hometown": "Shellharbour, NSW Australia", 
+    "age": "28", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 50, 
+        "attempted": 76, 
+        "clinch": 3, 
+        "ground": 45, 
+        "standing": 2
+    }, 
+    "height": "5' 5\"", 
+    "record": "14-1-0", 
+    "college": "", 
+    "location": "Windang, NSW Australia", 
+    "height_cm": "165", 
+    "fullname": "Alexander \"The Great\" Volkanovski", 
+    "summary": [
+        "Power and accuracy"
+    ], 
+    "nickname": "The Great", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 3, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 0
+    }
+}

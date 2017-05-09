@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Khalil Rountree Jr.", 
+    "weight": "205", 
+    "hometown": "Los Angeles, California  United States", 
+    "age": "27", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 20, 
+        "attempted": 37, 
+        "clinch": 4, 
+        "ground": 8, 
+        "standing": 8
+    }, 
+    "height": "6' 1\"", 
+    "record": "6-2-0", 
+    "college": "", 
+    "location": "Las Vegas, NV United States", 
+    "height_cm": "185", 
+    "fullname": "Khalil Rountree", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

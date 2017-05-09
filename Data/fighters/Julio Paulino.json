@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Julio Paulino", 
+    "weight": "170", 
+    "hometown": "Jersey City, New Jersey USA", 
+    "age": "41", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 29, 
+        "attempted": 104, 
+        "clinch": 7, 
+        "ground": 4, 
+        "standing": 18
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Anchorage, AK", 
+    "height_cm": "182", 
+    "fullname": "Julio Paulino", 
+    "summary": [
+        "Power"
+    ], 
+    "nickname": "The Dominican Demon", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 1, 
+        "sweeps": 1, 
+        "passes": 0
+    }
+}

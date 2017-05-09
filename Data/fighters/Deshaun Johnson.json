@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "Deshaun Johnson", 
+    "weight": "", 
+    "hometown": "", 
+    "age": "", 
+    "fights": [], 
+    "weight_kg": "", 
+    "strikes": {
+        "successful": 0, 
+        "attempted": 0, 
+        "clinch": 0, 
+        "ground": 0, 
+        "standing": 0
+    }, 
+    "height": "", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "", 
+    "fullname": "Deshaun Johnson", 
+    "summary": [], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

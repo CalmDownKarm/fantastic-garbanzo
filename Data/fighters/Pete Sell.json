@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Pete Sell", 
+    "weight": "170", 
+    "hometown": "Bayshore, New York USA", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 171, 
+        "attempted": 403, 
+        "clinch": 23, 
+        "ground": 7, 
+        "standing": 141
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "180", 
+    "fullname": "Pete Sell", 
+    "summary": [
+        "Ground game", 
+        "takedowns", 
+        "hard puncher"
+    ], 
+    "nickname": "Drago", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 19, 
+        "submissions": 4, 
+        "sweeps": 1, 
+        "passes": 2
+    }
+}

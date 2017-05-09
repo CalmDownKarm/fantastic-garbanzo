@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "Deiveson Alcantara", 
+    "weight": "125", 
+    "hometown": "", 
+    "age": "", 
+    "fights": [], 
+    "weight_kg": "56", 
+    "strikes": {
+        "successful": 0, 
+        "attempted": 0, 
+        "clinch": 0, 
+        "ground": 0, 
+        "standing": 0
+    }, 
+    "height": "5' 5\"", 
+    "record": "11-0-0", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "165", 
+    "fullname": "Deiveson Alcantara", 
+    "summary": [], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

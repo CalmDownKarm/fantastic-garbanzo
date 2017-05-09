@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Brian Foster", 
+    "weight": "170", 
+    "hometown": "Sallisaw, Oklahoma USA", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 81, 
+        "attempted": 203, 
+        "clinch": 5, 
+        "ground": 43, 
+        "standing": 33
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Granite City, IL USA", 
+    "height_cm": "177", 
+    "fullname": "Brian Foster", 
+    "summary": [
+        "Wrestling", 
+        "Athletic", 
+        "Big Heart"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 6, 
+        "attempted": 10, 
+        "submissions": 3, 
+        "sweeps": 1, 
+        "passes": 6
+    }
+}

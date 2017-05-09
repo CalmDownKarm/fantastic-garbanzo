@@ -1,0 +1,36 @@
+{
+    "degree": "", 
+    "name": "Jake Lindsey", 
+    "weight": "155", 
+    "hometown": "Manhattan, Kansas USA", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 79, 
+        "attempted": 150, 
+        "clinch": 28, 
+        "ground": 1, 
+        "standing": 50
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Manhattan, Kansas USA", 
+    "height_cm": "180", 
+    "fullname": "Jake Lindsey", 
+    "summary": [
+        "Cardio", 
+        "boxing", 
+        "wrestling", 
+        "mental game"
+    ], 
+    "nickname": "The Librarian", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 3, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

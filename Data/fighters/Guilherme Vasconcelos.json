@@ -1,0 +1,36 @@
+{
+    "degree": "", 
+    "name": "Guilherme Vasconcelos", 
+    "weight": "185", 
+    "hometown": "Belo Horizonte, MG Brazil", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 49, 
+        "attempted": 166, 
+        "clinch": 1, 
+        "ground": null, 
+        "standing": 48
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Belo Horizonte, MG Brazil", 
+    "height_cm": "182", 
+    "fullname": "Guilherme Vasconcelos", 
+    "summary": [
+        "Speed", 
+        "explosion", 
+        "ground and pound", 
+        "jiu-jitsu world champion"
+    ], 
+    "nickname": "Bomba", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 3, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

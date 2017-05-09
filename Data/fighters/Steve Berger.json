@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Steve Berger", 
+    "weight": "169", 
+    "hometown": "St. Louis, MO USA", 
+    "age": "43", 
+    "fights": [], 
+    "weight_kg": "76", 
+    "strikes": {
+        "successful": 13, 
+        "attempted": 57, 
+        "clinch": 11, 
+        "ground": null, 
+        "standing": 2
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "180", 
+    "fullname": "Steve Berger", 
+    "summary": [
+        "I can hurt him standing or on the ground."
+    ], 
+    "nickname": "Red Nose", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 3, 
+        "submissions": 3, 
+        "sweeps": 1, 
+        "passes": 1
+    }
+}

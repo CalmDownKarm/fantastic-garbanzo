@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Michael Chiesa", 
+    "weight": "155", 
+    "hometown": "Aurora, Colorado USA", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 177, 
+        "attempted": 474, 
+        "clinch": 24, 
+        "ground": 29, 
+        "standing": 124
+    }, 
+    "height": "6' 1\"", 
+    "record": "14-2-0", 
+    "college": "", 
+    "location": "Spokane Valley, Washington USA", 
+    "height_cm": "185", 
+    "fullname": "Michael Chiesa", 
+    "summary": [
+        "Good scrambling", 
+        "unorthodox style", 
+        "standup"
+    ], 
+    "nickname": "Maverick", 
+    "takedowns": {
+        "successful": 15, 
+        "attempted": 37, 
+        "submissions": 8, 
+        "sweeps": 1, 
+        "passes": 17
+    }
+}

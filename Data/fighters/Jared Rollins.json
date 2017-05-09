@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Jared Rollins", 
+    "weight": "170", 
+    "hometown": "Long Beach, CA USA", 
+    "age": "40", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 40, 
+        "attempted": 70, 
+        "clinch": 5, 
+        "ground": 32, 
+        "standing": 3
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "175", 
+    "fullname": "Jared Rollins", 
+    "summary": [
+        "Very athletic", 
+        "explosive fighter", 
+        "eight years of grappling experience"
+    ], 
+    "nickname": "J-ROC", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 4, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 3
+    }
+}

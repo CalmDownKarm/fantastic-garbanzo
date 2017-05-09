@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Mike Ricci", 
+    "weight": "155", 
+    "hometown": "Montreal, Quebec Canada", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 81, 
+        "attempted": 250, 
+        "clinch": 4, 
+        "ground": 22, 
+        "standing": 55
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Montreal, Quebec Canada", 
+    "height_cm": "182", 
+    "fullname": "Mike Ricci", 
+    "summary": [
+        "Striking", 
+        "wrestling", 
+        "athleticism"
+    ], 
+    "nickname": "The Martian", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 2, 
+        "submissions": 0, 
+        "sweeps": 3, 
+        "passes": 3
+    }
+}

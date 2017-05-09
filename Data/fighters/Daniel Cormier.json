@@ -1,0 +1,33 @@
+{
+    "degree": "Sociology", 
+    "name": "Daniel Cormier", 
+    "weight": "205", 
+    "hometown": "Lafayette, Louisiana USA", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 455, 
+        "attempted": 914, 
+        "clinch": 139, 
+        "ground": 98, 
+        "standing": 218
+    }, 
+    "height": "5' 11\"", 
+    "record": "18-1-0", 
+    "college": "Oklahoma State University", 
+    "location": "San Jose, California USA", 
+    "height_cm": "180", 
+    "fullname": "Daniel Cormier", 
+    "summary": [
+        "Wrestling"
+    ], 
+    "nickname": "DC", 
+    "takedowns": {
+        "successful": 14, 
+        "attempted": 33, 
+        "submissions": 5, 
+        "sweeps": 0, 
+        "passes": 20
+    }
+}

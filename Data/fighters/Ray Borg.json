@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Ray Borg", 
+    "weight": "125", 
+    "hometown": "Tucson, Arizona United States", 
+    "age": "23", 
+    "fights": [], 
+    "weight_kg": "56", 
+    "strikes": {
+        "successful": 136, 
+        "attempted": 281, 
+        "clinch": 27, 
+        "ground": 81, 
+        "standing": 28
+    }, 
+    "height": "5' 4\"", 
+    "record": "11-2-0", 
+    "college": "", 
+    "location": "Albuquerque, New Mexico United States", 
+    "height_cm": "162", 
+    "fullname": "Ray Borg", 
+    "summary": [
+        "Grappling"
+    ], 
+    "nickname": "The Tazmexican Devil", 
+    "takedowns": {
+        "successful": 19, 
+        "attempted": 40, 
+        "submissions": 11, 
+        "sweeps": 2, 
+        "passes": 41
+    }
+}

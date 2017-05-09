@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Tatsuya Kawajiri", 
+    "weight": "145", 
+    "hometown": "Ibaraki Japan", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 136, 
+        "attempted": 291, 
+        "clinch": 10, 
+        "ground": 57, 
+        "standing": 69
+    }, 
+    "height": "5' 7\"", 
+    "record": "", 
+    "college": "Chuo Gakuin University", 
+    "location": "Ibaraki Japan", 
+    "height_cm": "170", 
+    "fullname": "Tatsuya Kawajiri", 
+    "summary": [
+        "Ground and pound"
+    ], 
+    "nickname": "The Crusher", 
+    "takedowns": {
+        "successful": 18, 
+        "attempted": 58, 
+        "submissions": 2, 
+        "sweeps": 2, 
+        "passes": 17
+    }
+}

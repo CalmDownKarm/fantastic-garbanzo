@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Wade Shipp", 
+    "weight": "250", 
+    "hometown": "Houston, Texas USA", 
+    "age": "42", 
+    "fights": [], 
+    "weight_kg": "113", 
+    "strikes": {
+        "successful": 20, 
+        "attempted": 23, 
+        "clinch": 15, 
+        "ground": 1, 
+        "standing": 4
+    }, 
+    "height": "6' 4\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "193", 
+    "fullname": "Wade Shipp", 
+    "summary": [
+        "Submissions"
+    ], 
+    "nickname": "The Nightmare", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

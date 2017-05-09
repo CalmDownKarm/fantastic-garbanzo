@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Misha Cirkunov", 
+    "weight": "205", 
+    "hometown": "Riga Latvia", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 108, 
+        "attempted": 204, 
+        "clinch": 24, 
+        "ground": 19, 
+        "standing": 65
+    }, 
+    "height": "6' 3\"", 
+    "record": "13-2-0", 
+    "college": "", 
+    "location": "Toronto, Ontario Canada", 
+    "height_cm": "190", 
+    "fullname": "Misha Cirkunov", 
+    "summary": [
+        "Solid all-around", 
+        "very explosive "
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 9, 
+        "attempted": 16, 
+        "submissions": 3, 
+        "sweeps": 1, 
+        "passes": 11
+    }
+}

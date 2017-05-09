@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "John-Olav Einemo", 
+    "weight": "253", 
+    "hometown": "Oslo Norway", 
+    "age": "41", 
+    "fights": [], 
+    "weight_kg": "114", 
+    "strikes": {
+        "successful": 65, 
+        "attempted": 113, 
+        "clinch": 23, 
+        "ground": 2, 
+        "standing": 40
+    }, 
+    "height": "6' 6\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Oslo Norway", 
+    "height_cm": "198", 
+    "fullname": "John-Olav \"The Viking\" Einemo", 
+    "summary": [
+        "Submissions", 
+        "size", 
+        "grappling"
+    ], 
+    "nickname": "The Viking", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 4, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 3
+    }
+}

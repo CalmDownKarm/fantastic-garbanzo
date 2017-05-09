@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Kevin Lee", 
+    "weight": "155", 
+    "hometown": "Detroit, Michigan United States", 
+    "age": "24", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 366, 
+        "attempted": 905, 
+        "clinch": 65, 
+        "ground": 102, 
+        "standing": 199
+    }, 
+    "height": "5' 9\"", 
+    "record": "15-2-0", 
+    "college": "", 
+    "location": "Las Vegas, Nevada United States", 
+    "height_cm": "175", 
+    "fullname": "Kevin Lee", 
+    "summary": [
+        "Wrestling", 
+        "boxing and my all-around style"
+    ], 
+    "nickname": "The Motown Phenom", 
+    "takedowns": {
+        "successful": 24, 
+        "attempted": 59, 
+        "submissions": 10, 
+        "sweeps": 1, 
+        "passes": 28
+    }
+}

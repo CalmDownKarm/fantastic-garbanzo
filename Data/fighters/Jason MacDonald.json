@@ -1,0 +1,36 @@
+{
+    "degree": "", 
+    "name": "Jason MacDonald", 
+    "weight": "185", 
+    "hometown": "New Glasgow, Nova Scotia Canada", 
+    "age": "41", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 130, 
+        "attempted": 246, 
+        "clinch": 61, 
+        "ground": 45, 
+        "standing": 24
+    }, 
+    "height": "6' 3\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "190", 
+    "fullname": "Jason \"The Athlete\" MacDonald", 
+    "summary": [
+        "Conditioning", 
+        "clinch", 
+        "submissions", 
+        "and standup"
+    ], 
+    "nickname": "The Athlete", 
+    "takedowns": {
+        "successful": 8, 
+        "attempted": 49, 
+        "submissions": 11, 
+        "sweeps": 4, 
+        "passes": 13
+    }
+}

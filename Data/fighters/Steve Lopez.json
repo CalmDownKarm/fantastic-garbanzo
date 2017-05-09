@@ -1,0 +1,35 @@
+{
+    "degree": "General Studies", 
+    "name": "Steve Lopez", 
+    "weight": "155", 
+    "hometown": "South Bend, IN USA", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 29, 
+        "attempted": 120, 
+        "clinch": 2, 
+        "ground": null, 
+        "standing": 27
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "Bethel College", 
+    "location": "Las Vegas, NV", 
+    "height_cm": "180", 
+    "fullname": "Steve Lopez", 
+    "summary": [
+        "speed", 
+        "athleticism", 
+        "explosiveness"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Darrill Schoonover", 
+    "weight": "250", 
+    "hometown": "Karlsruhe US Military base Germany", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "113", 
+    "strikes": {
+        "successful": 16, 
+        "attempted": 48, 
+        "clinch": 7, 
+        "ground": 3, 
+        "standing": 6
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "187", 
+    "fullname": "Darrill Schoonover", 
+    "summary": [
+        "Boxing"
+    ], 
+    "nickname": "The Boss", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 3, 
+        "submissions": 1, 
+        "sweeps": 1, 
+        "passes": 2
+    }
+}

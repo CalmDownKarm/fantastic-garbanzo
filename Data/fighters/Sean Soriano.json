@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Sean Soriano", 
+    "weight": "145", 
+    "hometown": "Providence, Rhode Island USA", 
+    "age": "27", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 112, 
+        "attempted": 183, 
+        "clinch": 26, 
+        "ground": 18, 
+        "standing": 68
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Boca Raton, Florida USA", 
+    "height_cm": "175", 
+    "fullname": "Sean Soriano", 
+    "summary": [
+        "Standup", 
+        "wrestling"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 7, 
+        "submissions": 0, 
+        "sweeps": 3, 
+        "passes": 0
+    }
+}

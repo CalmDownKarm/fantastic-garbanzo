@@ -1,0 +1,33 @@
+{
+    "degree": "Physical Education", 
+    "name": "Marcelo Guimaraes", 
+    "weight": "185", 
+    "hometown": "Itapemirim, Espirito Santo Brazil", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 211, 
+        "attempted": 406, 
+        "clinch": 42, 
+        "ground": 1, 
+        "standing": 168
+    }, 
+    "height": "6' 0\"", 
+    "record": "9-2-1", 
+    "college": "", 
+    "location": "Vitoria, Espirito Santo Brazil", 
+    "height_cm": "182", 
+    "fullname": "Marcelo Guimaraes", 
+    "summary": [
+        "Jiu-jitsu black belt"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 6, 
+        "attempted": 43, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

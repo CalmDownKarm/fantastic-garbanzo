@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Jared Papazian", 
+    "weight": "125", 
+    "hometown": "West Hills, California USA", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "56", 
+    "strikes": {
+        "successful": 111, 
+        "attempted": 281, 
+        "clinch": 18, 
+        "ground": 2, 
+        "standing": 91
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Burbank, California USA", 
+    "height_cm": "172", 
+    "fullname": "Jared Papazian", 
+    "summary": [
+        "Boxing"
+    ], 
+    "nickname": "The Jackhammer", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 4, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 1
+    }
+}

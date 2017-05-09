@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Joaquim Silva", 
+    "weight": "155", 
+    "hometown": "Anapolis, Goias Brazil", 
+    "age": "28", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 55, 
+        "attempted": 170, 
+        "clinch": 3, 
+        "ground": 5, 
+        "standing": 47
+    }, 
+    "height": "5' 8\"", 
+    "record": "9-1-0", 
+    "college": "", 
+    "location": "Curitiba Brasil", 
+    "height_cm": "172", 
+    "fullname": "Joaquim Silva", 
+    "summary": [
+        "Boxing"
+    ], 
+    "nickname": "Netto BJJ", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

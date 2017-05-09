@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Joe Brammer", 
+    "weight": "155", 
+    "hometown": "Tulsa, Oklahoma USA", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 40, 
+        "attempted": 126, 
+        "clinch": 8, 
+        "ground": null, 
+        "standing": 32
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "172", 
+    "fullname": "Joe Brammer", 
+    "summary": [
+        "Mind", 
+        "submissions"
+    ], 
+    "nickname": "The South Side Strangler", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 2, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

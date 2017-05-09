@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Mauricio Rua", 
+    "weight": "205", 
+    "hometown": "Curitiba Brazil", 
+    "age": "35", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 694, 
+        "attempted": 1328, 
+        "clinch": 122, 
+        "ground": 108, 
+        "standing": 464
+    }, 
+    "height": "6' 1\"", 
+    "record": "24-10-0", 
+    "college": "", 
+    "location": "Curitiba Brazil", 
+    "height_cm": "185", 
+    "fullname": "Mauricio \"Shogun\" Rua", 
+    "summary": [
+        "Very aggressive", 
+        "excellent background in Muay Thai and Jiu-Jitsu", 
+        "strength"
+    ], 
+    "nickname": "Shogun", 
+    "takedowns": {
+        "successful": 21, 
+        "attempted": 51, 
+        "submissions": 4, 
+        "sweeps": 0, 
+        "passes": 20
+    }
+}

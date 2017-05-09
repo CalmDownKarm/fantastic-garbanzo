@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Simeon Thoresen", 
+    "weight": "170", 
+    "hometown": "Sandefjord Norway", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 103, 
+        "attempted": 236, 
+        "clinch": 30, 
+        "ground": 7, 
+        "standing": 66
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Oslo Norway", 
+    "height_cm": "187", 
+    "fullname": "Simeon \"The Grin\" Thoresen", 
+    "summary": [
+        "Well-rounded"
+    ], 
+    "nickname": "The Grin", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 5, 
+        "submissions": 3, 
+        "sweeps": 1, 
+        "passes": 3
+    }
+}

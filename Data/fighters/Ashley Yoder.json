@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Ashley Yoder", 
+    "weight": "115", 
+    "hometown": "Indianapolis, Indiana USA", 
+    "age": "29", 
+    "fights": [], 
+    "weight_kg": "52", 
+    "strikes": {
+        "successful": 44, 
+        "attempted": 116, 
+        "clinch": 4, 
+        "ground": 5, 
+        "standing": 35
+    }, 
+    "height": "5' 7\"", 
+    "record": "5-2-0", 
+    "college": "", 
+    "location": "Temecula, California USA", 
+    "height_cm": "170", 
+    "fullname": "Ashley Yoder", 
+    "summary": [
+        "Well-rounded"
+    ], 
+    "nickname": "SpiderMonkey", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 2, 
+        "submissions": 0, 
+        "sweeps": 3, 
+        "passes": 7
+    }
+}

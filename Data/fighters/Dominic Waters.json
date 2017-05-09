@@ -1,0 +1,36 @@
+{
+    "degree": "", 
+    "name": "Dominic Waters", 
+    "weight": "170", 
+    "hometown": "San Pablo, California USA", 
+    "age": "27", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 16, 
+        "attempted": 69, 
+        "clinch": 1, 
+        "ground": 2, 
+        "standing": 13
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Albuquerque, New Mexico USA", 
+    "height_cm": "185", 
+    "fullname": "Dominic Waters", 
+    "summary": [
+        "Ground game", 
+        "athletically gifted", 
+        "fast hands", 
+        "powerful striking ability \r\n"
+    ], 
+    "nickname": "Shonuff", 
+    "takedowns": {
+        "successful": 9, 
+        "attempted": 17, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 7
+    }
+}

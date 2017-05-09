@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Brad Morris", 
+    "weight": "205", 
+    "hometown": "Lithgow, New South Wales Australia", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 5, 
+        "attempted": 8, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 5
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "185", 
+    "fullname": "Brad Morris", 
+    "summary": [
+        "Good strength and conditioning", 
+        "Solid ground and pound", 
+        "Unorthodox striking"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

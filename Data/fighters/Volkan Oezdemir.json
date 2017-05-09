@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Volkan Oezdemir", 
+    "weight": "205", 
+    "hometown": "Fribourg Switzerland", 
+    "age": "27", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 82, 
+        "attempted": 182, 
+        "clinch": 11, 
+        "ground": null, 
+        "standing": 71
+    }, 
+    "height": "6' 1\"", 
+    "record": "13-1-0", 
+    "college": "", 
+    "location": "Coconut Creek, Florida United States", 
+    "height_cm": "185", 
+    "fullname": "Volkan Oezdemir", 
+    "summary": [
+        "Power", 
+        "versatility", 
+        "work ethic "
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "David Lee", 
+    "weight": "155", 
+    "hometown": "London England", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 13, 
+        "attempted": 26, 
+        "clinch": 7, 
+        "ground": null, 
+        "standing": 6
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "177", 
+    "fullname": "David Lee", 
+    "summary": [
+        "Submissions"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 4, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

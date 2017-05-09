@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Jameel Massouh", 
+    "weight": "145", 
+    "hometown": "Milwaukee, WI USA", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 86, 
+        "attempted": 158, 
+        "clinch": 24, 
+        "ground": 11, 
+        "standing": 51
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "177", 
+    "fullname": "Jameel Massouh", 
+    "summary": [
+        "Striking", 
+        "Submissions", 
+        "Composure under Pressure"
+    ], 
+    "nickname": "The Real Deal", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 13, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 3
+    }
+}

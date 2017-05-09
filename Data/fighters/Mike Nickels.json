@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Mike Nickels", 
+    "weight": "205", 
+    "hometown": "Ocala, Florida USA", 
+    "age": "45", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 24, 
+        "attempted": 46, 
+        "clinch": 8, 
+        "ground": 13, 
+        "standing": 3
+    }, 
+    "height": "6' 4\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "193", 
+    "fullname": "Mike Nickels", 
+    "summary": [
+        "Conditioning", 
+        "size", 
+        "submissions"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 5, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

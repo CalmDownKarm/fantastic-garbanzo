@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Nick Hein", 
+    "weight": "155", 
+    "hometown": "Elsdorf Germany", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 195, 
+        "attempted": 504, 
+        "clinch": 8, 
+        "ground": 2, 
+        "standing": 185
+    }, 
+    "height": "5' 6\"", 
+    "record": "14-2-0, 1NC", 
+    "college": "", 
+    "location": "Cologne Germany", 
+    "height_cm": "167", 
+    "fullname": "Nick Hein", 
+    "summary": [
+        "World Class judo", 
+        "very explosive", 
+        "no wasted movements"
+    ], 
+    "nickname": "Sergeant", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 15, 
+        "submissions": 0, 
+        "sweeps": 1, 
+        "passes": 5
+    }
+}

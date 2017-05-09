@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Gegard Mousasi", 
+    "weight": "185", 
+    "hometown": "The Netherlands", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 416, 
+        "attempted": 831, 
+        "clinch": 38, 
+        "ground": 107, 
+        "standing": 271
+    }, 
+    "height": "6' 2\"", 
+    "record": "41-6-2", 
+    "college": "", 
+    "location": "Leiden, Holland The Netherlands", 
+    "height_cm": "187", 
+    "fullname": "Gegard Mousasi", 
+    "summary": [
+        "Well-rounded"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 9, 
+        "attempted": 16, 
+        "submissions": 3, 
+        "sweeps": 1, 
+        "passes": 22
+    }
+}

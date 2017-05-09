@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "Dave Strasser", 
+    "weight": "170", 
+    "hometown": "Milwaukee, Wisconsin USA", 
+    "age": "47", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 62, 
+        "attempted": 136, 
+        "clinch": 15, 
+        "ground": 24, 
+        "standing": 23
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "177", 
+    "fullname": "Dave Strasser", 
+    "summary": [], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 3, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

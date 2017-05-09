@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "George Sullivan", 
+    "weight": "170", 
+    "hometown": "Red Bank, New Jersey USA", 
+    "age": "36", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 211, 
+        "attempted": 522, 
+        "clinch": 28, 
+        "ground": 59, 
+        "standing": 124
+    }, 
+    "height": "6' 0\"", 
+    "record": "17-5-0, 1NC", 
+    "college": "", 
+    "location": "Belmar, New Jersey USA", 
+    "height_cm": "182", 
+    "fullname": "George Sullivan", 
+    "summary": [
+        "Kickboxing", 
+        "take down defense", 
+        "cardio"
+    ], 
+    "nickname": "The Silencer", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 23, 
+        "submissions": 3, 
+        "sweeps": 1, 
+        "passes": 7
+    }
+}

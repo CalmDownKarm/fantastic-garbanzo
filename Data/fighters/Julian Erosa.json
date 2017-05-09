@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Julian Erosa", 
+    "weight": "145", 
+    "hometown": "Yakima, Washington United States", 
+    "age": "27", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 77, 
+        "attempted": 152, 
+        "clinch": 24, 
+        "ground": 3, 
+        "standing": 50
+    }, 
+    "height": "6' 1\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Seattle, Washington United States", 
+    "height_cm": "185", 
+    "fullname": "Julian Erosa", 
+    "summary": [
+        "Stand-up"
+    ], 
+    "nickname": "Juicy J", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 4, 
+        "submissions": 2, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "Tatiana Suarez", 
+    "weight": "115", 
+    "hometown": "Bellflower, California USA", 
+    "age": "26", 
+    "fights": [], 
+    "weight_kg": "52", 
+    "strikes": {
+        "successful": 16, 
+        "attempted": 19, 
+        "clinch": 15, 
+        "ground": null, 
+        "standing": 1
+    }, 
+    "height": "5' 5\"", 
+    "record": "5-0-0", 
+    "college": "", 
+    "location": "Rancho Cucamonga, California USA", 
+    "height_cm": "165", 
+    "fullname": "Tatiana Saurez", 
+    "summary": [], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 3, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

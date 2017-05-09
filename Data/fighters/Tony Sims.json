@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "Tony Sims", 
+    "weight": "155", 
+    "hometown": "Davenport, Iowa United States", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 38, 
+        "attempted": 60, 
+        "clinch": 1, 
+        "ground": 23, 
+        "standing": 14
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Denver, Colorado United States", 
+    "height_cm": "180", 
+    "fullname": "Tony Sims", 
+    "summary": [], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 2, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Alexandre Nogueira", 
+    "weight": "145", 
+    "hometown": "Rio de Janeiro Brazil", 
+    "age": "39", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 0, 
+        "attempted": 0, 
+        "clinch": 0, 
+        "ground": 0, 
+        "standing": 0
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "172", 
+    "fullname": "Alexandre Nogueira", 
+    "summary": [
+        "Guillotine"
+    ], 
+    "nickname": "Pequeno", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

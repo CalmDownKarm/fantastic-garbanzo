@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Jocelyn Jones-Lybarger", 
+    "weight": "115", 
+    "hometown": "San Diego, California United States", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "52", 
+    "strikes": {
+        "successful": 129, 
+        "attempted": 414, 
+        "clinch": 10, 
+        "ground": 3, 
+        "standing": 116
+    }, 
+    "height": "5' 7\"", 
+    "record": "", 
+    "college": "San Diego Mesa", 
+    "location": "Glendale, Arizona United States", 
+    "height_cm": "170", 
+    "fullname": "Jocelyn Jones-Lybarger", 
+    "summary": [
+        "Boxing"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 4, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

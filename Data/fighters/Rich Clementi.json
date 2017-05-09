@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Rich Clementi", 
+    "weight": "155", 
+    "hometown": "Edison, New Jersey USA", 
+    "age": "40", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 171, 
+        "attempted": 459, 
+        "clinch": 31, 
+        "ground": 23, 
+        "standing": 117
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "175", 
+    "fullname": "Rich Clementi", 
+    "summary": [
+        "Well rounded", 
+        "strong", 
+        "good chin"
+    ], 
+    "nickname": "No Love", 
+    "takedowns": {
+        "successful": 14, 
+        "attempted": 33, 
+        "submissions": 8, 
+        "sweeps": 3, 
+        "passes": 20
+    }
+}

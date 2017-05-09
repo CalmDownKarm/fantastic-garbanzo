@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Paul Redmond", 
+    "weight": "145", 
+    "hometown": "Dublin Ireland", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 13, 
+        "attempted": 38, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 13
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Dublin Ireland", 
+    "height_cm": "175", 
+    "fullname": "Paul Redmond", 
+    "summary": [
+        "Wrestling", 
+        "tricky submissions", 
+        "leg locks"
+    ], 
+    "nickname": "Redser", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 2, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

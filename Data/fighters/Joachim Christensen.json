@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Joachim Christensen", 
+    "weight": "205", 
+    "hometown": "Copenhagen Denmark", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 91, 
+        "attempted": 219, 
+        "clinch": 26, 
+        "ground": 18, 
+        "standing": 47
+    }, 
+    "height": "6' 3\"", 
+    "record": "14-4-0", 
+    "college": "", 
+    "location": "Copenhagen Denmark", 
+    "height_cm": "190", 
+    "fullname": "Joachim Christensen", 
+    "summary": [
+        "Striking", 
+        "jiu-jitsu"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

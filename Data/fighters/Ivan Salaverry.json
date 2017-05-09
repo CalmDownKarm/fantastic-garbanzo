@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Ivan Salaverry", 
+    "weight": "185", 
+    "hometown": "Toronto, Canada USA", 
+    "age": "46", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 115, 
+        "attempted": 240, 
+        "clinch": 18, 
+        "ground": 16, 
+        "standing": 81
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "182", 
+    "fullname": "Ivan Salaverry", 
+    "summary": [
+        "Well rounded"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 10, 
+        "submissions": 10, 
+        "sweeps": 1, 
+        "passes": 8
+    }
+}

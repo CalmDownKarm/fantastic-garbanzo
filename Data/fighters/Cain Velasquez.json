@@ -1,0 +1,35 @@
+{
+    "degree": "Education", 
+    "name": "Cain Velasquez", 
+    "weight": "240", 
+    "hometown": "Yuma, Arizona USA", 
+    "age": "34", 
+    "fights": [], 
+    "weight_kg": "109", 
+    "strikes": {
+        "successful": 718, 
+        "attempted": 1246, 
+        "clinch": 195, 
+        "ground": 264, 
+        "standing": 259
+    }, 
+    "height": "6' 1\"", 
+    "record": "14-2-0", 
+    "college": "Arizona State University", 
+    "location": "San Jose, California USA", 
+    "height_cm": "185", 
+    "fullname": "Cain Velasquez", 
+    "summary": [
+        "Well-rounded", 
+        "takedowns", 
+        "power"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 34, 
+        "attempted": 80, 
+        "submissions": 3, 
+        "sweeps": 0, 
+        "passes": 30
+    }
+}

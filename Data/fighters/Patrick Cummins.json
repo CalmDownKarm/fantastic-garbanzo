@@ -1,0 +1,35 @@
+{
+    "degree": "Bachelor of Fine Arts", 
+    "name": "Patrick Cummins", 
+    "weight": "205", 
+    "hometown": "Doylestown, Pennsylvania USA", 
+    "age": "36", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 283, 
+        "attempted": 541, 
+        "clinch": 37, 
+        "ground": 155, 
+        "standing": 91
+    }, 
+    "height": "6' 2\"", 
+    "record": "8-4-0", 
+    "college": "Penn State University", 
+    "location": "Dana Point, California USA", 
+    "height_cm": "187", 
+    "fullname": "Patrick Cummins", 
+    "summary": [
+        "Strength", 
+        "cardio", 
+        "mental toughness"
+    ], 
+    "nickname": "Durkin", 
+    "takedowns": {
+        "successful": 30, 
+        "attempted": 58, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 19
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "Lodune Sincaid", 
+    "weight": "205", 
+    "hometown": "North Hollywood, California USA", 
+    "age": "", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 10, 
+        "attempted": 34, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 10
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "172", 
+    "fullname": "Lodune Sincaid", 
+    "summary": [], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

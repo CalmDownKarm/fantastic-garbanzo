@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Mike Wessel", 
+    "weight": "255", 
+    "hometown": "Celina, Ohio USA", 
+    "age": "39", 
+    "fights": [], 
+    "weight_kg": "115", 
+    "strikes": {
+        "successful": 13, 
+        "attempted": 23, 
+        "clinch": 8, 
+        "ground": 3, 
+        "standing": 2
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "182", 
+    "fullname": "Mike Wessel", 
+    "summary": [
+        "Boxing", 
+        "Strength & Conditioning"
+    ], 
+    "nickname": "The Juggernaut", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 6, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 3
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Enrique Marin", 
+    "weight": "170", 
+    "hometown": "Seville, Andalusia Spain", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 43, 
+        "attempted": 130, 
+        "clinch": 5, 
+        "ground": 2, 
+        "standing": 36
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Huntington Beach, California United States", 
+    "height_cm": "177", 
+    "fullname": "Enrique Marin", 
+    "summary": [
+        "Kickboxing", 
+        "Jiu-Jitsu"
+    ], 
+    "nickname": "Wasabi", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 13, 
+        "submissions": 2, 
+        "sweeps": 2, 
+        "passes": 4
+    }
+}

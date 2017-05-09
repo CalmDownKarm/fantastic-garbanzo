@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Deividas Taurosevicius", 
+    "weight": "145", 
+    "hometown": "Siauliai Lithuania", 
+    "age": "39", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 96, 
+        "attempted": 223, 
+        "clinch": 26, 
+        "ground": 25, 
+        "standing": 45
+    }, 
+    "height": "5' 8\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "172", 
+    "fullname": "Deividas Taurosevicius", 
+    "summary": [
+        "BJJ"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 6, 
+        "attempted": 21, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 3
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Karen Darabedyan", 
+    "weight": "155", 
+    "hometown": "Abovyan Armenia", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 72, 
+        "attempted": 139, 
+        "clinch": 6, 
+        "ground": 16, 
+        "standing": 50
+    }, 
+    "height": "5' 7\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "170", 
+    "fullname": "Karen Darabedyan", 
+    "summary": [
+        "Grappling", 
+        "Wrestling", 
+        "and Boxing"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 4, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

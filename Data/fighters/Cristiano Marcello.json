@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Cristiano Marcello", 
+    "weight": "155", 
+    "hometown": "Rio de Janeiro Brazil", 
+    "age": "39", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 170, 
+        "attempted": 507, 
+        "clinch": 17, 
+        "ground": 2, 
+        "standing": 151
+    }, 
+    "height": "5' 9\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Curitiba Brazil", 
+    "height_cm": "175", 
+    "fullname": "Cristiano Marcello", 
+    "summary": [
+        "Triangles", 
+        "armbars", 
+        "submissions"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 17, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

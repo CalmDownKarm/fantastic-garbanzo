@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Danny Mitchell", 
+    "weight": "170", 
+    "hometown": "Doncaster England", 
+    "age": "30", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 76, 
+        "attempted": 154, 
+        "clinch": 15, 
+        "ground": 7, 
+        "standing": 54
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Doncaster England", 
+    "height_cm": "187", 
+    "fullname": "Danny Mitchell", 
+    "summary": [
+        "Technical striking and submissions"
+    ], 
+    "nickname": "The Cheesecake Assassin", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 9, 
+        "submissions": 6, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

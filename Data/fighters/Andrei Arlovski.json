@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Andrei Arlovski", 
+    "weight": "240", 
+    "hometown": "Minsk Belarus", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "109", 
+    "strikes": {
+        "successful": 470, 
+        "attempted": 1167, 
+        "clinch": 102, 
+        "ground": 35, 
+        "standing": 333
+    }, 
+    "height": "6' 4\"", 
+    "record": "25-14-0, 1NC", 
+    "college": "", 
+    "location": "Chicago, Illinois USA", 
+    "height_cm": "193", 
+    "fullname": "Andrei Arlovski", 
+    "summary": [
+        "Dangerous striker", 
+        "good grappler"
+    ], 
+    "nickname": "The Pit Bull", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 7, 
+        "submissions": 5, 
+        "sweeps": 0, 
+        "passes": 4
+    }
+}

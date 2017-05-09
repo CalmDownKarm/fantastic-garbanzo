@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Mike Guymon", 
+    "weight": "170", 
+    "hometown": "Newport Beach, California USA", 
+    "age": "42", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 66, 
+        "attempted": 101, 
+        "clinch": 13, 
+        "ground": 40, 
+        "standing": 13
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "182", 
+    "fullname": "Mike Guymon", 
+    "summary": [
+        "Experience", 
+        "submissions", 
+        "punching power"
+    ], 
+    "nickname": "The Joker", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 8, 
+        "submissions": 2, 
+        "sweeps": 1, 
+        "passes": 10
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Scott Norton", 
+    "weight": "170", 
+    "hometown": "Manila Philippines", 
+    "age": "44", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 4, 
+        "attempted": 13, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 4
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "177", 
+    "fullname": "Scott Norton", 
+    "summary": [
+        "Wrestling", 
+        "submissions", 
+        "ground and pound."
+    ], 
+    "nickname": "Hollywood", 
+    "takedowns": {
+        "successful": 1, 
+        "attempted": 4, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 1
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "degree": "", 
+    "name": "Cyrille Diabate", 
+    "weight": "205", 
+    "hometown": "Celle Saint Cloud, Paris France", 
+    "age": "43", 
+    "fights": [], 
+    "weight_kg": "93", 
+    "strikes": {
+        "successful": 254, 
+        "attempted": 349, 
+        "clinch": 24, 
+        "ground": 53, 
+        "standing": 177
+    }, 
+    "height": "6' 6\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Rueil Malmaison France", 
+    "height_cm": "198", 
+    "fullname": "Cyrille \"The Snake\" Diabate", 
+    "summary": [
+        "Striking"
+    ], 
+    "nickname": "The Snake", 
+    "takedowns": {
+        "successful": 5, 
+        "attempted": 6, 
+        "submissions": 1, 
+        "sweeps": 2, 
+        "passes": 7
+    }
+}

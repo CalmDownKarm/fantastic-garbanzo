@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Jonathan Brookins", 
+    "weight": "145", 
+    "hometown": "Portland, Oregon USA", 
+    "age": "31", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 146, 
+        "attempted": 369, 
+        "clinch": 42, 
+        "ground": 32, 
+        "standing": 72
+    }, 
+    "height": "6' 0\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Orlando, FL USA", 
+    "height_cm": "182", 
+    "fullname": "Jonathan Brookins", 
+    "summary": [
+        "Speed", 
+        "intelligence"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 7, 
+        "attempted": 41, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 4
+    }
+}

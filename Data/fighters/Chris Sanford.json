@@ -1,0 +1,31 @@
+{
+    "degree": "", 
+    "name": "Chris Sanford", 
+    "weight": "", 
+    "hometown": "", 
+    "age": "", 
+    "fights": [], 
+    "weight_kg": "", 
+    "strikes": {
+        "successful": 1, 
+        "attempted": 2, 
+        "clinch": null, 
+        "ground": null, 
+        "standing": 1
+    }, 
+    "height": "", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "", 
+    "fullname": "Chris Sanford", 
+    "summary": [], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 0, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

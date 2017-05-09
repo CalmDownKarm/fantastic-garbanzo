@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Donald Cerrone", 
+    "weight": "170", 
+    "hometown": "Denver, Colorado United States", 
+    "age": "33", 
+    "fights": [], 
+    "weight_kg": "77", 
+    "strikes": {
+        "successful": 1337, 
+        "attempted": 2794, 
+        "clinch": 115, 
+        "ground": 127, 
+        "standing": 1095
+    }, 
+    "height": "6' 1\"", 
+    "record": "32-8-0, 1NC", 
+    "college": "", 
+    "location": "Albuquerque, New Mexico United States", 
+    "height_cm": "185", 
+    "fullname": "Donald 'Cowboy' Cerrone", 
+    "summary": [
+        "Striking", 
+        "submissions", 
+        "Muay Thai"
+    ], 
+    "nickname": "Cowboy", 
+    "takedowns": {
+        "successful": 29, 
+        "attempted": 69, 
+        "submissions": 35, 
+        "sweeps": 3, 
+        "passes": 37
+    }
+}

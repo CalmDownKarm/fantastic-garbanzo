@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Paul Felder", 
+    "weight": "155", 
+    "hometown": "Philadelphia, Pennsylvania United States", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 334, 
+        "attempted": 816, 
+        "clinch": 58, 
+        "ground": 52, 
+        "standing": 224
+    }, 
+    "height": "5' 11\"", 
+    "record": "13-3-0", 
+    "college": "", 
+    "location": "Philadelphia, Pennsylvania United States", 
+    "height_cm": "180", 
+    "fullname": "Paul Felder", 
+    "summary": [
+        "Kicking game", 
+        "pressure"
+    ], 
+    "nickname": "The Irish Dragon", 
+    "takedowns": {
+        "successful": 3, 
+        "attempted": 8, 
+        "submissions": 3, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Alan Belcher", 
+    "weight": "185", 
+    "hometown": "Jonesboro, Arkansas USA", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "84", 
+    "strikes": {
+        "successful": 372, 
+        "attempted": 889, 
+        "clinch": 58, 
+        "ground": 62, 
+        "standing": 252
+    }, 
+    "height": "6' 2\"", 
+    "record": "", 
+    "college": "", 
+    "location": "Biloxi, Mississippi USA", 
+    "height_cm": "187", 
+    "fullname": "Alan \"The Talent\" Belcher", 
+    "summary": [
+        "Well-rounded", 
+        "good conditioning", 
+        "experienced"
+    ], 
+    "nickname": "The Talent", 
+    "takedowns": {
+        "successful": 4, 
+        "attempted": 15, 
+        "submissions": 8, 
+        "sweeps": 2, 
+        "passes": 9
+    }
+}

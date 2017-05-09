@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Ian Freeman", 
+    "weight": "220", 
+    "hometown": "Sunderland, England UK", 
+    "age": "50", 
+    "fights": [], 
+    "weight_kg": "99", 
+    "strikes": {
+        "successful": 53, 
+        "attempted": 109, 
+        "clinch": 19, 
+        "ground": 25, 
+        "standing": 9
+    }, 
+    "height": "5' 11\"", 
+    "record": "", 
+    "college": "", 
+    "location": "", 
+    "height_cm": "180", 
+    "fullname": "Ian Freeman", 
+    "summary": [
+        "Powerful puncher", 
+        "comfortable on the ground"
+    ], 
+    "nickname": "The Machine", 
+    "takedowns": {
+        "successful": 2, 
+        "attempted": 5, 
+        "submissions": 1, 
+        "sweeps": 1, 
+        "passes": 0
+    }
+}

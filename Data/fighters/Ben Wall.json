@@ -1,0 +1,33 @@
+{
+    "degree": "Bachelor of Human Movement", 
+    "name": "Ben Wall", 
+    "weight": "155", 
+    "hometown": "Albury, NSW Australia", 
+    "age": "27", 
+    "fights": [], 
+    "weight_kg": "70", 
+    "strikes": {
+        "successful": 5, 
+        "attempted": 17, 
+        "clinch": 3, 
+        "ground": null, 
+        "standing": 2
+    }, 
+    "height": "5' 10\"", 
+    "record": "", 
+    "college": "UQLD", 
+    "location": "Brisbane, Queensland Australia", 
+    "height_cm": "177", 
+    "fullname": "Ben Wall", 
+    "summary": [
+        "Top game"
+    ], 
+    "nickname": "Manimal", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 1, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

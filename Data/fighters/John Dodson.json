@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "John Dodson", 
+    "weight": "135", 
+    "hometown": "Albuquerque, New Mexico USA", 
+    "age": "32", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 438, 
+        "attempted": 1074, 
+        "clinch": 65, 
+        "ground": 21, 
+        "standing": 352
+    }, 
+    "height": "5' 3\"", 
+    "record": "19-8-0", 
+    "college": "", 
+    "location": "Albuquerque, New Mexico USA", 
+    "height_cm": "160", 
+    "fullname": "John \"The Magician\" Dodson", 
+    "summary": [
+        "Speed", 
+        "fast hands and feet", 
+        "explosive"
+    ], 
+    "nickname": "The Magician", 
+    "takedowns": {
+        "successful": 7, 
+        "attempted": 24, 
+        "submissions": 0, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}

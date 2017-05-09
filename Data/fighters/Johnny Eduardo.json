@@ -1,0 +1,34 @@
+{
+    "degree": "", 
+    "name": "Johnny Eduardo", 
+    "weight": "135", 
+    "hometown": "Rio de Janeiro Brazil", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "61", 
+    "strikes": {
+        "successful": 120, 
+        "attempted": 337, 
+        "clinch": 5, 
+        "ground": 10, 
+        "standing": 105
+    }, 
+    "height": "5' 7\"", 
+    "record": "28-10-0", 
+    "college": "", 
+    "location": "Rio de Janeiro Brazil", 
+    "height_cm": "170", 
+    "fullname": "Johnny Eduardo", 
+    "summary": [
+        "Striking", 
+        "rear naked choke"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 3, 
+        "submissions": 1, 
+        "sweeps": 0, 
+        "passes": 0
+    }
+}

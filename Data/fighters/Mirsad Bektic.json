@@ -1,0 +1,35 @@
+{
+    "degree": "", 
+    "name": "Mirsad Bektic", 
+    "weight": "145", 
+    "hometown": "Srebrenica Bosnia", 
+    "age": "26", 
+    "fights": [], 
+    "weight_kg": "65", 
+    "strikes": {
+        "successful": 164, 
+        "attempted": 323, 
+        "clinch": 9, 
+        "ground": 103, 
+        "standing": 52
+    }, 
+    "height": "5' 8\"", 
+    "record": "11-1-0", 
+    "college": "", 
+    "location": "Coconut Creek, Florida United States", 
+    "height_cm": "172", 
+    "fullname": "Mirsad Bektic", 
+    "summary": [
+        "Wrestling", 
+        "boxing", 
+        "conditioning"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 15, 
+        "attempted": 28, 
+        "submissions": 2, 
+        "sweeps": 1, 
+        "passes": 27
+    }
+}

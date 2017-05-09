@@ -1,0 +1,35 @@
+{
+    "degree": "Law & Societies", 
+    "name": "Matt Mitrione", 
+    "weight": "265", 
+    "hometown": "Bloomington, Illinois USA", 
+    "age": "38", 
+    "fights": [], 
+    "weight_kg": "120", 
+    "strikes": {
+        "successful": 313, 
+        "attempted": 625, 
+        "clinch": 30, 
+        "ground": 48, 
+        "standing": 235
+    }, 
+    "height": "6' 3\"", 
+    "record": "", 
+    "college": "Purdue University", 
+    "location": "Indianapolis, Indiana USA", 
+    "height_cm": "190", 
+    "fullname": "Matt Mitrione", 
+    "summary": [
+        "Strong", 
+        "quick", 
+        "kinda crazy"
+    ], 
+    "nickname": "", 
+    "takedowns": {
+        "successful": 0, 
+        "attempted": 2, 
+        "submissions": 4, 
+        "sweeps": 0, 
+        "passes": 2
+    }
+}
