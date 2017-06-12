@@ -51,7 +51,7 @@ def create_dict(indict):
 
 
 def readfile(inputstr, header,flag=False):
-  print "in readFile"
+  print ("n readFile")
   try:
     with open(header + inputstr) as datafile:
       herp = json.load(datafile)
@@ -66,7 +66,7 @@ def readfile(inputstr, header,flag=False):
     return
 
 def EditDict(indict):
-  print "in EditDict"
+  print ("in EditDict")
   bluefighterstring = str(indict['Event_ID'])+str('_')+str(indict['Fight_ID'])+str('_')+ str(indict['B_ID'])+'.json'
   redfighterstring = str(indict['Event_ID'])+str('_')+str(indict['Fight_ID'])+str('_')+ str(indict['R_ID'])+'.json'
   blue_fighter_dict = readfile(bluefighterstring,'./Data/Fights_Fighter/')
@@ -108,7 +108,7 @@ def EditDict(indict):
   val = red_fighter_dict['Record']
   red_fighter_dict['RRecord'] = val
   red_fighter_dict['RPrev'] = count_prev(red_fighter_dict['RRecord'])
-  blue_fighter_dict['RStreak'] = count_consecutive(red_fighter_dict['RRecord'])
+  red_fighter_dict['RStreak'] = count_consecutive(red_fighter_dict['RRecord'])
   red_fighter_dict.pop('Record',None)
   red_fighter_dict.pop('RRecord',None)
   red_fighter_dict.pop('Fighter',None)
@@ -143,4 +143,4 @@ flatteneddicts = map(flatten,updatedDicts)
 df = pd.DataFrame.from_records(flatteneddicts)
 df.to_csv('./Data/finalout.csv',index=False, encoding='utf-8')
 for x in errors:
-  print x
+  print(x)
